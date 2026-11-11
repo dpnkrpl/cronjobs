@@ -1,0 +1,46 @@
+name: Stock market scrapers
+
+on:
+  schedule:
+    # 16:00 Asia/Kolkata is 10:30 UTC; GitHub Actions schedules use UTC.
+    - cron: "30 10 * * 1-5"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: stock-market-scrapers
+  cancel-in-progress: false
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Run stock market scrapers
+        run: |
+          python stock_market/scraper/top_gainer_looser_from_groww.py
+          python stock_market/scraper/bulk_deals_from_nse.py
+          python stock_market/scraper/financial_results_from_nse.py
+
+      - name: Commit updated market data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add stock_market/data/top_gainers_loosers_from_groww.json \
+            stock_market/data/bulk_deals_from_nse.json \
+            stock_market/data/financial_results_from_nse.json
+          if git diff --cached --quiet; then
+            echo "No market data changes to commit."
+            exit 0
+          fi
+          git commit -m "Update stock market data"
+          git push
