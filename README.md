@@ -29,10 +29,33 @@ scraper output and errors are appended to
 network access to Groww.
 
 The [Stock market scrapers GitHub Actions workflow](.github/workflows/stock-market-scrapers.yml)
-runs all three scrapers on the same weekday 4:00 PM India schedule
+runs all four scrapers on the same weekday 4:00 PM India schedule
 (10:30 UTC), commits changed JSON data, and can also be started manually from
 the Actions tab. Repository Actions must be enabled, and the workflow's
 `GITHUB_TOKEN` must be allowed to write contents for its data commits.
+
+## Groww trending-sector history
+
+`stock_market/scraper/trending_sector_from_groww.py` collects Groww's trending
+sectors from
+[`https://groww.in/stocks/sectors-trending`](https://groww.in/stocks/sectors-trending)
+and writes daily market snapshots to
+[`stock_market/data/trending_sectors_from_groww.json`](stock_market/data/trending_sectors_from_groww.json).
+Snapshots include the sector's rank, constituent breadth, and day-change
+percentage. The scraper runs at 4:00 PM Asia/Kolkata, after the regular market
+close, retains the current date and previous 14 calendar dates, and skips
+unchanged sector data to avoid duplicate/holiday records. A changed snapshot
+for the same date replaces that date's entry.
+
+Run it manually with:
+
+```sh
+python3 stock_market/scraper/trending_sector_from_groww.py
+```
+
+Its weekday 4:00 PM Asia/Kolkata cron entry logs to
+`stock_market/scraper/groww_trending_sectors_scraper.log`; it also runs in the
+stock-market GitHub Actions workflow.
 
 ## NSE bulk-deal history
 

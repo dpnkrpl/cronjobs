@@ -4,5 +4,6 @@ CRONJOBS_ROOT=/absolute/path/to/cronjobs
 CRON_TZ=Asia/Kolkata
 
 0 16 * * 1-5 /usr/bin/python3 "$CRONJOBS_ROOT/stock_market/scraper/top_gainer_looser_from_groww.py" >> "$CRONJOBS_ROOT/stock_market/scraper/groww_scraper.log" 2>&1
+0 16 * * 1-5 /usr/bin/python3 "$CRONJOBS_ROOT/stock_market/scraper/trending_sector_from_groww.py" >> "$CRONJOBS_ROOT/stock_market/scraper/groww_trending_sectors_scraper.log" 2>&1
 0 16 * * 1-5 /usr/bin/python3 "$CRONJOBS_ROOT/stock_market/scraper/bulk_deals_from_nse.py" >> "$CRONJOBS_ROOT/stock_market/scraper/nse_bulk_deals_scraper.log" 2>&1
 0 16 * * 1-5 /usr/bin/python3 "$CRONJOBS_ROOT/stock_market/scraper/financial_results_from_nse.py" >> "$CRONJOBS_ROOT/stock_market/scraper/nse_financial_results_scraper.log" 2>&1
