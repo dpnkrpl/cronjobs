@@ -7,7 +7,7 @@
     "dates": 15,
     "policy": "Keep the 15 most recent dates reported in the bulk-deals table."
   },
-  "updated_at": "2026-11-11T23:30:09+05:30",
+  "updated_at": "2026-11-12T21:47:30+05:30",
   "data": [
     {
       "deal_date": "2026-11-11",
@@ -723,6 +723,1354 @@
           "buy_sell": "SELL",
           "quantity": 761303,
           "weighted_average_trade_price": 427.39,
+          "remarks": "-"
+        }
+      ]
+    },
+    {
+      "deal_date": "2026-11-12",
+      "captured_at": "2026-11-12T21:47:30+05:30",
+      "source_url": "https://www.nseindia.com/market-data/large-deals",
+      "count": 134,
+      "deals": [
+        {
+          "deal_date": "2026-11-12",
+          "symbol": "AONESTEELS",
+          "company_name": "A-One Steels India Ltd",
+          "client_name": "BULLPULSE MARKETEDGE PRIVATE LIMITED",
+          "buy_sell": "SELL",
+          "quantity": 458343,
+          "weighted_average_trade_price": 436.65,
+          "remarks": "-"
+        },
+        {
+          "deal_date": "2026-11-12",
+          "symbol": "APEX",
+          "company_name": "Apex Frozen Foods Limited",
+          "client_name": "MICROCURVES TRADING PRIVATE LIMITED",
+          "buy_sell": "SELL",
+          "quantity": 303377,
+          "weighted_average_trade_price": 348.49,
+          "remarks": "-"
+        },
+        {
+          "deal_date": "2026-11-12",
+          "symbol": "APEX",
+          "company_name": "Apex Frozen Foods Limited",
+          "client_name": "ALPHAGREP SECURITIES PRIVATE LIMITED",
+          "buy_sell": "SELL",
+          "quantity": 360185,
+          "weighted_average_trade_price": 349.49,
+          "remarks": "-"
+        },
+        {
+          "deal_date": "2026-11-12",
+          "symbol": "APEX",
+          "company_name": "Apex Frozen Foods Limited",
+          "client_name": "QE SECURITIES LLP",
+          "buy_sell": "SELL",
+          "quantity": 190253,
+          "weighted_average_trade_price": 347.09,
+          "remarks": "-"
+        },
+        {
+          "deal_date": "2026-11-12",
+          "symbol": "APEX",
+          "company_name": "Apex Frozen Foods Limited",
+          "client_name": "JUNOMONETA FINSOL PRIVATE LIMITED",
+          "buy_sell": "SELL",
+          "quantity": 175059,
+          "weighted_average_trade_price": 348.77,
+          "remarks": "-"
+        },
+        {
+          "deal_date": "2026-11-12",
+          "symbol": "APEX",
+          "company_name": "Apex Frozen Foods Limited",
+          "client_name": "NK SECURITIES RESEARCH PRIVATE LIMITED",
+          "buy_sell": "SELL",
+          "quantity": 188266,
+          "weighted_average_trade_price": 348.6,
+          "remarks": "-"
+        },
+        {
+          "deal_date": "2026-11-12",
+          "symbol": "AVANTIFEED",
+          "company_name": "Avanti Feeds Limited",
+          "client_name": "QE SECURITIES LLP",
+          "buy_sell": "SELL",
+          "quantity": 693797,
+          "weighted_average_trade_price": 765.58,
+          "remarks": "-"
+        },
+        {
+          "deal_date": "2026-11-12",
+          "symbol": "CONTROLPR",
+          "company_name": "Control Print Limited",
+          "client_name": "INDIA MAX INVESTMENT FUND LIMITED",
+          "buy_sell": "SELL",
+          "quantity": 250000,
+          "weighted_average_trade_price": 610,
+          "remarks": "-"
+        },
+        {
+          "deal_date": "2026-11-12",
+          "symbol": "DCXINDIA",
+          "company_name": "DCX Systems Limited",
+          "client_name": "ELIXIR WEALTH MANAGEMENT PRIVATE LIMITED",
+          "buy_sell": "SELL",
+          "quantity": 1249852,
+          "weighted_average_trade_price": 162.13,
+          "remarks": "-"
+        },
+        {
+          "deal_date": "2026-11-12",
+          "symbol": "DCXINDIA",
+          "company_name": "DCX Systems Limited",
+          "client_name": "BLITZQUANT RESEARCH LLP",
+          "buy_sell": "SELL",
+          "quantity": 774955,
+          "weighted_average_trade_price": 163.35,
+          "remarks": "-"
+        },
+        {
+          "deal_date": "2026-11-12",
+          "symbol": "DCXINDIA",
+          "company_name": "DCX Systems Limited",
+          "client_name": "MICROCURVES TRADING PRIVATE LIMITED",
+          "buy_sell": "SELL",
+          "quantity": 1977945,
+          "weighted_average_trade_price": 162.16,
+          "remarks": "-"
+        },
+        {
+          "deal_date": "2026-11-12",
+          "symbol": "DCXINDIA",
+          "company_name": "DCX Systems Limited",
+          "client_name": "PUMA SECURITIES",
+          "buy_sell": "SELL",
+          "quantity": 622155,
+          "weighted_average_trade_price": 162.99,
+          "remarks": "-"
+        },
+        {
+          "deal_date": "2026-11-12",
+          "symbol": "DCXINDIA",
+          "company_name": "DCX Systems Limited",
+          "client_name": "QE SECURITIES LLP",
+          "buy_sell": "SELL",
+          "quantity": 2018766,
+          "weighted_average_trade_price": 162.11,
+          "remarks": "-"
+        },
+        {
+          "deal_date": "2026-11-12",
+          "symbol": "DCXINDIA",
+          "company_name": "DCX Systems Limited",
+          "client_name": "MUSIGMA SECURITIES",
+          "buy_sell": "SELL",
+          "quantity": 616393,
+          "weighted_average_trade_price": 162.99,
+          "remarks": "-"
+        },
+        {
+          "deal_date": "2026-11-12",
+          "symbol": "DCXINDIA",
+          "company_name": "DCX Systems Limited",
+          "client_name": "DIPAN MEHTA COMMODITIES PRIVATE LIMITED",
+          "buy_sell": "SELL",
+          "quantity": 650069,
+          "weighted_average_trade_price": 162.75,
+          "remarks": "-"
+        },
+        {
+          "deal_date": "2026-11-12",
+          "symbol": "DCXINDIA",
+          "company_name": "DCX Systems Limited",
+          "client_name": "IMC INDIA SECURITIES PRIVATE LIMITED",
+          "buy_sell": "SELL",
+          "quantity": 549055,
+          "weighted_average_trade_price": 161.79,
+          "remarks": "-"
+        },
+        {
+          "deal_date": "2026-11-12",
+          "symbol": "DCXINDIA",
+          "company_name": "DCX Systems Limited",
+          "client_name": "MARWADI SHARES AND FINANCE LTD.",
+          "buy_sell": "SELL",
+          "quantity": 601827,
+          "weighted_average_trade_price": 162.5,
+          "remarks": "-"
+        },
+        {
+          "deal_date": "2026-11-12",
+          "symbol": "DCXINDIA",
+          "company_name": "DCX Systems Limited",
+          "client_name": "KRISH NATVARBHAI PATEL",
+          "buy_sell": "SELL",
+          "quantity": 710416,
+          "weighted_average_trade_price": 160.51,
+          "remarks": "-"
+        },
+        {
+          "deal_date": "2026-11-12",
+          "symbol": "DCXINDIA",
+          "company_name": "DCX Systems Limited",
+          "client_name": "JUMP TRADING FINANCIAL INDIA PRIVATE LIMITED",
+          "buy_sell": "SELL",
+          "quantity": 565501,
+          "weighted_average_trade_price": 163.63,
+          "remarks": "-"
+        },
+        {
+          "deal_date": "2026-11-12",
+          "symbol": "DCXINDIA",
+          "company_name": "DCX Systems Limited",
+          "client_name": "JUNOMONETA FINSOL PRIVATE LIMITED",
+          "buy_sell": "SELL",
+          "quantity": 1569002,
+          "weighted_average_trade_price": 162.14,
+          "remarks": "-"
+        },
+        {
+          "deal_date": "2026-11-12",
+          "symbol": "DCXINDIA",
+          "company_name": "DCX Systems Limited",
+          "client_name": "ALPHAGREP SECURITIES PRIVATE LIMITED",
+          "buy_sell": "SELL",
+          "quantity": 2665777,
+          "weighted_average_trade_price": 162.17,
+          "remarks": "-"
+        },
+        {
+          "deal_date": "2026-11-12",
+          "symbol": "DCXINDIA",
+          "company_name": "DCX Systems Limited",
+          "client_name": "NK SECURITIES RESEARCH PRIVATE LIMITED",
+          "buy_sell": "SELL",
+          "quantity": 2083915,
+          "weighted_average_trade_price": 162.18,
+          "remarks": "-"
+        },
+        {
+          "deal_date": "2026-11-12",
+          "symbol": "DCXINDIA",
+          "company_name": "DCX Systems Limited",
+          "client_name": "IRAGE BROKING SERVICES LLP",
+          "buy_sell": "SELL",
+          "quantity": 779997,
+          "weighted_average_trade_price": 162.85,
+          "remarks": "-"
+        },
+        {
+          "deal_date": "2026-11-12",
+          "symbol": "FLYSBS",
+          "company_name": "FlySBS Aviation Limited",
+          "client_name": "MANSI SHARE AND STOCK BROKING PRIVATE LIMITED",
+          "buy_sell": "SELL",
+          "quantity": 22400,
+          "weighted_average_trade_price": 625.44,
+          "remarks": "-"
+        },
+        {
+          "deal_date": "2026-11-12",
+          "symbol": "GALLANTT",
+          "company_name": "Gallantt Ispat Limited",
+          "client_name": "DINESH R AGARWAL",
+          "buy_sell": "SELL",
+          "quantity": 4000000,
+          "weighted_average_trade_price": 503,
+          "remarks": "-"
+        },
+        {
+          "deal_date": "2026-11-12",
+          "symbol": "GRANULES",
+          "company_name": "Granules India Limited",
+          "client_name": "SAUMIK KETANKUMAR DOSHI",
+          "buy_sell": "SELL",
+          "quantity": 1039512,
+          "weighted_average_trade_price": 821.12,
+          "remarks": "-"
+        },
+        {
+          "deal_date": "2026-11-12",
+          "symbol": "JARO",
+          "company_name": "Jaro Ins of Tec Mg N Re L",
+          "client_name": "VITHALBHAI BACHUBHAI KAPURIYA HUF",
+          "buy_sell": "SELL",
+          "quantity": 105324,
+          "weighted_average_trade_price": 394.22,
+          "remarks": "-"
+        },
+        {
+          "deal_date": "2026-11-12",
+          "symbol": "JARO",
+          "company_name": "Jaro Ins of Tec Mg N Re L",
+          "client_name": "VINSUL MAKARDI LTD",
+          "buy_sell": "SELL",
+          "quantity": 159521,
+          "weighted_average_trade_price": 393.9,
+          "remarks": "-"
+        },
+        {
+          "deal_date": "2026-11-12",
+          "symbol": "JARO",
+          "company_name": "Jaro Ins of Tec Mg N Re L",
+          "client_name": "MARWADI SHARES AND FINANCE LTD.",
+          "buy_sell": "SELL",
+          "quantity": 116405,
+          "weighted_average_trade_price": 392.08,
+          "remarks": "-"
+        },
+        {
+          "deal_date": "2026-11-12",
+          "symbol": "JARO",
+          "company_name": "Jaro Ins of Tec Mg N Re L",
+          "client_name": "NK SECURITIES RESEARCH PRIVATE LIMITED",
+          "buy_sell": "SELL",
+          "quantity": 313686,
+          "weighted_average_trade_price": 394.48,
+          "remarks": "-"
+        },
+        {
+          "deal_date": "2026-11-12",
+          "symbol": "JARO",
+          "company_name": "Jaro Ins of Tec Mg N Re L",
+          "client_name": "QICAP MARKETS LLP",
+          "buy_sell": "SELL",
+          "quantity": 132880,
+          "weighted_average_trade_price": 387.17,
+          "remarks": "-"
+        },
+        {
+          "deal_date": "2026-11-12",
+          "symbol": "JARO",
+          "company_name": "Jaro Ins of Tec Mg N Re L",
+          "client_name": "MICROCURVES TRADING PRIVATE LIMITED",
+          "buy_sell": "SELL",
+          "quantity": 435293,
+          "weighted_average_trade_price": 394,
+          "remarks": "-"
+        },
+        {
+          "deal_date": "2026-11-12",
+          "symbol": "JARO",
+          "company_name": "Jaro Ins of Tec Mg N Re L",
+          "client_name": "JUNOMONETA FINSOL PRIVATE LIMITED",
+          "buy_sell": "SELL",
+          "quantity": 338386,
+          "weighted_average_trade_price": 392.42,
+          "remarks": "-"
+        },
+        {
+          "deal_date": "2026-11-12",
+          "symbol": "JARO",
+          "company_name": "Jaro Ins of Tec Mg N Re L",
+          "client_name": "IRAGE BROKING SERVICES LLP",
+          "buy_sell": "SELL",
+          "quantity": 370428,
+          "weighted_average_trade_price": 394.15,
+          "remarks": "-"
+        },
+        {
+          "deal_date": "2026-11-12",
+          "symbol": "JARO",
+          "company_name": "Jaro Ins of Tec Mg N Re L",
+          "client_name": "GRT STRATEGIC VENTURES LLP",
+          "buy_sell": "SELL",
+          "quantity": 117939,
+          "weighted_average_trade_price": 396.31,
+          "remarks": "-"
+        },
+        {
+          "deal_date": "2026-11-12",
+          "symbol": "JARO",
+          "company_name": "Jaro Ins of Tec Mg N Re L",
+          "client_name": "ALPHAGREP SECURITIES PRIVATE LIMITED",
+          "buy_sell": "SELL",
+          "quantity": 477678,
+          "weighted_average_trade_price": 390.89,
+          "remarks": "-"
+        },
+        {
+          "deal_date": "2026-11-12",
+          "symbol": "JYOTISTRUC",
+          "company_name": "Jyoti Structures Ltd",
+          "client_name": "QE SECURITIES LLP",
+          "buy_sell": "SELL",
+          "quantity": 7370137,
+          "weighted_average_trade_price": 13.36,
+          "remarks": "-"
+        },
+        {
+          "deal_date": "2026-11-12",
+          "symbol": "KALYANKJIL",
+          "company_name": "Kalyan Jewellers Ind Ltd",
+          "client_name": "GRAVITON RESEARCH CAPITAL LLP",
+          "buy_sell": "SELL",
+          "quantity": 5321168,
+          "weighted_average_trade_price": 702.81,
+          "remarks": "-"
+        },
+        {
+          "deal_date": "2026-11-12",
+          "symbol": "MANAKCOAT",
+          "company_name": "Man Coat Metal & Ind Ltd",
+          "client_name": "LONGTHRIVE CAPITAL VCC - TRENDVIEW CAPITAL FUND",
+          "buy_sell": "SELL",
+          "quantity": 799999,
+          "weighted_average_trade_price": 173.35,
+          "remarks": "-"
+        },
+        {
+          "deal_date": "2026-11-12",
+          "symbol": "MANAKCOAT",
+          "company_name": "Man Coat Metal & Ind Ltd",
+          "client_name": "ARIHANT CAPITAL MARKETS LIMITED",
+          "buy_sell": "SELL",
+          "quantity": 1023809,
+          "weighted_average_trade_price": 176.81,
+          "remarks": "-"
+        },
+        {
+          "deal_date": "2026-11-12",
+          "symbol": "MARSONS",
+          "company_name": "Marsons Limited",
+          "client_name": "ARIHANT CAPITAL MARKETS LIMITED",
+          "buy_sell": "SELL",
+          "quantity": 995534,
+          "weighted_average_trade_price": 153.69,
+          "remarks": "-"
+        },
+        {
+          "deal_date": "2026-11-12",
+          "symbol": "MARSONS",
+          "company_name": "Marsons Limited",
+          "client_name": "PROGNOSIS SECURITIES PVT. LTD",
+          "buy_sell": "SELL",
+          "quantity": 889000,
+          "weighted_average_trade_price": 153,
+          "remarks": "-"
+        },
+        {
+          "deal_date": "2026-11-12",
+          "symbol": "MKJEWELS",
+          "company_name": "MK Sons Fine Jewels Ltd",
+          "client_name": "VIKRAMKUMAR KARANRAJ SAKARIA HUF",
+          "buy_sell": "SELL",
+          "quantity": 299126,
+          "weighted_average_trade_price": 168.03,
+          "remarks": "-"
+        },
+        {
+          "deal_date": "2026-11-12",
+          "symbol": "MOMSBELIEF",
+          "company_name": "Rays of Belief Limited",
+          "client_name": "SETU SECURITIES PVT LTD",
+          "buy_sell": "SELL",
+          "quantity": 123121,
+          "weighted_average_trade_price": 307.05,
+          "remarks": "-"
+        },
+        {
+          "deal_date": "2026-11-12",
+          "symbol": "MOMSBELIEF",
+          "company_name": "Rays of Belief Limited",
+          "client_name": "ALPHAGREP SECURITIES PRIVATE LIMITED",
+          "buy_sell": "SELL",
+          "quantity": 107851,
+          "weighted_average_trade_price": 293.85,
+          "remarks": "-"
+        },
+        {
+          "deal_date": "2026-11-12",
+          "symbol": "MOMSBELIEF",
+          "company_name": "Rays of Belief Limited",
+          "client_name": "HRTI PRIVATE LIMITED",
+          "buy_sell": "SELL",
+          "quantity": 106107,
+          "weighted_average_trade_price": 290.48,
+          "remarks": "-"
+        },
+        {
+          "deal_date": "2026-11-12",
+          "symbol": "MOS",
+          "company_name": "Mos Utility Limited",
+          "client_name": "HARDIK MILANBHAI MITHANI (HUF)",
+          "buy_sell": "SELL",
+          "quantity": 1504000,
+          "weighted_average_trade_price": 8.4,
+          "remarks": "-"
+        },
+        {
+          "deal_date": "2026-11-12",
+          "symbol": "MOS",
+          "company_name": "Mos Utility Limited",
+          "client_name": "KULDEEP BHARATBHAI KHACHAR",
+          "buy_sell": "SELL",
+          "quantity": 1312000,
+          "weighted_average_trade_price": 8.19,
+          "remarks": "-"
+        },
+        {
+          "deal_date": "2026-11-12",
+          "symbol": "NECCLTD",
+          "company_name": "North East Carry Corp Ltd",
+          "client_name": "ANKITA VISHAL SHAH",
+          "buy_sell": "SELL",
+          "quantity": 1175695,
+          "weighted_average_trade_price": 20.15,
+          "remarks": "-"
+        },
+        {
+          "deal_date": "2026-11-12",
+          "symbol": "NECCLTD",
+          "company_name": "North East Carry Corp Ltd",
+          "client_name": "PRAJAL BHANDARI",
+          "buy_sell": "SELL",
+          "quantity": 318279,
+          "weighted_average_trade_price": 20.57,
+          "remarks": "-"
+        },
+        {
+          "deal_date": "2026-11-12",
+          "symbol": "NIBL",
+          "company_name": "NRB Indus. Bearings Ltd.",
+          "client_name": "ORION STOCKS LTD",
+          "buy_sell": "SELL",
+          "quantity": 139135,
+          "weighted_average_trade_price": 34.79,
+          "remarks": "-"
+        },
+        {
+          "deal_date": "2026-11-12",
+          "symbol": "RADIOWALLA",
+          "company_name": "Radiowalla Network Ltd",
+          "client_name": "SS CORPORATE SECURITIES LIMITED",
+          "buy_sell": "SELL",
+          "quantity": 40000,
+          "weighted_average_trade_price": 21.85,
+          "remarks": "-"
+        },
+        {
+          "deal_date": "2026-11-12",
+          "symbol": "RANEHOLDIN",
+          "company_name": "Rane Holdings Limited",
+          "client_name": "ALPHAGREP SECURITIES PRIVATE LIMITED",
+          "buy_sell": "SELL",
+          "quantity": 92556,
+          "weighted_average_trade_price": 1670.38,
+          "remarks": "-"
+        },
+        {
+          "deal_date": "2026-11-12",
+          "symbol": "RANEHOLDIN",
+          "company_name": "Rane Holdings Limited",
+          "client_name": "MICROCURVES TRADING PRIVATE LIMITED",
+          "buy_sell": "SELL",
+          "quantity": 85613,
+          "weighted_average_trade_price": 1670.58,
+          "remarks": "-"
+        },
+        {
+          "deal_date": "2026-11-12",
+          "symbol": "SHINDL",
+          "company_name": "Sharat Industries Ltd.",
+          "client_name": "MINERVA VENTURES FUND",
+          "buy_sell": "SELL",
+          "quantity": 199292,
+          "weighted_average_trade_price": 136.05,
+          "remarks": "-"
+        },
+        {
+          "deal_date": "2026-11-12",
+          "symbol": "STLNETWORK",
+          "company_name": "STL Networks Limited",
+          "client_name": "RAMDOOT REALTORS PVT LTD",
+          "buy_sell": "SELL",
+          "quantity": 2092720,
+          "weighted_average_trade_price": 45.73,
+          "remarks": "-"
+        },
+        {
+          "deal_date": "2026-11-12",
+          "symbol": "TECHNOCRAF",
+          "company_name": "Technocraft Ventures Ltd",
+          "client_name": "VENUS INVESTMENTS VCC - VENUS STELLAR FUND",
+          "buy_sell": "SELL",
+          "quantity": 355250,
+          "weighted_average_trade_price": 488.61,
+          "remarks": "-"
+        },
+        {
+          "deal_date": "2026-11-12",
+          "symbol": "TECHNOCRAF",
+          "company_name": "Technocraft Ventures Ltd",
+          "client_name": "ACME CAPITAL MARKET LIMITED",
+          "buy_sell": "SELL",
+          "quantity": 302339,
+          "weighted_average_trade_price": 498.2,
+          "remarks": "-"
+        },
+        {
+          "deal_date": "2026-11-12",
+          "symbol": "TECHNOCRAF",
+          "company_name": "Technocraft Ventures Ltd",
+          "client_name": "SANKALP  FINANCE",
+          "buy_sell": "SELL",
+          "quantity": 200000,
+          "weighted_average_trade_price": 497.16,
+          "remarks": "-"
+        },
+        {
+          "deal_date": "2026-11-12",
+          "symbol": "TECHNOCRAF",
+          "company_name": "Technocraft Ventures Ltd",
+          "client_name": "BULLPULSE MARKETEDGE PRIVATE LIMITED",
+          "buy_sell": "SELL",
+          "quantity": 200000,
+          "weighted_average_trade_price": 497.34,
+          "remarks": "-"
+        },
+        {
+          "deal_date": "2026-11-12",
+          "symbol": "URBAN",
+          "company_name": "Urban Enviro Waste Mgmt L",
+          "client_name": "PRATIK GAJADHAR MANDHANA",
+          "buy_sell": "SELL",
+          "quantity": 47200,
+          "weighted_average_trade_price": 97.98,
+          "remarks": "-"
+        },
+        {
+          "deal_date": "2026-11-12",
+          "symbol": "AAATECH",
+          "company_name": "AAA Technologies Limited",
+          "client_name": "VAIBHAV RAJENDRA DOSHI",
+          "buy_sell": "BUY",
+          "quantity": 85343,
+          "weighted_average_trade_price": 90.56,
+          "remarks": "-"
+        },
+        {
+          "deal_date": "2026-11-12",
+          "symbol": "ADROITIND",
+          "company_name": "Adroit Industries (I) Ltd",
+          "client_name": "QE SECURITIES LLP",
+          "buy_sell": "BUY",
+          "quantity": 253995,
+          "weighted_average_trade_price": 196.78,
+          "remarks": "-"
+        },
+        {
+          "deal_date": "2026-11-12",
+          "symbol": "ADROITIND",
+          "company_name": "Adroit Industries (I) Ltd",
+          "client_name": "ALPHAGREP SECURITIES PRIVATE LIMITED",
+          "buy_sell": "BUY",
+          "quantity": 275923,
+          "weighted_average_trade_price": 196.91,
+          "remarks": "-"
+        },
+        {
+          "deal_date": "2026-11-12",
+          "symbol": "ANTGRAPHIC",
+          "company_name": "Antarctica Graphics Ltd",
+          "client_name": "K HEMANTHKUMAR",
+          "buy_sell": "BUY",
+          "quantity": 888766,
+          "weighted_average_trade_price": 0.7,
+          "remarks": "-"
+        },
+        {
+          "deal_date": "2026-11-12",
+          "symbol": "AONESTEELS",
+          "company_name": "A-One Steels India Ltd",
+          "client_name": "BULLPULSE MARKETEDGE PRIVATE LIMITED",
+          "buy_sell": "BUY",
+          "quantity": 458343,
+          "weighted_average_trade_price": 433.69,
+          "remarks": "-"
+        },
+        {
+          "deal_date": "2026-11-12",
+          "symbol": "AONESTEELS",
+          "company_name": "A-One Steels India Ltd",
+          "client_name": "ACME CAPITAL MARKET LIMITED",
+          "buy_sell": "BUY",
+          "quantity": 703494,
+          "weighted_average_trade_price": 434.51,
+          "remarks": "-"
+        },
+        {
+          "deal_date": "2026-11-12",
+          "symbol": "APEX",
+          "company_name": "Apex Frozen Foods Limited",
+          "client_name": "NK SECURITIES RESEARCH PRIVATE LIMITED",
+          "buy_sell": "BUY",
+          "quantity": 188266,
+          "weighted_average_trade_price": 348.46,
+          "remarks": "-"
+        },
+        {
+          "deal_date": "2026-11-12",
+          "symbol": "APEX",
+          "company_name": "Apex Frozen Foods Limited",
+          "client_name": "ALPHAGREP SECURITIES PRIVATE LIMITED",
+          "buy_sell": "BUY",
+          "quantity": 360185,
+          "weighted_average_trade_price": 349.51,
+          "remarks": "-"
+        },
+        {
+          "deal_date": "2026-11-12",
+          "symbol": "APEX",
+          "company_name": "Apex Frozen Foods Limited",
+          "client_name": "MICROCURVES TRADING PRIVATE LIMITED",
+          "buy_sell": "BUY",
+          "quantity": 303377,
+          "weighted_average_trade_price": 348.18,
+          "remarks": "-"
+        },
+        {
+          "deal_date": "2026-11-12",
+          "symbol": "APEX",
+          "company_name": "Apex Frozen Foods Limited",
+          "client_name": "JUNOMONETA FINSOL PRIVATE LIMITED",
+          "buy_sell": "BUY",
+          "quantity": 175497,
+          "weighted_average_trade_price": 348.49,
+          "remarks": "-"
+        },
+        {
+          "deal_date": "2026-11-12",
+          "symbol": "APEX",
+          "company_name": "Apex Frozen Foods Limited",
+          "client_name": "QE SECURITIES LLP",
+          "buy_sell": "BUY",
+          "quantity": 193291,
+          "weighted_average_trade_price": 347.03,
+          "remarks": "-"
+        },
+        {
+          "deal_date": "2026-11-12",
+          "symbol": "AVANTIFEED",
+          "company_name": "Avanti Feeds Limited",
+          "client_name": "QE SECURITIES LLP",
+          "buy_sell": "BUY",
+          "quantity": 700370,
+          "weighted_average_trade_price": 765.53,
+          "remarks": "-"
+        },
+        {
+          "deal_date": "2026-11-12",
+          "symbol": "CONTROLPR",
+          "company_name": "Control Print Limited",
+          "client_name": "BASANT KABRA",
+          "buy_sell": "BUY",
+          "quantity": 136026,
+          "weighted_average_trade_price": 609.81,
+          "remarks": "-"
+        },
+        {
+          "deal_date": "2026-11-12",
+          "symbol": "CONTROLPR",
+          "company_name": "Control Print Limited",
+          "client_name": "SHIVA BASANT KABRA",
+          "buy_sell": "BUY",
+          "quantity": 85000,
+          "weighted_average_trade_price": 609.99,
+          "remarks": "-"
+        },
+        {
+          "deal_date": "2026-11-12",
+          "symbol": "DCXINDIA",
+          "company_name": "DCX Systems Limited",
+          "client_name": "MARWADI SHARES AND FINANCE LTD.",
+          "buy_sell": "BUY",
+          "quantity": 601827,
+          "weighted_average_trade_price": 162.38,
+          "remarks": "-"
+        },
+        {
+          "deal_date": "2026-11-12",
+          "symbol": "DCXINDIA",
+          "company_name": "DCX Systems Limited",
+          "client_name": "DIPAN MEHTA COMMODITIES PRIVATE LIMITED",
+          "buy_sell": "BUY",
+          "quantity": 648569,
+          "weighted_average_trade_price": 162.31,
+          "remarks": "-"
+        },
+        {
+          "deal_date": "2026-11-12",
+          "symbol": "DCXINDIA",
+          "company_name": "DCX Systems Limited",
+          "client_name": "ELIXIR WEALTH MANAGEMENT PRIVATE LIMITED",
+          "buy_sell": "BUY",
+          "quantity": 1249852,
+          "weighted_average_trade_price": 161.96,
+          "remarks": "-"
+        },
+        {
+          "deal_date": "2026-11-12",
+          "symbol": "DCXINDIA",
+          "company_name": "DCX Systems Limited",
+          "client_name": "PUMA SECURITIES",
+          "buy_sell": "BUY",
+          "quantity": 622155,
+          "weighted_average_trade_price": 162.86,
+          "remarks": "-"
+        },
+        {
+          "deal_date": "2026-11-12",
+          "symbol": "DCXINDIA",
+          "company_name": "DCX Systems Limited",
+          "client_name": "MUSIGMA SECURITIES",
+          "buy_sell": "BUY",
+          "quantity": 616393,
+          "weighted_average_trade_price": 162.78,
+          "remarks": "-"
+        },
+        {
+          "deal_date": "2026-11-12",
+          "symbol": "DCXINDIA",
+          "company_name": "DCX Systems Limited",
+          "client_name": "NK SECURITIES RESEARCH PRIVATE LIMITED",
+          "buy_sell": "BUY",
+          "quantity": 2083915,
+          "weighted_average_trade_price": 162.11,
+          "remarks": "-"
+        },
+        {
+          "deal_date": "2026-11-12",
+          "symbol": "DCXINDIA",
+          "company_name": "DCX Systems Limited",
+          "client_name": "ALPHAGREP SECURITIES PRIVATE LIMITED",
+          "buy_sell": "BUY",
+          "quantity": 2665777,
+          "weighted_average_trade_price": 162.11,
+          "remarks": "-"
+        },
+        {
+          "deal_date": "2026-11-12",
+          "symbol": "DCXINDIA",
+          "company_name": "DCX Systems Limited",
+          "client_name": "IRAGE BROKING SERVICES LLP",
+          "buy_sell": "BUY",
+          "quantity": 853817,
+          "weighted_average_trade_price": 163.07,
+          "remarks": "-"
+        },
+        {
+          "deal_date": "2026-11-12",
+          "symbol": "DCXINDIA",
+          "company_name": "DCX Systems Limited",
+          "client_name": "QE SECURITIES LLP",
+          "buy_sell": "BUY",
+          "quantity": 2037392,
+          "weighted_average_trade_price": 162.22,
+          "remarks": "-"
+        },
+        {
+          "deal_date": "2026-11-12",
+          "symbol": "DCXINDIA",
+          "company_name": "DCX Systems Limited",
+          "client_name": "KRISH NATVARBHAI PATEL",
+          "buy_sell": "BUY",
+          "quantity": 710416,
+          "weighted_average_trade_price": 160.81,
+          "remarks": "-"
+        },
+        {
+          "deal_date": "2026-11-12",
+          "symbol": "DCXINDIA",
+          "company_name": "DCX Systems Limited",
+          "client_name": "JUMP TRADING FINANCIAL INDIA PRIVATE LIMITED",
+          "buy_sell": "BUY",
+          "quantity": 565501,
+          "weighted_average_trade_price": 160.57,
+          "remarks": "-"
+        },
+        {
+          "deal_date": "2026-11-12",
+          "symbol": "DCXINDIA",
+          "company_name": "DCX Systems Limited",
+          "client_name": "JUNOMONETA FINSOL PRIVATE LIMITED",
+          "buy_sell": "BUY",
+          "quantity": 1572395,
+          "weighted_average_trade_price": 162.08,
+          "remarks": "-"
+        },
+        {
+          "deal_date": "2026-11-12",
+          "symbol": "DCXINDIA",
+          "company_name": "DCX Systems Limited",
+          "client_name": "MICROCURVES TRADING PRIVATE LIMITED",
+          "buy_sell": "BUY",
+          "quantity": 1977945,
+          "weighted_average_trade_price": 162.01,
+          "remarks": "-"
+        },
+        {
+          "deal_date": "2026-11-12",
+          "symbol": "DCXINDIA",
+          "company_name": "DCX Systems Limited",
+          "client_name": "BLITZQUANT RESEARCH LLP",
+          "buy_sell": "BUY",
+          "quantity": 774955,
+          "weighted_average_trade_price": 163.26,
+          "remarks": "-"
+        },
+        {
+          "deal_date": "2026-11-12",
+          "symbol": "DCXINDIA",
+          "company_name": "DCX Systems Limited",
+          "client_name": "IMC INDIA SECURITIES PRIVATE LIMITED",
+          "buy_sell": "BUY",
+          "quantity": 591438,
+          "weighted_average_trade_price": 163.67,
+          "remarks": "-"
+        },
+        {
+          "deal_date": "2026-11-12",
+          "symbol": "FLYSBS",
+          "company_name": "FlySBS Aviation Limited",
+          "client_name": "MANSI SHARE AND STOCK BROKING PRIVATE LIMITED",
+          "buy_sell": "BUY",
+          "quantity": 168600,
+          "weighted_average_trade_price": 622.49,
+          "remarks": "-"
+        },
+        {
+          "deal_date": "2026-11-12",
+          "symbol": "GALLANTT",
+          "company_name": "Gallantt Ispat Limited",
+          "client_name": "SANTOSH KUMAR AGRAWAL",
+          "buy_sell": "BUY",
+          "quantity": 4000000,
+          "weighted_average_trade_price": 503,
+          "remarks": "-"
+        },
+        {
+          "deal_date": "2026-11-12",
+          "symbol": "GRANULES",
+          "company_name": "Granules India Limited",
+          "client_name": "SAUMIK KETANKUMAR DOSHI",
+          "buy_sell": "BUY",
+          "quantity": 1329797,
+          "weighted_average_trade_price": 823.54,
+          "remarks": "-"
+        },
+        {
+          "deal_date": "2026-11-12",
+          "symbol": "GREENASIA",
+          "company_name": "Green Asia Impex Limited",
+          "client_name": "GENZ INVESTMENT ADVISORS PRIVATE LIMITED",
+          "buy_sell": "BUY",
+          "quantity": 208000,
+          "weighted_average_trade_price": 83.09,
+          "remarks": "-"
+        },
+        {
+          "deal_date": "2026-11-12",
+          "symbol": "GREENASIA",
+          "company_name": "Green Asia Impex Limited",
+          "client_name": "AIKYATA ADVISORY LLP",
+          "buy_sell": "BUY",
+          "quantity": 188800,
+          "weighted_average_trade_price": 82.03,
+          "remarks": "-"
+        },
+        {
+          "deal_date": "2026-11-12",
+          "symbol": "JARO",
+          "company_name": "Jaro Ins of Tec Mg N Re L",
+          "client_name": "ALPHAGREP SECURITIES PRIVATE LIMITED",
+          "buy_sell": "BUY",
+          "quantity": 477678,
+          "weighted_average_trade_price": 390.96,
+          "remarks": "-"
+        },
+        {
+          "deal_date": "2026-11-12",
+          "symbol": "JARO",
+          "company_name": "Jaro Ins of Tec Mg N Re L",
+          "client_name": "VITHALBHAI BACHUBHAI KAPURIYA HUF",
+          "buy_sell": "BUY",
+          "quantity": 111957,
+          "weighted_average_trade_price": 393.83,
+          "remarks": "-"
+        },
+        {
+          "deal_date": "2026-11-12",
+          "symbol": "JARO",
+          "company_name": "Jaro Ins of Tec Mg N Re L",
+          "client_name": "JUNOMONETA FINSOL PRIVATE LIMITED",
+          "buy_sell": "BUY",
+          "quantity": 338565,
+          "weighted_average_trade_price": 392.07,
+          "remarks": "-"
+        },
+        {
+          "deal_date": "2026-11-12",
+          "symbol": "JARO",
+          "company_name": "Jaro Ins of Tec Mg N Re L",
+          "client_name": "VINSUL MAKARDI LTD",
+          "buy_sell": "BUY",
+          "quantity": 159521,
+          "weighted_average_trade_price": 393.59,
+          "remarks": "-"
+        },
+        {
+          "deal_date": "2026-11-12",
+          "symbol": "JARO",
+          "company_name": "Jaro Ins of Tec Mg N Re L",
+          "client_name": "MICROCURVES TRADING PRIVATE LIMITED",
+          "buy_sell": "BUY",
+          "quantity": 435293,
+          "weighted_average_trade_price": 393.57,
+          "remarks": "-"
+        },
+        {
+          "deal_date": "2026-11-12",
+          "symbol": "JARO",
+          "company_name": "Jaro Ins of Tec Mg N Re L",
+          "client_name": "MARWADI SHARES AND FINANCE LTD.",
+          "buy_sell": "BUY",
+          "quantity": 116405,
+          "weighted_average_trade_price": 391.97,
+          "remarks": "-"
+        },
+        {
+          "deal_date": "2026-11-12",
+          "symbol": "JARO",
+          "company_name": "Jaro Ins of Tec Mg N Re L",
+          "client_name": "QICAP MARKETS LLP",
+          "buy_sell": "BUY",
+          "quantity": 132880,
+          "weighted_average_trade_price": 387.18,
+          "remarks": "-"
+        },
+        {
+          "deal_date": "2026-11-12",
+          "symbol": "JARO",
+          "company_name": "Jaro Ins of Tec Mg N Re L",
+          "client_name": "IRAGE BROKING SERVICES LLP",
+          "buy_sell": "BUY",
+          "quantity": 446312,
+          "weighted_average_trade_price": 395.8,
+          "remarks": "-"
+        },
+        {
+          "deal_date": "2026-11-12",
+          "symbol": "JARO",
+          "company_name": "Jaro Ins of Tec Mg N Re L",
+          "client_name": "GRT STRATEGIC VENTURES LLP",
+          "buy_sell": "BUY",
+          "quantity": 117939,
+          "weighted_average_trade_price": 396.08,
+          "remarks": "-"
+        },
+        {
+          "deal_date": "2026-11-12",
+          "symbol": "JARO",
+          "company_name": "Jaro Ins of Tec Mg N Re L",
+          "client_name": "NK SECURITIES RESEARCH PRIVATE LIMITED",
+          "buy_sell": "BUY",
+          "quantity": 313686,
+          "weighted_average_trade_price": 394.27,
+          "remarks": "-"
+        },
+        {
+          "deal_date": "2026-11-12",
+          "symbol": "JYOTISTRUC",
+          "company_name": "Jyoti Structures Ltd",
+          "client_name": "QE SECURITIES LLP",
+          "buy_sell": "BUY",
+          "quantity": 7441258,
+          "weighted_average_trade_price": 13.37,
+          "remarks": "-"
+        },
+        {
+          "deal_date": "2026-11-12",
+          "symbol": "KALYANKJIL",
+          "company_name": "Kalyan Jewellers Ind Ltd",
+          "client_name": "GRAVITON RESEARCH CAPITAL LLP",
+          "buy_sell": "BUY",
+          "quantity": 5323230,
+          "weighted_average_trade_price": 702.19,
+          "remarks": "-"
+        },
+        {
+          "deal_date": "2026-11-12",
+          "symbol": "MANAKCOAT",
+          "company_name": "Man Coat Metal & Ind Ltd",
+          "client_name": "GROWVIA TRADE PRIVATE LIMITED",
+          "buy_sell": "BUY",
+          "quantity": 2035835,
+          "weighted_average_trade_price": 167.74,
+          "remarks": "-"
+        },
+        {
+          "deal_date": "2026-11-12",
+          "symbol": "MANAKCOAT",
+          "company_name": "Man Coat Metal & Ind Ltd",
+          "client_name": "ARIHANT CAPITAL MARKETS LIMITED",
+          "buy_sell": "BUY",
+          "quantity": 1265436,
+          "weighted_average_trade_price": 174.81,
+          "remarks": "-"
+        },
+        {
+          "deal_date": "2026-11-12",
+          "symbol": "MARSONS",
+          "company_name": "Marsons Limited",
+          "client_name": "PROGNOSIS SECURITIES PVT. LTD",
+          "buy_sell": "BUY",
+          "quantity": 909000,
+          "weighted_average_trade_price": 152.96,
+          "remarks": "-"
+        },
+        {
+          "deal_date": "2026-11-12",
+          "symbol": "MARSONS",
+          "company_name": "Marsons Limited",
+          "client_name": "ARIHANT CAPITAL MARKETS LIMITED",
+          "buy_sell": "BUY",
+          "quantity": 992504,
+          "weighted_average_trade_price": 153.1,
+          "remarks": "-"
+        },
+        {
+          "deal_date": "2026-11-12",
+          "symbol": "MARUSHIKA",
+          "company_name": "Marushika Technology Ltd",
+          "client_name": "BRIMMING WEALTH ADVISORS LLP",
+          "buy_sell": "BUY",
+          "quantity": 63600,
+          "weighted_average_trade_price": 129.94,
+          "remarks": "-"
+        },
+        {
+          "deal_date": "2026-11-12",
+          "symbol": "MKJEWELS",
+          "company_name": "MK Sons Fine Jewels Ltd",
+          "client_name": "MANUJA GAUTAM SHROFF",
+          "buy_sell": "BUY",
+          "quantity": 1111113,
+          "weighted_average_trade_price": 166.69,
+          "remarks": "-"
+        },
+        {
+          "deal_date": "2026-11-12",
+          "symbol": "MKJEWELS",
+          "company_name": "MK Sons Fine Jewels Ltd",
+          "client_name": "VIKRAMKUMAR KARANRAJ SAKARIA HUF",
+          "buy_sell": "BUY",
+          "quantity": 298791,
+          "weighted_average_trade_price": 167.6,
+          "remarks": "-"
+        },
+        {
+          "deal_date": "2026-11-12",
+          "symbol": "MOMSBELIEF",
+          "company_name": "Rays of Belief Limited",
+          "client_name": "SETU SECURITIES PVT LTD",
+          "buy_sell": "BUY",
+          "quantity": 115664,
+          "weighted_average_trade_price": 307.75,
+          "remarks": "-"
+        },
+        {
+          "deal_date": "2026-11-12",
+          "symbol": "MOMSBELIEF",
+          "company_name": "Rays of Belief Limited",
+          "client_name": "ALPHAGREP SECURITIES PRIVATE LIMITED",
+          "buy_sell": "BUY",
+          "quantity": 107851,
+          "weighted_average_trade_price": 292.24,
+          "remarks": "-"
+        },
+        {
+          "deal_date": "2026-11-12",
+          "symbol": "MOMSBELIEF",
+          "company_name": "Rays of Belief Limited",
+          "client_name": "HRTI PRIVATE LIMITED",
+          "buy_sell": "BUY",
+          "quantity": 111870,
+          "weighted_average_trade_price": 291.84,
+          "remarks": "-"
+        },
+        {
+          "deal_date": "2026-11-12",
+          "symbol": "MOS",
+          "company_name": "Mos Utility Limited",
+          "client_name": "KULDEEP BHARATBHAI KHACHAR",
+          "buy_sell": "BUY",
+          "quantity": 712000,
+          "weighted_average_trade_price": 8.25,
+          "remarks": "-"
+        },
+        {
+          "deal_date": "2026-11-12",
+          "symbol": "NECCLTD",
+          "company_name": "North East Carry Corp Ltd",
+          "client_name": "PRAJAL BHANDARI",
+          "buy_sell": "BUY",
+          "quantity": 640207,
+          "weighted_average_trade_price": 20.55,
+          "remarks": "-"
+        },
+        {
+          "deal_date": "2026-11-12",
+          "symbol": "NECCLTD",
+          "company_name": "North East Carry Corp Ltd",
+          "client_name": "ANKITA VISHAL SHAH",
+          "buy_sell": "BUY",
+          "quantity": 14056,
+          "weighted_average_trade_price": 21.41,
+          "remarks": "-"
+        },
+        {
+          "deal_date": "2026-11-12",
+          "symbol": "NIBL",
+          "company_name": "NRB Indus. Bearings Ltd.",
+          "client_name": "ORION STOCKS LTD",
+          "buy_sell": "BUY",
+          "quantity": 59303,
+          "weighted_average_trade_price": 34.81,
+          "remarks": "-"
+        },
+        {
+          "deal_date": "2026-11-12",
+          "symbol": "RANEHOLDIN",
+          "company_name": "Rane Holdings Limited",
+          "client_name": "MICROCURVES TRADING PRIVATE LIMITED",
+          "buy_sell": "BUY",
+          "quantity": 85613,
+          "weighted_average_trade_price": 1667.76,
+          "remarks": "-"
+        },
+        {
+          "deal_date": "2026-11-12",
+          "symbol": "RANEHOLDIN",
+          "company_name": "Rane Holdings Limited",
+          "client_name": "ALPHAGREP SECURITIES PRIVATE LIMITED",
+          "buy_sell": "BUY",
+          "quantity": 92556,
+          "weighted_average_trade_price": 1668.67,
+          "remarks": "-"
+        },
+        {
+          "deal_date": "2026-11-12",
+          "symbol": "SPECTRAA",
+          "company_name": "SpectraA Tech Solutions L",
+          "client_name": "G GUNAVANTH KUMAR",
+          "buy_sell": "BUY",
+          "quantity": 70800,
+          "weighted_average_trade_price": 254.59,
+          "remarks": "-"
+        },
+        {
+          "deal_date": "2026-11-12",
+          "symbol": "STLNETWORK",
+          "company_name": "STL Networks Limited",
+          "client_name": "RAMDOOT REALTORS PVT LTD",
+          "buy_sell": "BUY",
+          "quantity": 2528701,
+          "weighted_average_trade_price": 45.78,
+          "remarks": "-"
+        },
+        {
+          "deal_date": "2026-11-12",
+          "symbol": "TECHNOCRAF",
+          "company_name": "Technocraft Ventures Ltd",
+          "client_name": "BULLPULSE MARKETEDGE PRIVATE LIMITED",
+          "buy_sell": "BUY",
+          "quantity": 200000,
+          "weighted_average_trade_price": 497.17,
+          "remarks": "-"
+        },
+        {
+          "deal_date": "2026-11-12",
+          "symbol": "TECHNOCRAF",
+          "company_name": "Technocraft Ventures Ltd",
+          "client_name": "SANKALP  FINANCE",
+          "buy_sell": "BUY",
+          "quantity": 200000,
+          "weighted_average_trade_price": 497.35,
+          "remarks": "-"
+        },
+        {
+          "deal_date": "2026-11-12",
+          "symbol": "TECHNOCRAF",
+          "company_name": "Technocraft Ventures Ltd",
+          "client_name": "ACME CAPITAL MARKET LIMITED",
+          "buy_sell": "BUY",
+          "quantity": 302339,
+          "weighted_average_trade_price": 488.88,
+          "remarks": "-"
+        },
+        {
+          "deal_date": "2026-11-12",
+          "symbol": "URBAN-RE",
+          "company_name": "Urban Enviro Waste Ltd",
+          "client_name": "DEVENDRA BANKATLAL RATHI",
+          "buy_sell": "BUY",
+          "quantity": 72000,
+          "weighted_average_trade_price": 10.05,
+          "remarks": "-"
+        },
+        {
+          "deal_date": "2026-11-12",
+          "symbol": "AAATECH",
+          "company_name": "AAA Technologies Limited",
+          "client_name": "VAIBHAV RAJENDRA DOSHI",
+          "buy_sell": "SELL",
+          "quantity": 85343,
+          "weighted_average_trade_price": 90.57,
+          "remarks": "-"
+        },
+        {
+          "deal_date": "2026-11-12",
+          "symbol": "ADROITIND",
+          "company_name": "Adroit Industries (I) Ltd",
+          "client_name": "QE SECURITIES LLP",
+          "buy_sell": "SELL",
+          "quantity": 262101,
+          "weighted_average_trade_price": 195.95,
+          "remarks": "-"
+        },
+        {
+          "deal_date": "2026-11-12",
+          "symbol": "ADROITIND",
+          "company_name": "Adroit Industries (I) Ltd",
+          "client_name": "ALPHAGREP SECURITIES PRIVATE LIMITED",
+          "buy_sell": "SELL",
+          "quantity": 275923,
+          "weighted_average_trade_price": 197.44,
+          "remarks": "-"
+        },
+        {
+          "deal_date": "2026-11-12",
+          "symbol": "ANTGRAPHIC",
+          "company_name": "Antarctica Graphics Ltd",
+          "client_name": "K HEMANTHKUMAR",
+          "buy_sell": "SELL",
+          "quantity": 628766,
+          "weighted_average_trade_price": 0.73,
+          "remarks": "-"
+        },
+        {
+          "deal_date": "2026-11-12",
+          "symbol": "AONESTEELS",
+          "company_name": "A-One Steels India Ltd",
+          "client_name": "ACME CAPITAL MARKET LIMITED",
+          "buy_sell": "SELL",
+          "quantity": 703494,
+          "weighted_average_trade_price": 435.6,
           "remarks": "-"
         }
       ]

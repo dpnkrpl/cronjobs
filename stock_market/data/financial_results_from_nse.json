@@ -4,7 +4,7 @@
   "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-event-calendar",
   "timezone": "Asia/Kolkata",
   "retention": "unlimited",
-  "updated_at": "2026-11-11T23:51:28+05:30",
+  "updated_at": "2026-11-12T21:47:32+05:30",
   "data": [
     {
       "event_date": "2026-11-12",
@@ -1681,6 +1681,19 @@
       "captured_at": "2026-11-11T23:51:28+05:30"
     },
     {
+      "event_date": "2026-11-12",
+      "market_segment": "sme",
+      "symbol": "NRVANDANA",
+      "company_name": "N R Vandana Tex Industries Limited",
+      "purpose": "Financial Results",
+      "details": "To consider and approve the financial results for the period ended September 30, 2026",
+      "announcement_timestamp": "12-Nov-2026 17:25:40",
+      "isin": "106857014",
+      "attachment_url": "https://nsearchives.nseindia.com/corporate/NRVANDANA_12112026172235_Prior_intimation_Revised.pdf",
+      "ixbrl_url": null,
+      "captured_at": "2026-11-12T21:47:32+05:30"
+    },
+    {
       "event_date": "2026-11-13",
       "market_segment": "equity",
       "symbol": "A2ZINFRA",
@@ -1760,6 +1773,15 @@
       "purpose": "Financial Results/Other business matters",
       "details": "To consider and approve the financial results for the period ended September 30, 2026 and other business matters",
       "captured_at": "2026-11-11T23:51:28+05:30"
+    },
+    {
+      "event_date": "2026-11-13",
+      "market_segment": "equity",
+      "symbol": "AHLWEST",
+      "company_name": "Asian Hotels (West) Limited",
+      "purpose": "Financial Results",
+      "details": "AHLWEST : 13-Nov-2026 :  The Company has informed the Exchange that a Board meeting to be held on November 14, 2026 has been re-scheduled. Further, the Company has informed the Exchange that the meeting of the Board of Directors of the Company will be held on November 13, 2026,  To consider and approve the financial results for the period ended September 30, 2026",
+      "captured_at": "2026-11-12T21:47:32+05:30"
     },
     {
       "event_date": "2026-11-13",
@@ -3051,6 +3073,15 @@
     {
       "event_date": "2026-11-13",
       "market_segment": "equity",
+      "symbol": "PANSARI",
+      "company_name": "Pansari Developers Limited",
+      "purpose": "Financial Results",
+      "details": "To consider and approve the financial results for the period ended September 30, 2026",
+      "captured_at": "2026-11-12T21:47:32+05:30"
+    },
+    {
+      "event_date": "2026-11-13",
+      "market_segment": "equity",
       "symbol": "PARKHOSPS",
       "company_name": "Park Medi World Limited",
       "purpose": "Financial Results",
@@ -3841,6 +3872,71 @@
       "captured_at": "2026-11-11T23:51:28+05:30"
     },
     {
+      "event_date": "2026-11-13",
+      "market_segment": "sme",
+      "symbol": "ARCIIL",
+      "company_name": "ARC Insulation & Insulators Limited",
+      "purpose": "Board Meeting Intimation",
+      "details": "ARC INSULATION & INSULATORS LIMITED has informed the Exchange about Board Meeting to be held on 13-Nov-2026 to inter-alia consider and approve the Unaudited Financial results of the Company for the Half Yearly ended September 2026 .",
+      "announcement_timestamp": "12-Nov-2026 18:25:26",
+      "isin": "60434",
+      "attachment_url": "https://nsearchives.nseindia.com/corporate/xbrl/PRIOR_INTIMATION_25299_WebXMLFile_20261112_182523858.xml",
+      "ixbrl_url": "https://nsearchives.nseindia.com/corporate/ixbrl/PRIOR_INTIMATION_25299_20261112_182523893_WEB.html",
+      "captured_at": "2026-11-12T21:47:32+05:30"
+    },
+    {
+      "event_date": "2026-11-13",
+      "market_segment": "sme",
+      "symbol": "ARCIIL",
+      "company_name": "ARC Insulation & Insulators Limited",
+      "purpose": "Financial Results",
+      "details": "ARCIIL : 13-Nov-2026 :  The Company has informed the Exchange that a Board meeting to be held on November 12, 2026 has been re-scheduled. Further, the Company has informed the Exchange that the meeting of the Board of Directors of the Company will be held on November 13, 2026,  To consider and approve the financial results for the period ended September 30, 2026",
+      "announcement_timestamp": "12-Nov-2026 18:14:47",
+      "isin": "106857220",
+      "attachment_url": "https://nsearchives.nseindia.com/corporate/ARCINC_12112026181411_rescheduling_of_Board_Meeting12112026.pdf",
+      "ixbrl_url": null,
+      "captured_at": "2026-11-12T21:47:32+05:30"
+    },
+    {
+      "event_date": "2026-11-13",
+      "market_segment": "sme",
+      "symbol": "PRAMARA",
+      "company_name": "Pramara Promotions Limited",
+      "purpose": "Board Meeting Intimation",
+      "details": "Pramara Promotions Limited has informed the Exchange about Board Meeting to be held on 13-Nov-2026 to inter-alia consider and approve the Unaudited Financial results of the Company for the Half Yearly ended September 2026 .",
+      "announcement_timestamp": "12-Nov-2026 19:24:12",
+      "isin": "60474",
+      "attachment_url": "https://nsearchives.nseindia.com/corporate/xbrl/PRIOR_INTIMATION_22064_WebXMLFile_20261112_192410186.xml",
+      "ixbrl_url": "https://nsearchives.nseindia.com/corporate/ixbrl/PRIOR_INTIMATION_22064_20261112_192410218_WEB.html",
+      "captured_at": "2026-11-12T21:47:32+05:30"
+    },
+    {
+      "event_date": "2026-11-13",
+      "market_segment": "sme",
+      "symbol": "PRAMARA",
+      "company_name": "Pramara Promotions Limited",
+      "purpose": "Board Meeting Intimation",
+      "details": "Pramara Promotions Limited has informed the Exchange about Board Meeting to be held on 13-Nov-2026 to inter-alia consider and approve the Unaudited Financial results of the Company for the Half Yearly ended September 2026 .",
+      "announcement_timestamp": "12-Nov-2026 19:23:42",
+      "isin": "60454",
+      "attachment_url": "https://nsearchives.nseindia.com/corporate/xbrl/PRIOR_INTIMATION_22064_WebXMLFile_20261112_192339955.xml",
+      "ixbrl_url": "https://nsearchives.nseindia.com/corporate/ixbrl/PRIOR_INTIMATION_22064_20261112_192339994_WEB.html",
+      "captured_at": "2026-11-12T21:47:32+05:30"
+    },
+    {
+      "event_date": "2026-11-13",
+      "market_segment": "sme",
+      "symbol": "PRAMARA",
+      "company_name": "Pramara Promotions Limited",
+      "purpose": "Financial Results",
+      "details": "PRAMARA : 13-Nov-2026 :  The Company has informed the Exchange that a Board meeting to be held on November 12, 2026 has been re-scheduled. Further, the Company has informed the Exchange that the meeting of the Board of Directors of the Company will be held on November 13, 2026,  To consider and approve the financial results for the period ended September 30, 2026",
+      "announcement_timestamp": "12-Nov-2026 19:22:56",
+      "isin": "106857506",
+      "attachment_url": "https://nsearchives.nseindia.com/corporate/PRAMARA_12112026192250_Postponement.pdf",
+      "ixbrl_url": null,
+      "captured_at": "2026-11-12T21:47:32+05:30"
+    },
+    {
       "event_date": "2026-11-14",
       "market_segment": "equity",
       "symbol": "AAREYDRUGS",
@@ -3920,6 +4016,15 @@
       "purpose": "Financial Results",
       "details": "To consider and approve the financial results for the period ended September 30, 2026",
       "captured_at": "2026-11-11T23:51:28+05:30"
+    },
+    {
+      "event_date": "2026-11-14",
+      "market_segment": "equity",
+      "symbol": "AHLWEST",
+      "company_name": "Asian Hotels (West) Limited",
+      "purpose": "Financial Results",
+      "details": "AHLWEST : 14-Nov-2026 :  The Company has informed the Exchange that a Board meeting to be held on November 12, 2026 has been re-scheduled. Further, the Company has informed the Exchange that the meeting of the Board of Directors of the Company will be held on November 14, 2026,  To consider and approve the financial results for the period ended September 30, 2026",
+      "captured_at": "2026-11-12T21:47:32+05:30"
     },
     {
       "event_date": "2026-11-14",
@@ -4325,6 +4430,15 @@
       "purpose": "Financial Results",
       "details": "To consider and approve the financial results for the period ended September 30, 2026",
       "captured_at": "2026-11-11T23:51:28+05:30"
+    },
+    {
+      "event_date": "2026-11-14",
+      "market_segment": "equity",
+      "symbol": "ENERGYDEV",
+      "company_name": "Energy Development Company Limited",
+      "purpose": "Financial Results",
+      "details": "ENERGYDEV : 14-Nov-2026 :  The Company has informed the Exchange that a Board meeting to be held on November 12, 2026 has been re-scheduled. Further, the Company has informed the Exchange that the meeting of the Board of Directors of the Company will be held on November 14, 2026,  To consider and approve the financial results for the period ended September 30, 2026",
+      "captured_at": "2026-11-12T21:47:32+05:30"
     },
     {
       "event_date": "2026-11-14",
@@ -4986,6 +5100,15 @@
     {
       "event_date": "2026-11-14",
       "market_segment": "equity",
+      "symbol": "RAJESHEXPO",
+      "company_name": "Rajesh Exports Limited",
+      "purpose": "Financial Results",
+      "details": "To consider and approve the financial results for the period ended September 30, 2026",
+      "captured_at": "2026-11-12T21:47:32+05:30"
+    },
+    {
+      "event_date": "2026-11-14",
+      "market_segment": "equity",
       "symbol": "RAJMET",
       "company_name": "Rajnandini Metal Limited",
       "purpose": "Financial Results",
@@ -5585,6 +5708,19 @@
     {
       "event_date": "2026-11-14",
       "market_segment": "sme",
+      "symbol": "MARC",
+      "company_name": "Marc Technocrats Limited",
+      "purpose": "Financial Results",
+      "details": "To consider and approve the financial results for the period ended September 30, 2026",
+      "announcement_timestamp": "12-Nov-2026 10:56:08",
+      "isin": "106856168",
+      "attachment_url": "https://nsearchives.nseindia.com/corporate/MARC_12112026105501_MARC_INTIMATION_REGARDING_BOARD_MEETING.pdf",
+      "ixbrl_url": null,
+      "captured_at": "2026-11-12T21:47:32+05:30"
+    },
+    {
+      "event_date": "2026-11-14",
+      "market_segment": "sme",
       "symbol": "OWAIS",
       "company_name": "Owais Metal And Mineral Processing Limited",
       "purpose": "Board Meeting Intimation",
@@ -5594,6 +5730,19 @@
       "attachment_url": "https://nsearchives.nseindia.com/corporate/xbrl/PRIOR_INTIMATION_22585_WebXMLFile_20261111_214032985.xml",
       "ixbrl_url": "https://nsearchives.nseindia.com/corporate/ixbrl/PRIOR_INTIMATION_22585_20261111_214033022_WEB.html",
       "captured_at": "2026-11-11T23:51:28+05:30"
+    },
+    {
+      "event_date": "2026-11-14",
+      "market_segment": "sme",
+      "symbol": "PARAMPARA",
+      "company_name": "PARAMPARA DAIRY DELIGHTS LIMITED",
+      "purpose": "Board Meeting Intimation",
+      "details": "PARAMPARA DAIRY DELIGHTS LIMITED has informed the Exchange about Board Meeting to be held on 14-Nov-2026 to consider and approve the Half Yearly Unaudited Financial results of the Company for the period ended September 2026 and Other business.",
+      "announcement_timestamp": "12-Nov-2026 15:41:55",
+      "isin": "60414",
+      "attachment_url": "https://nsearchives.nseindia.com/corporate/xbrl/PRIOR_INTIMATION_15779_WebXMLFile_20261112_154152824.xml",
+      "ixbrl_url": "https://nsearchives.nseindia.com/corporate/ixbrl/PRIOR_INTIMATION_15779_20261112_154152854_WEB.html",
+      "captured_at": "2026-11-12T21:47:32+05:30"
     },
     {
       "event_date": "2026-11-14",
@@ -5689,6 +5838,32 @@
     {
       "event_date": "2026-11-14",
       "market_segment": "sme",
+      "symbol": "VELS",
+      "company_name": "Vels Film International Limited",
+      "purpose": "Board Meeting Intimation",
+      "details": "VELS FILM INTERNATIONAL LIMITED has informed the Exchange about Board Meeting to be held on 14-Nov-2026 to inter-alia consider and approve the Unaudited Financial results of the Company for the Half Yearly ended September 2026 .",
+      "announcement_timestamp": "12-Nov-2026 21:38:04",
+      "isin": "60455",
+      "attachment_url": "https://nsearchives.nseindia.com/corporate/xbrl/PRIOR_INTIMATION_21175_WebXMLFile_20261112_213802285.xml",
+      "ixbrl_url": "https://nsearchives.nseindia.com/corporate/ixbrl/PRIOR_INTIMATION_21175_20261112_213802327_WEB.html",
+      "captured_at": "2026-11-12T21:47:32+05:30"
+    },
+    {
+      "event_date": "2026-11-14",
+      "market_segment": "sme",
+      "symbol": "VELS",
+      "company_name": "Vels Film International Limited",
+      "purpose": "Financial Results",
+      "details": "VELS : 14-Nov-2026 :  The Company has informed the Exchange that a Board meeting to be held on November 12, 2026 has been re-scheduled. Further, the Company has informed the Exchange that the meeting of the Board of Directors of the Company will be held on November 14, 2026,  To consider and approve the financial results for the period ended September 30, 2026",
+      "announcement_timestamp": "12-Nov-2026 21:36:23",
+      "isin": "106857769",
+      "attachment_url": "https://nsearchives.nseindia.com/corporate/VFIL_12112026213510_VFIL.pdf",
+      "ixbrl_url": null,
+      "captured_at": "2026-11-12T21:47:32+05:30"
+    },
+    {
+      "event_date": "2026-11-14",
+      "market_segment": "sme",
       "symbol": "VICTORYEV",
       "company_name": "Victory Electric Vehicles International Limited",
       "purpose": "Financial Results",
@@ -5750,11 +5925,38 @@
     {
       "event_date": "2026-11-18",
       "market_segment": "equity",
+      "symbol": "ANSALAPI",
+      "company_name": "Ansal Properties & Infrastructure Limited",
+      "purpose": "Financial Results",
+      "details": "To consider and approve the unaudited financial results for the quarter ended Jun 30, 2026",
+      "captured_at": "2026-11-12T21:47:32+05:30"
+    },
+    {
+      "event_date": "2026-11-18",
+      "market_segment": "equity",
+      "symbol": "BLSPOLY",
+      "company_name": "BLS Polymers Limited",
+      "purpose": "Financial Results",
+      "details": "To consider and approve the financial results for the period ended September 30, 2026",
+      "captured_at": "2026-11-12T21:47:32+05:30"
+    },
+    {
+      "event_date": "2026-11-18",
+      "market_segment": "equity",
       "symbol": "GVPTECH",
       "company_name": "GVP Infotech Limited",
       "purpose": "Financial Results",
       "details": "To consider and approve the financial results for the period ended September 30, 2026",
       "captured_at": "2026-11-11T23:51:28+05:30"
+    },
+    {
+      "event_date": "2026-11-19",
+      "market_segment": "equity",
+      "symbol": "ANTGRAPHIC",
+      "company_name": "Antarctica Limited",
+      "purpose": "Financial Results",
+      "details": "ANTGRAPHIC : 19-Nov-2026 :  The Company has informed the Exchange that a Board meeting to be held on November 12, 2026 has been re-scheduled. Further, the Company has informed the Exchange that the meeting of the Board of Directors of the Company will be held on November 19, 2026,  To consider and approve the financial results for the period ended September 30, 2026",
+      "captured_at": "2026-11-12T21:47:32+05:30"
     },
     {
       "event_date": "2026-12-05",
