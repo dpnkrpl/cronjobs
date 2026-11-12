@@ -1,4 +1,4 @@
-# cronjobs
+# cronjobs [![Stock market scrapers](https://github.com/dpnkrpl/cronjobs/actions/workflows/stock-market-scrapers.yml/badge.svg)](https://github.com/dpnkrpl/cronjobs/actions/workflows/stock-market-scrapers.yml)
 Cron jobs for various use cases 
 
 ## Groww NIFTY 500 market snapshot
