@@ -4,7 +4,7 @@
   "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-event-calendar",
   "timezone": "Asia/Kolkata",
   "retention": "unlimited",
-  "updated_at": "2026-11-12T21:47:32+05:30",
+  "updated_at": "2026-11-13T18:45:52+05:30",
   "data": [
     {
       "event_date": "2026-11-12",
@@ -3900,6 +3900,32 @@
     {
       "event_date": "2026-11-13",
       "market_segment": "sme",
+      "symbol": "CKKRETAIL",
+      "company_name": "C K K Retail Mart Limited",
+      "purpose": "Board Meeting Intimation",
+      "details": "C K K RETAIL MART LIMITED has informed the Exchange about Board Meeting to be held on 13-Nov-2026 to inter-alia consider and approve the Unaudited Financial results of the Company for the Half Yearly ended September 2026 .",
+      "announcement_timestamp": "13-Nov-2026 14:55:08",
+      "isin": "60514",
+      "attachment_url": "https://nsearchives.nseindia.com/corporate/xbrl/PRIOR_INTIMATION_23499_WebXMLFile_20261113_145505557.xml",
+      "ixbrl_url": "https://nsearchives.nseindia.com/corporate/ixbrl/PRIOR_INTIMATION_23499_20261113_145505593_WEB.html",
+      "captured_at": "2026-11-13T18:45:52+05:30"
+    },
+    {
+      "event_date": "2026-11-13",
+      "market_segment": "sme",
+      "symbol": "CKKRETAIL",
+      "company_name": "C K K Retail Mart Limited",
+      "purpose": "Financial Results/Other business matters",
+      "details": "The Company has informed the Exchange that a Board meeting to be held on November 13, 2026 will still be held on November 13, 2026, To consider and approve the financial results for the period ended September 30, 2026 and other business matters",
+      "announcement_timestamp": "13-Nov-2026 15:00:46",
+      "isin": "106858681",
+      "attachment_url": "https://nsearchives.nseindia.com/corporate/CKKRETAIL_13112026150032_Rev_inti_CKK.pdf",
+      "ixbrl_url": null,
+      "captured_at": "2026-11-13T18:45:52+05:30"
+    },
+    {
+      "event_date": "2026-11-13",
+      "market_segment": "sme",
       "symbol": "PRAMARA",
       "company_name": "Pramara Promotions Limited",
       "purpose": "Board Meeting Intimation",
@@ -4016,6 +4042,15 @@
       "purpose": "Financial Results",
       "details": "To consider and approve the financial results for the period ended September 30, 2026",
       "captured_at": "2026-11-11T23:51:28+05:30"
+    },
+    {
+      "event_date": "2026-11-14",
+      "market_segment": "equity",
+      "symbol": "AHLUCONT",
+      "company_name": "Ahluwalia Contracts (India) Limited",
+      "purpose": "Financial Results",
+      "details": "To consider and approve the financial results for the period ended September 30, 2026",
+      "captured_at": "2026-11-13T18:45:52+05:30"
     },
     {
       "event_date": "2026-11-14",
@@ -5046,6 +5081,15 @@
     {
       "event_date": "2026-11-14",
       "market_segment": "equity",
+      "symbol": "PANSARI",
+      "company_name": "Pansari Developers Limited",
+      "purpose": "Financial Results",
+      "details": "PANSARI : 14-Nov-2026 :  The Company has informed the Exchange that a Board meeting to be held on November 13, 2026 has been re-scheduled. Further, the Company has informed the Exchange that the meeting of the Board of Directors of the Company will be held on November 14, 2026,  To consider and approve the financial results for the period ended September 30, 2026",
+      "captured_at": "2026-11-13T18:45:52+05:30"
+    },
+    {
+      "event_date": "2026-11-14",
+      "market_segment": "equity",
       "symbol": "PATANJALI",
       "company_name": "Patanjali Foods Limited",
       "purpose": "Financial Results",
@@ -5204,6 +5248,15 @@
       "purpose": "Financial Results",
       "details": "To consider and approve the financial results for the period ended September 30, 2026",
       "captured_at": "2026-11-11T23:51:28+05:30"
+    },
+    {
+      "event_date": "2026-11-14",
+      "market_segment": "equity",
+      "symbol": "SELMC",
+      "company_name": "SEL Manufacturing Company Limited",
+      "purpose": "Financial Results",
+      "details": "Intimation of Board Meeting to be held on Saturday, November 14, 2026, to consider the Unaudited Financial Results for the Quarter and Half Year ended 30th September, 2026.",
+      "captured_at": "2026-11-13T18:45:52+05:30"
     },
     {
       "event_date": "2026-11-14",
@@ -5786,6 +5839,19 @@
     {
       "event_date": "2026-11-14",
       "market_segment": "sme",
+      "symbol": "SRIRAM",
+      "company_name": "Shri Ram Switchgears Limited",
+      "purpose": "Financial Results",
+      "details": "To consider and approve the financial results for the period ended September 30, 2026",
+      "announcement_timestamp": "13-Nov-2026 13:21:30",
+      "isin": "106858500",
+      "attachment_url": "https://nsearchives.nseindia.com/corporate/SRIRAM_13112026132101_Intimation_of_BM.pdf",
+      "ixbrl_url": null,
+      "captured_at": "2026-11-13T18:45:52+05:30"
+    },
+    {
+      "event_date": "2026-11-14",
+      "market_segment": "sme",
       "symbol": "TCL",
       "company_name": "Thaai Casting Limited",
       "purpose": "Board Meeting Intimation",
@@ -5950,6 +6016,32 @@
       "captured_at": "2026-11-11T23:51:28+05:30"
     },
     {
+      "event_date": "2026-11-18",
+      "market_segment": "sme",
+      "symbol": "WHITEFORCE",
+      "company_name": "Happy Square Outsourcing Services Limited",
+      "purpose": "Board Meeting Intimation",
+      "details": "HAPPY SQUARE OUTSOURCING SERVICES LIMITED has informed the Exchange about Board Meeting to be held on 18-Nov-2026 to consider and approve the Half Yearly Unaudited Financial results of the Company for the period ended September 2026 and Other business.",
+      "announcement_timestamp": "13-Nov-2026 17:42:37",
+      "isin": "60495",
+      "attachment_url": "https://nsearchives.nseindia.com/corporate/xbrl/PRIOR_INTIMATION_25349_WebXMLFile_20261113_174235333.xml",
+      "ixbrl_url": "https://nsearchives.nseindia.com/corporate/ixbrl/PRIOR_INTIMATION_25349_20261113_174235371_WEB.html",
+      "captured_at": "2026-11-13T18:45:52+05:30"
+    },
+    {
+      "event_date": "2026-11-18",
+      "market_segment": "sme",
+      "symbol": "WHITEFORCE",
+      "company_name": "Happy Square Outsourcing Services Limited",
+      "purpose": "Financial Results/Other business matters",
+      "details": "WHITEFORCE : 18-Nov-2026 :  The Company has informed the Exchange that a Board meeting to be held on November 13, 2026 has been re-scheduled. Further, the Company has informed the Exchange that the meeting of the Board of Directors of the Company will be held on November 18, 2026, To consider and approve the financial results for the period ended September 30, 2026 and other business matters",
+      "announcement_timestamp": "13-Nov-2026 17:37:42",
+      "isin": "106859199",
+      "attachment_url": "https://nsearchives.nseindia.com/corporate/HAPPYSQUARE_13112026173655_Postponement_Intimation-new.pdf",
+      "ixbrl_url": null,
+      "captured_at": "2026-11-13T18:45:52+05:30"
+    },
+    {
       "event_date": "2026-11-19",
       "market_segment": "equity",
       "symbol": "ANTGRAPHIC",
@@ -5957,6 +6049,76 @@
       "purpose": "Financial Results",
       "details": "ANTGRAPHIC : 19-Nov-2026 :  The Company has informed the Exchange that a Board meeting to be held on November 12, 2026 has been re-scheduled. Further, the Company has informed the Exchange that the meeting of the Board of Directors of the Company will be held on November 19, 2026,  To consider and approve the financial results for the period ended September 30, 2026",
       "captured_at": "2026-11-12T21:47:32+05:30"
+    },
+    {
+      "event_date": "2026-11-19",
+      "market_segment": "equity",
+      "symbol": "MUTHOOTMF",
+      "company_name": "Muthoot Microfin Limited",
+      "purpose": "Financial Results",
+      "details": "To consider and approve the audited financial results for the Half Year  ended September 30, 2025 and September 30, 2026",
+      "captured_at": "2026-11-13T18:45:52+05:30"
+    },
+    {
+      "event_date": "2026-11-20",
+      "market_segment": "equity",
+      "symbol": "VALECHAENG",
+      "company_name": "Valecha Engineering Limited",
+      "purpose": "Financial Results",
+      "details": "VALECHAENG : 20-Nov-2026 :  The Company has informed the Exchange that a Board meeting to be held on November 13, 2026 has been re-scheduled. Further, the Company has informed the Exchange that the meeting of the Board of Directors of the Company will be held on November 20, 2026,  To consider and approve the financial results for the period ended September 30, 2026",
+      "captured_at": "2026-11-13T18:45:52+05:30"
+    },
+    {
+      "event_date": "2026-11-23",
+      "market_segment": "sme",
+      "symbol": "KDL",
+      "company_name": "Kore Digital Limited",
+      "purpose": "Board Meeting Intimation",
+      "details": "Kore Digital Limited has informed the Exchange about Board Meeting to be held on 23-Nov-2026 to consider and approve the Half Yearly Unaudited Financial results of the Company for the period ended September 2026 and Other business.",
+      "announcement_timestamp": "13-Nov-2026 13:02:33",
+      "isin": "60494",
+      "attachment_url": "https://nsearchives.nseindia.com/corporate/xbrl/PRIOR_INTIMATION_21822_WebXMLFile_20261113_130230959.xml",
+      "ixbrl_url": "https://nsearchives.nseindia.com/corporate/ixbrl/PRIOR_INTIMATION_21822_20261113_130230997_WEB.html",
+      "captured_at": "2026-11-13T18:45:52+05:30"
+    },
+    {
+      "event_date": "2026-11-23",
+      "market_segment": "sme",
+      "symbol": "KDL",
+      "company_name": "Kore Digital Limited",
+      "purpose": "Financial Results/Other business matters",
+      "details": "To consider and approve the financial results for the period ended September 30, 2026 and other business matters",
+      "announcement_timestamp": "13-Nov-2026 12:52:38",
+      "isin": "106858431",
+      "attachment_url": "https://nsearchives.nseindia.com/corporate/KOREDIGITAL_13112026125005_Intimation_of_BM_23112026.pdf",
+      "ixbrl_url": null,
+      "captured_at": "2026-11-13T18:45:52+05:30"
+    },
+    {
+      "event_date": "2026-11-25",
+      "market_segment": "sme",
+      "symbol": "ANYA",
+      "company_name": "Anya Polytech & Fertilizers Limited",
+      "purpose": "Board Meeting Intimation",
+      "details": "Anya Polytech & Fertilizers Limited has informed the Exchange about Board Meeting to be held on 25-Nov-2026 to inter-alia consider and approve the Unaudited Financial results of the Company for the Half Yearly ended September 2027 .",
+      "announcement_timestamp": "13-Nov-2026 15:52:04",
+      "isin": "60534",
+      "attachment_url": "https://nsearchives.nseindia.com/corporate/xbrl/PRIOR_INTIMATION_24197_WebXMLFile_20261113_155200741.xml",
+      "ixbrl_url": "https://nsearchives.nseindia.com/corporate/ixbrl/PRIOR_INTIMATION_24197_20261113_155200781_WEB.html",
+      "captured_at": "2026-11-13T18:45:52+05:30"
+    },
+    {
+      "event_date": "2026-11-25",
+      "market_segment": "sme",
+      "symbol": "ANYA",
+      "company_name": "Anya Polytech & Fertilizers Limited",
+      "purpose": "Financial Results/Other business matters",
+      "details": "ANYA : 25-Nov-2026 :  The Company has informed the Exchange that a Board meeting to be held on November 13, 2026 has been re-scheduled. Further, the Company has informed the Exchange that the meeting of the Board of Directors of the Company will be held on November 25, 2026, To consider and approve the financial results for the period ended September 30, 2026 and other business matters",
+      "announcement_timestamp": "13-Nov-2026 15:38:44",
+      "isin": "106858782",
+      "attachment_url": "https://nsearchives.nseindia.com/corporate/ANYAPOLY_13112026153728_Anya_SE_Intimation_Postponement_and_Rescheduling_of_BM_.pdf",
+      "ixbrl_url": null,
+      "captured_at": "2026-11-13T18:45:52+05:30"
     },
     {
       "event_date": "2026-12-05",
