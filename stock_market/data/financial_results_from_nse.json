@@ -4,7 +4,7 @@
   "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-event-calendar",
   "timezone": "Asia/Kolkata",
   "retention": "unlimited",
-  "updated_at": "2026-11-13T18:45:52+05:30",
+  "updated_at": "2026-11-13T23:27:19+05:30",
   "data": [
     {
       "event_date": "2026-11-12",
@@ -5054,6 +5054,24 @@
     {
       "event_date": "2026-11-14",
       "market_segment": "equity",
+      "symbol": "ONELIFECAP",
+      "company_name": "Onelife Capital Advisors Limited",
+      "purpose": "Financial Results/Fund Raising/Other business matters",
+      "details": "The Company has informed the Exchange that a Board meeting to be held on November 14, 2026 has been re-scheduled. Further, the Company has informed the Exchange that the meeting of the Board of Directors of the Company will be held on November 14, 2026, To consider and approve the financial results for the period ended September 30, 2026, Fund Raising and other business matters",
+      "captured_at": "2026-11-13T23:27:19+05:30"
+    },
+    {
+      "event_date": "2026-11-14",
+      "market_segment": "equity",
+      "symbol": "ONELIFECAP",
+      "company_name": "Onelife Capital Advisors Limited",
+      "purpose": "Financial Results/Fund Raising/Other business matters",
+      "details": "To consider and approve the financial results for the period ended September 30, 2026, Fund Raising and other business matters",
+      "captured_at": "2026-11-13T23:27:19+05:30"
+    },
+    {
+      "event_date": "2026-11-14",
+      "market_segment": "equity",
       "symbol": "ORCHPHARMA",
       "company_name": "Orchid Pharma Limited",
       "purpose": "Financial Results",
@@ -5657,6 +5675,19 @@
     {
       "event_date": "2026-11-14",
       "market_segment": "sme",
+      "symbol": "AKANKSHA",
+      "company_name": "Akanksha Power and Infrastructure Limited",
+      "purpose": "Financial Results/Other business matters",
+      "details": "AKANKSHA : 14-Nov-2026 :  The Company has informed the Exchange that a Board meeting to be held on November 13, 2026 has been re-scheduled. Further, the Company has informed the Exchange that the meeting of the Board of Directors of the Company will be held on November 14, 2026, To consider and approve the financial results for the period ended September 30, 2026 and other business matters",
+      "announcement_timestamp": "13-Nov-2026 20:59:24",
+      "isin": "106859890",
+      "attachment_url": "https://nsearchives.nseindia.com/corporate/AKANKSHAPOWER_13112026205910_Re-Schedule.pdf",
+      "ixbrl_url": null,
+      "captured_at": "2026-11-13T23:27:19+05:30"
+    },
+    {
+      "event_date": "2026-11-14",
+      "market_segment": "sme",
       "symbol": "ARMOUR",
       "company_name": "Armour Security (India) Limited",
       "purpose": "Financial Results",
@@ -5989,6 +6020,32 @@
       "captured_at": "2026-11-11T23:51:28+05:30"
     },
     {
+      "event_date": "2026-11-17",
+      "market_segment": "sme",
+      "symbol": "RICHA",
+      "company_name": "Richa Info Systems Limited",
+      "purpose": "Board Meeting Intimation",
+      "details": "Richa Info Systems Limited has informed the Exchange about Board Meeting to be held on 17-Nov-2026 to inter-alia consider and approve the Unaudited Financial results of the Company for the Half Yearly ended September 2026 .",
+      "announcement_timestamp": "13-Nov-2026 20:09:08",
+      "isin": "60554",
+      "attachment_url": "https://nsearchives.nseindia.com/corporate/xbrl/PRIOR_INTIMATION_20221_WebXMLFile_20261113_200905613.xml",
+      "ixbrl_url": "https://nsearchives.nseindia.com/corporate/ixbrl/PRIOR_INTIMATION_20221_20261113_200905650_WEB.html",
+      "captured_at": "2026-11-13T23:27:19+05:30"
+    },
+    {
+      "event_date": "2026-11-17",
+      "market_segment": "sme",
+      "symbol": "RICHA",
+      "company_name": "Richa Info Systems Limited",
+      "purpose": "Financial Results",
+      "details": "RICHA : 17-Nov-2026 :  The Company has informed the Exchange that a Board meeting to be held on November 13, 2026 has been re-scheduled. Further, the Company has informed the Exchange that the meeting of the Board of Directors of the Company will be held on November 17, 2026,  To consider and approve the financial results for the period ended September 30, 2026",
+      "announcement_timestamp": "13-Nov-2026 20:06:34",
+      "isin": "106859770",
+      "attachment_url": "https://nsearchives.nseindia.com/corporate/RICHA_13112026200624_BMPostponement13112026.pdf",
+      "ixbrl_url": null,
+      "captured_at": "2026-11-13T23:27:19+05:30"
+    },
+    {
       "event_date": "2026-11-18",
       "market_segment": "equity",
       "symbol": "ANSALAPI",
@@ -6119,6 +6176,15 @@
       "attachment_url": "https://nsearchives.nseindia.com/corporate/ANYAPOLY_13112026153728_Anya_SE_Intimation_Postponement_and_Rescheduling_of_BM_.pdf",
       "ixbrl_url": null,
       "captured_at": "2026-11-13T18:45:52+05:30"
+    },
+    {
+      "event_date": "2026-11-28",
+      "market_segment": "equity",
+      "symbol": "BRNL",
+      "company_name": "Bharat Road Network Limited",
+      "purpose": "Financial Results",
+      "details": "BRNL : 28-Nov-2026 :  The Company has informed the Exchange that a Board meeting to be held on November 14, 2026 has been re-scheduled. Further, the Company has informed the Exchange that the meeting of the Board of Directors of the Company will be held on November 28, 2026,  To consider and approve the financial results for the period ended September 30, 2026",
+      "captured_at": "2026-11-13T23:27:19+05:30"
     },
     {
       "event_date": "2026-12-05",
