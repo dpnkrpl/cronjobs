@@ -9,6 +9,7 @@ import tempfile
 from datetime import datetime
 from pathlib import Path
 from typing import Any
+from urllib.parse import quote
 from zoneinfo import ZoneInfo
 
 
@@ -54,6 +55,13 @@ def format_number(value: Any, decimals: int = 2) -> str:
 
 def markdown_cell(value: Any) -> str:
     return " ".join(str(value if value is not None else "N/A").replace("|", "\\|").split())
+
+
+def screener_link(symbol: Any) -> str:
+    if not isinstance(symbol, str) or not symbol:
+        return "N/A"
+    label = markdown_cell(symbol).replace("[", "\\[").replace("]", "\\]")
+    return f"[{label}](https://www.screener.in/company/{quote(symbol, safe='')})"
 
 
 def latest_snapshot_label(record: dict[str, Any] | None, date_field: str) -> str:
@@ -163,7 +171,7 @@ def render_streaks(
         return "No multi-snapshot streaks found in the available history."
 
     lines = [
-        f"- `{streak['symbol']}`: {streak['snapshots']} consecutive snapshots "
+        f"- {screener_link(streak['symbol'])}: {streak['snapshots']} consecutive snapshots "
         f"({streak['start']} to {streak['end']}), "
         f"{format_percent(streak['change_percent'])} compounded."
         for streak in streaks[:TOP_COUNT]
@@ -198,7 +206,7 @@ def render_bulk_deals(records: list[dict[str, Any]]) -> str:
             "| "
             + " | ".join(
                 (
-                    markdown_cell(deal.get("symbol")),
+                    screener_link(deal.get("symbol")),
                     {"BUY": ":green_circle:", "SELL": ":red_circle:"}.get(
                         deal.get("buy_sell"), markdown_cell(deal.get("buy_sell"))
                     ),
@@ -229,7 +237,7 @@ def render_results(records: list[dict[str, Any]], today: str) -> str:
     ]
     for event_date in sorted(by_date):
         symbols = sorted(by_date[event_date])
-        formatted_symbols = " ".join(f"`{symbol}`" for symbol in symbols)
+        formatted_symbols = " , ".join(screener_link(symbol) for symbol in symbols)
         symbol_label = "symbol" if len(symbols) == 1 else "symbols"
         lines.append(f"- **{event_date} ({len(symbols)} {symbol_label}):** {formatted_symbols}")
     return "\n".join(lines)
@@ -307,9 +315,9 @@ def render_movers(records: list[dict[str, Any]]) -> str:
             gainer = gainers[index] if index < len(gainers) else {}
             loser = losers[index] if index < len(losers) else {}
             table_lines.append(
-                f"| {markdown_cell(gainer.get('symbol', ''))} "
+                f"| {screener_link(gainer.get('symbol'))} "
                 f"| {format_percent(gainer.get('change_percent'))} "
-                f"| {markdown_cell(loser.get('symbol', ''))} "
+                f"| {screener_link(loser.get('symbol'))} "
                 f"| {format_percent(loser.get('change_percent'))} |"
             )
         table = "\n".join(table_lines)

@@ -1,6 +1,11 @@
 import unittest
 
-from stock_market.scraper.update_readme import find_streaks, format_percent, latest_fetch_label
+from stock_market.scraper.update_readme import (
+    find_streaks,
+    format_percent,
+    latest_fetch_label,
+    screener_link,
+)
 
 
 class READMEStreakTests(unittest.TestCase):
@@ -39,6 +44,16 @@ class READMEStreakTests(unittest.TestCase):
         )
 
         self.assertEqual(latest, "2026-11-13 23:27:19 IST")
+
+    def test_screener_links_encode_special_symbols(self):
+        self.assertEqual(
+            screener_link("ABC"),
+            "[ABC](https://www.screener.in/company/ABC)",
+        )
+        self.assertEqual(
+            screener_link("GVT&D"),
+            "[GVT&D](https://www.screener.in/company/GVT%26D)",
+        )
 
 
 if __name__ == "__main__":
