@@ -1,101 +1,76 @@
 # cronjobs [![Stock market scrapers](https://github.com/dpnkrpl/cronjobs/actions/workflows/stock-market-scrapers.yml/badge.svg)](https://github.com/dpnkrpl/cronjobs/actions/workflows/stock-market-scrapers.yml)
 Cron jobs for various use cases 
 
-## Groww NIFTY 500 market snapshot
+Generated from the saved JSON files in [`stock_market/data`](stock_market/data). Market snapshots are not synchronized: bulk deals: 2026-11-11; sectors: 2026-11-12; gainers/losers: 2026-11-11 (IST). Financial-results calendar last updated: 2026-11-11T23:51:28+05:30.
 
-`stock_market/scraper/top_gainer_looser_from_groww.py` collects Groww's top
-gainers, top losers, 52-week highs, and 52-week lows for the NIFTY 500. It
-reads the server-rendered stock data and writes a dated snapshot to
-[`stock_market/data/top_gainers_loosers_from_groww.json`](stock_market/data/top_gainers_loosers_from_groww.json).
-Each record includes source URLs, capture time, rank, stock identifiers, prices,
-day change and percentage, market cap, volume, and 52-week range where provided
-by Groww. The JSON retains the current date and the previous 14 calendar dates;
-a rerun on the same day replaces that day's snapshot. A snapshot whose index
-and category data exactly match any stored snapshot is skipped (timestamps and
-dates do not affect the comparison), avoiding entries for market holidays or
-other unchanged trading data.
+## Today's Bulk Deal
 
-The scraper uses only the Python standard library. Run it manually with:
+Latest available snapshot: **2026-11-11**, with 71 reported deal rows. Showing the 10 largest rows by quantity.
 
-```sh
-python3 stock_market/scraper/top_gainer_looser_from_groww.py
-```
+| Symbol | Side | Quantity | Avg. price | Client |
+| --- | --- | ---: | ---: | --- |
+| GATECH | BUY | 11,524,019 | 0.60 | JAGID VANITABEN RAJENDRAPRASAD |
+| MOTISONS | BUY | 10,068,681 | 14.45 | ARIHANT CAPITAL MARKETS LIMITED |
+| MOTISONS | SELL | 7,876,181 | 14.32 | ARIHANT CAPITAL MARKETS LIMITED |
+| KALYANKJIL | BUY | 6,293,593 | 671.10 | GRAVITON RESEARCH CAPITAL LLP |
+| KALYANKJIL | SELL | 6,273,018 | 671.44 | GRAVITON RESEARCH CAPITAL LLP |
+| GATECH | SELL | 4,243,228 | 0.62 | JAGID VANITABEN RAJENDRAPRASAD |
+| ASHOKA | SELL | 2,199,664 | 114.20 | ALPHAGREP SECURITIES PRIVATE LIMITED |
+| ASHOKA | BUY | 2,199,664 | 114.13 | ALPHAGREP SECURITIES PRIVATE LIMITED |
+| COHANCE | SELL | 2,100,000 | 449.50 | JASTI FAMILY TRUST |
+| COHANCE | BUY | 2,100,000 | 449.50 | JASUB PROPERTY HOLDINGS LLP |
 
-To schedule it Monday through Friday at 4:00 PM India time, replace the
-repository path in `stock_market/crontab`, then install those entries with
-`crontab stock_market/crontab`. The schedule uses `CRON_TZ=Asia/Kolkata`;
-scraper output and errors are appended to
-`stock_market/scraper/groww_scraper.log`. The host must have cron enabled and
-network access to Groww.
+## Today's and Upcoming Results
 
-The [Stock market scrapers GitHub Actions workflow](.github/workflows/stock-market-scrapers.yml)
-runs all four scrapers on the same weekday 4:00 PM India schedule
-(10:30 UTC), commits changed JSON data, and can also be started manually from
-the Actions tab. Repository Actions must be enabled, and the workflow's
-`GITHUB_TOKEN` must be allowed to write contents for its data commits.
+NSE financial-result symbols from **2026-11-14** onward, grouped by event date.
 
-## Groww trending-sector history
+- **2026-11-14 (194 symbols):** `AAREYDRUGS` `AARTECH` `AARTISURF` `ABCIND` `ABHISHEK` `AFFORDABLE` `AGASTYAEN` `AGL` `AHLADA` `AIRAN` `ALGOQUANT` `ALPA` `AMDIND` `ANIKINDS` `ANNAPURNA` `AQYLON` `ARCHIES` `ARCOTECH` `ARENTERP` `ARHAM` `ARMOUR` `ASHOKLEY` `ASIL` `ASMS` `ATALREAL` `ATAM` `AVROIND` `BALUFORGE` `BANG` `BBTCL` `BCG` `BEARDSELL` `BGRENERGY` `BHANDARI` `BILVYAPAR` `BIOFILCHEM` `BLEL` `BONLON` `BRIGHTOUTD` `BRNL` `BTML` `CALSOFT` `CAPTRUST` `CENTEXT` `CHEVIOT` `COASTCORP` `COMSYN` `COREIN` `DBOL` `DCMSIL` `DEEDEV` `DHAMPURSUG` `DOLATALGO` `DSFCL` `DSSL` `EASEMYTRIP` `EUROBOND` `EXPLEOSOL` `FILATFASH` `FINBUD` `FIRSTCRY` `FISCHER` `GENCON` `GENUSPOWER` `GFLLIMITED` `GICL` `GLOBECIVIL` `GLOSTERLTD` `GOENKA` `GOKUL` `GRMOVER` `GSS` `GUFICBIO` `GUJAPOLLO` `GUJTHEM` `GURUNANAK` `HEALTHX` `HEROMOTORS` `HEXAGON` `HILINFRA` `HIMATSEIDE` `HISARMETAL` `ICSA` `INNOVANA` `JAIPURKURT` `JAMNAAUTO` `JINDALPOLY` `JSIPL` `JSLL` `KAVDEFENCE` `KAYNES` `KEEPLEARN` `KELLTONTEC` `KERNEX` `KHAZANCHI` `KNAGRI` `KONTOR` `KRISHANA` `LANCORHOL` `LASA` `LAXMICOT` `LEXUS` `LIBAS` `LOVABLE` `MAANALU` `MADHAV` `MAGNUM` `MANAKSTEEL` `MANORG` `MBAPL` `MCL` `MCLEODRUSS` `MODTHREAD` `MOKSH` `MOTISONS` `NAHARINDUS` `NATHBIOGEN` `NECLIFE` `NIBE` `NITINFIRE` `NITIRAJ` `NOVAAGRI` `OMINFRAL` `ORCHPHARMA` `OSWALSEEDS` `OWAIS` `PANACEABIO` `PATANJALI` `PAVNAIND` `PRITI` `PRUDMOULI` `PTCIL` `QMSMEDI` `RAJMET` `RAMASTEEL` `RCOM` `RKEC` `RMC` `RVHL` `SAHLIBHFI` `SAKUMA` `SALASAR` `SAMMAANCAP` `SANWARIA` `SATIPOLY` `SGL` `SHAH` `SHAHINVEST` `SHANTI` `SHKSIL` `SHRADHA` `SHREEJISPG` `SIGIND` `SINDHUTRAD` `SKYWAYS` `SOMICONVEY` `SONA` `SRHHYPOLTD` `SRM` `SSDL` `STARPAPER` `STYLEBAAZA` `SUPERHOUSE` `SUPREMEENG` `SWARAJ` `TARMAT` `TCL` `TECHNOCRAF` `TEJASCARGO` `THEMISMED` `TIL` `TOLINS` `TVSELECT` `TVSSRICHAK` `TVVISION` `UDAYJEW` `UMAEXPORTS` `UNIDT` `UNIINFO` `URAVIDEF` `USK` `VAISHALI` `VASWANI` `VICTORYEV` `VIKASECO` `VIKRAMSOLR` `VISHWARAJ` `VNL` `VPRPL` `VRAJ` `WCIL` `XLENERGY` `YASHOPTICS` `ZEEMEDIA`
+- **2026-11-16 (1 symbol):** `SANDHAR`
+- **2026-11-18 (1 symbol):** `GVPTECH`
+- **2026-12-05 (2 symbols):** `LATTEYS` `RNBDENIMS`
 
-`stock_market/scraper/trending_sector_from_groww.py` collects Groww's trending
-sectors from
-[`https://groww.in/stocks/sectors-trending`](https://groww.in/stocks/sectors-trending)
-and writes daily market snapshots to
-[`stock_market/data/trending_sectors_from_groww.json`](stock_market/data/trending_sectors_from_groww.json).
-Snapshots include the sector's rank, constituent breadth, and day-change
-percentage. The scraper runs at 4:00 PM Asia/Kolkata, after the regular market
-close, retains the current date and previous 14 calendar dates, and skips
-unchanged sector data to avoid duplicate/holiday records. A changed snapshot
-for the same date replaces that date's entry.
+## Trending Sectors Today
 
-Run it manually with:
+Latest available snapshot: **2026-11-12**. Top 10 sectors by reported rank; breadth is positive stocks / total stocks.
 
-```sh
-python3 stock_market/scraper/trending_sector_from_groww.py
-```
+| Rank | Sector | Day change | Positive breadth |
+| ---: | --- | ---: | ---: |
+| 1 | Real Estate | +2.67% | 124 / 174 |
+| 2 | Insurance | +1.85% | 14 / 15 |
+| 3 | E-Commerce/App based Aggregator | +1.51% | 19 / 26 |
+| 4 | Financial Services | +1.45% | 309 / 487 |
+| 5 | Bearings | +1.17% | 4 / 11 |
+| 6 | Paper | +1.08% | 26 / 37 |
+| 7 | Maritime Industries | +1.06% | 12 / 20 |
+| 8 | Defence | +0.99% | 18 / 24 |
+| 9 | Media & Entertainment | +0.92% | 79 / 121 |
+| 10 | Refractories | +0.88% | 12 / 16 |
 
-Its weekday 4:00 PM Asia/Kolkata cron entry logs to
-`stock_market/scraper/groww_trending_sectors_scraper.log`; it also runs in the
-stock-market GitHub Actions workflow.
+**Multi-day sector streaks:** Consecutive appearances in the daily top 10; returns are compounded.
 
-## NSE bulk-deal history
+No multi-snapshot streaks found in the available history.
 
-`stock_market/scraper/bulk_deals_from_nse.py` reads the bulk-deals JSON feed
-used by NSE's [Large Deals](https://www.nseindia.com/market-data/large-deals)
-page and writes normalized table rows to
-[`stock_market/data/bulk_deals_from_nse.json`](stock_market/data/bulk_deals_from_nse.json).
-Rows are grouped by their table date, not the scraper's run date. It keeps the
-15 most recent dates in the table, skips an existing date when its deal rows
-are identical, and replaces that date's entry if NSE publishes corrected rows.
-An empty table adds no entry.
+## Today's Gainers and Losers
 
-Run it manually with:
+Latest available snapshot: **2026-11-11** (NIFTY 500). Top 10 in each category by daily percentage change.
 
-```sh
-python3 stock_market/scraper/bulk_deals_from_nse.py
-```
+| Top gainers | Change | Top losers | Change |
+| --- | ---: | --- | ---: |
+| FACT | +8.67% | COCHINSHIP | -6.82% |
+| KALYANKJIL | +8.63% | PFOCUS | -5.38% |
+| NETWEB | +8.22% | GALLANTT | -4.72% |
+| SUNTV | +7.21% | VIJAYA | -3.69% |
+| RKFORGE | +7.19% | PRIVISCL | -3.49% |
+| TDPOWERSYS | +6.69% | ADANIGREEN | -3.26% |
+| BBOX | +6.56% | NHPC | -3.10% |
+| IIFL | +6.26% | LGEINDIA | -2.97% |
+| DEEPAKFERT | +6.11% | RUBICON | -2.73% |
+| BEML | +6.05% | MPHASIS | -2.65% |
 
-The weekday 4:00 PM Asia/Kolkata cron entry is in `stock_market/crontab` and
-logs to `stock_market/scraper/nse_bulk_deals_scraper.log`. NSE access may be
-rate-limited; HTTP and payload errors are reported rather than written as
-successful empty data.
+**Multi-day gainers:** Consecutive appearances in the saved top-100 gainer snapshots; returns are compounded.
 
-## NSE financial-results event history
+No multi-snapshot streaks found in the available history.
 
-`stock_market/scraper/financial_results_from_nse.py` collects equity and SME
-events mentioning financial results from NSE's
-[Corporate Filings Event Calendar](https://www.nseindia.com/companies-listing/corporate-filings-event-calendar)
-and stores them in
-[`stock_market/data/financial_results_from_nse.json`](stock_market/data/financial_results_from_nse.json).
-Each entry preserves the event date from NSE, company/symbol, purpose, event
-details, market segment, and available SME filing metadata. The JSON history is
-unlimited: exact duplicate events are ignored (collection timestamps do not
-cause duplicates), and entries remain date-sortable for historical use.
+**Multi-day losers:** Consecutive appearances in the saved top-100 loser snapshots; returns are compounded.
 
-Run it manually with:
-
-```sh
-python3 stock_market/scraper/financial_results_from_nse.py
-```
-
-Its weekday 4:00 PM Asia/Kolkata cron entry is in `stock_market/crontab` and
-logs to `stock_market/scraper/nse_financial_results_scraper.log`.
+No multi-snapshot streaks found in the available history.
