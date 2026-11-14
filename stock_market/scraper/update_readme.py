@@ -40,7 +40,8 @@ def latest_record(records: list[dict[str, Any]], date_field: str) -> dict[str, A
 def format_percent(value: Any) -> str:
     if isinstance(value, bool) or not isinstance(value, (int, float)):
         return "N/A"
-    return f"{value:+.2f}%"
+    marker = ":green_circle: " if value > 0 else ":red_circle: " if value < 0 else ""
+    return f"{marker}{value:+.2f}%"
 
 
 def format_number(value: Any, decimals: int = 2) -> str:
@@ -57,6 +58,24 @@ def markdown_cell(value: Any) -> str:
 
 def latest_snapshot_label(record: dict[str, Any] | None, date_field: str) -> str:
     return record.get(date_field, "no snapshot") if record else "no snapshot"
+
+
+def latest_fetch_label(documents: list[dict[str, Any]]) -> str:
+    fetch_times = []
+    for document in documents:
+        value = document.get("updated_at")
+        if not isinstance(value, str):
+            continue
+        try:
+            fetched_at = datetime.fromisoformat(value)
+        except ValueError:
+            continue
+        if fetched_at.tzinfo is None:
+            fetched_at = fetched_at.replace(tzinfo=TIMEZONE)
+        fetch_times.append(fetched_at.astimezone(TIMEZONE))
+    if not fetch_times:
+        return "unavailable"
+    return max(fetch_times).strftime("%Y-%m-%d %H:%M:%S IST")
 
 
 def market_values(
@@ -180,7 +199,9 @@ def render_bulk_deals(records: list[dict[str, Any]]) -> str:
             + " | ".join(
                 (
                     markdown_cell(deal.get("symbol")),
-                    markdown_cell(deal.get("buy_sell")),
+                    {"BUY": ":green_circle:", "SELL": ":red_circle:"}.get(
+                        deal.get("buy_sell"), markdown_cell(deal.get("buy_sell"))
+                    ),
                     format_number(deal.get("quantity"), 0),
                     format_number(deal.get("weighted_average_trade_price")),
                     markdown_cell(deal.get("client_name")),
@@ -332,8 +353,13 @@ def build_readme(today: str | None = None) -> str:
         f"gainers/losers: {latest_snapshot_label(latest_record(movers_document['data'], 'date'), 'date')}"
     )
     results_updated = results_document.get("updated_at") or "unknown"
+    last_fetch = latest_fetch_label(
+        [bulk_document, results_document, sector_document, movers_document]
+    )
     sections = [
         "# Stock Market Snapshot",
+        "",
+        f"**Last data fetch (IST):** {last_fetch}",
         "",
         "Generated from the saved JSON files in [`stock_market/data`](stock_market/data). "
         f"Market snapshots are not synchronized: {snapshot_dates} (IST). "

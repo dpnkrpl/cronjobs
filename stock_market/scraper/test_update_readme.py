@@ -1,6 +1,6 @@
 import unittest
 
-from stock_market.scraper.update_readme import find_streaks
+from stock_market.scraper.update_readme import find_streaks, format_percent, latest_fetch_label
 
 
 class READMEStreakTests(unittest.TestCase):
@@ -25,6 +25,20 @@ class READMEStreakTests(unittest.TestCase):
         self.assertEqual(runs_by_symbol["AAA"][1]["start"], "2026-11-12")
         self.assertAlmostEqual(runs_by_symbol["AAA"][1]["change_percent"], 7.1)
         self.assertAlmostEqual(runs_by_symbol["BBB"][0]["change_percent"], -3.96)
+
+    def test_percentages_use_matching_circle_marker(self):
+        self.assertEqual(format_percent(2.5), ":green_circle: +2.50%")
+        self.assertEqual(format_percent(-1.25), ":red_circle: -1.25%")
+
+    def test_latest_fetch_uses_newest_document_timestamp(self):
+        latest = latest_fetch_label(
+            [
+                {"updated_at": "2026-11-13T16:00:00+05:30"},
+                {"updated_at": "2026-11-13T23:27:19+05:30"},
+            ]
+        )
+
+        self.assertEqual(latest, "2026-11-13 23:27:19 IST")
 
 
 if __name__ == "__main__":

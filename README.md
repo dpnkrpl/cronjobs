@@ -1,5 +1,7 @@
 # Stock Market Snapshot
 
+**Last data fetch (IST):** 2026-11-13 23:27:19 IST
+
 Generated from the saved JSON files in [`stock_market/data`](stock_market/data). Market snapshots are not synchronized: bulk deals: 2026-11-13; sectors: 2026-11-13; gainers/losers: 2026-11-13 (IST). Financial-results calendar last updated: 2026-11-13T23:27:19+05:30.
 
 ## Today's Bulk Deal
@@ -8,16 +10,16 @@ Latest available snapshot: **2026-11-13**, with 136 reported deal rows. Showing 
 
 | Symbol | Side | Quantity | Avg. price | Client |
 | --- | --- | ---: | ---: | --- |
-| MEESHO | SELL | 76,400,000 | 246.75 | SVF II MEERKAT (DE) LLC |
-| DHANBANK | BUY | 5,431,286 | 39.25 | ALPHAGREP SECURITIES PRIVATE LIMITED |
-| DHANBANK | SELL | 5,431,286 | 39.28 | ALPHAGREP SECURITIES PRIVATE LIMITED |
-| DHANBANK | BUY | 4,661,724 | 39.30 | JUNOMONETA FINSOL PRIVATE LIMITED |
-| DHANBANK | SELL | 4,653,122 | 39.33 | JUNOMONETA FINSOL PRIVATE LIMITED |
-| DHANBANK | BUY | 4,404,674 | 39.50 | MICROCURVES TRADING PRIVATE LIMITED |
-| DHANBANK | SELL | 4,404,674 | 39.52 | MICROCURVES TRADING PRIVATE LIMITED |
-| BLSPOLY | BUY | 3,883,186 | 265.12 | PLUTUS WEALTH MANAGEMENT LLP |
-| BLSPOLY | SELL | 3,883,186 | 265.23 | PLUTUS WEALTH MANAGEMENT LLP |
-| DHANBANK | BUY | 3,184,192 | 39.43 | NK SECURITIES RESEARCH PRIVATE LIMITED |
+| MEESHO | :red_circle: | 76,400,000 | 246.75 | SVF II MEERKAT (DE) LLC |
+| DHANBANK | :green_circle: | 5,431,286 | 39.25 | ALPHAGREP SECURITIES PRIVATE LIMITED |
+| DHANBANK | :red_circle: | 5,431,286 | 39.28 | ALPHAGREP SECURITIES PRIVATE LIMITED |
+| DHANBANK | :green_circle: | 4,661,724 | 39.30 | JUNOMONETA FINSOL PRIVATE LIMITED |
+| DHANBANK | :red_circle: | 4,653,122 | 39.33 | JUNOMONETA FINSOL PRIVATE LIMITED |
+| DHANBANK | :green_circle: | 4,404,674 | 39.50 | MICROCURVES TRADING PRIVATE LIMITED |
+| DHANBANK | :red_circle: | 4,404,674 | 39.52 | MICROCURVES TRADING PRIVATE LIMITED |
+| BLSPOLY | :green_circle: | 3,883,186 | 265.12 | PLUTUS WEALTH MANAGEMENT LLP |
+| BLSPOLY | :red_circle: | 3,883,186 | 265.23 | PLUTUS WEALTH MANAGEMENT LLP |
+| DHANBANK | :green_circle: | 3,184,192 | 39.43 | NK SECURITIES RESEARCH PRIVATE LIMITED |
 
 ## Today's and Upcoming Results
 
@@ -40,20 +42,20 @@ Latest available snapshot: **2026-11-13**. Top 10 sectors by reported rank; brea
 
 | Rank | Sector | Day change | Positive breadth |
 | ---: | --- | ---: | ---: |
-| 1 | Rubber Products | +2.58% | 10 / 12 |
-| 2 | Telecom Equipment & Infra Services | +1.76% | 16 / 26 |
-| 3 | Electrical Equipment | +1.42% | 50 / 121 |
-| 4 | Education | +1.32% | 19 / 37 |
-| 5 | Engineering | +0.68% | 135 / 277 |
-| 6 | Electrical Appliances | +0.60% | 21 / 39 |
-| 7 | E-Commerce/App based Aggregator | +0.48% | 10 / 24 |
-| 8 | Telecom | +0.38% | 5 / 13 |
-| 9 | Building Materials | +0.36% | 57 / 110 |
-| 10 | Professional Services | +0.29% | 39 / 76 |
+| 1 | Rubber Products | :green_circle: +2.58% | 10 / 12 |
+| 2 | Telecom Equipment & Infra Services | :green_circle: +1.76% | 16 / 26 |
+| 3 | Electrical Equipment | :green_circle: +1.42% | 50 / 121 |
+| 4 | Education | :green_circle: +1.32% | 19 / 37 |
+| 5 | Engineering | :green_circle: +0.68% | 135 / 277 |
+| 6 | Electrical Appliances | :green_circle: +0.60% | 21 / 39 |
+| 7 | E-Commerce/App based Aggregator | :green_circle: +0.48% | 10 / 24 |
+| 8 | Telecom | :green_circle: +0.38% | 5 / 13 |
+| 9 | Building Materials | :green_circle: +0.36% | 57 / 110 |
+| 10 | Professional Services | :green_circle: +0.29% | 39 / 76 |
 
 **Multi-day sector streaks:** Consecutive appearances in the daily top 10; returns are compounded.
 
-- `E-Commerce/App based Aggregator`: 2 consecutive snapshots (2026-11-12 to 2026-11-13), +2.13% compounded.
+- `E-Commerce/App based Aggregator`: 2 consecutive snapshots (2026-11-12 to 2026-11-13), :green_circle: +2.13% compounded.
 
 ## Today's Gainers and Losers
 
@@ -61,39 +63,39 @@ Latest available snapshot: **2026-11-13** (NIFTY 500). Top 10 in each category b
 
 | Top gainers | Change | Top losers | Change |
 | --- | ---: | --- | ---: |
-| POWERINDIA | +10.68% | TECHNOE | -5.64% |
-| AMBER | +9.07% | GABRIEL | -5.39% |
-| ANURAS | +8.22% | TMCV | -4.38% |
-| AEGISVOPAK | +7.05% | RPOWER | -3.79% |
-| ITI | +6.80% | MANAPPURAM | -3.73% |
-| GESHIP | +5.78% | ABSLAMC | -3.66% |
-| GVT&D | +5.24% | ALKEM | -3.55% |
-| POLICYBZR | +5.23% | PIDILITIND | -3.42% |
-| BHARTIHEXA | +4.54% | SHRIRAMFIN | -3.37% |
-| MMTC | +4.08% | IIFL | -3.33% |
+| POWERINDIA | :green_circle: +10.68% | TECHNOE | :red_circle: -5.64% |
+| AMBER | :green_circle: +9.07% | GABRIEL | :red_circle: -5.39% |
+| ANURAS | :green_circle: +8.22% | TMCV | :red_circle: -4.38% |
+| AEGISVOPAK | :green_circle: +7.05% | RPOWER | :red_circle: -3.79% |
+| ITI | :green_circle: +6.80% | MANAPPURAM | :red_circle: -3.73% |
+| GESHIP | :green_circle: +5.78% | ABSLAMC | :red_circle: -3.66% |
+| GVT&D | :green_circle: +5.24% | ALKEM | :red_circle: -3.55% |
+| POLICYBZR | :green_circle: +5.23% | PIDILITIND | :red_circle: -3.42% |
+| BHARTIHEXA | :green_circle: +4.54% | SHRIRAMFIN | :red_circle: -3.37% |
+| MMTC | :green_circle: +4.08% | IIFL | :red_circle: -3.33% |
 
 **Multi-day gainers:** Consecutive appearances in the saved top-100 gainer snapshots; returns are compounded.
 
-- `TDPOWERSYS`: 3 consecutive snapshots (2026-11-11 to 2026-11-13), +11.53% compounded.
-- `MFSL`: 3 consecutive snapshots (2026-11-11 to 2026-11-13), +11.42% compounded.
-- `ENRIN`: 3 consecutive snapshots (2026-11-11 to 2026-11-13), +10.18% compounded.
-- `MTARTECH`: 3 consecutive snapshots (2026-11-11 to 2026-11-13), +9.79% compounded.
-- `PNB`: 3 consecutive snapshots (2026-11-11 to 2026-11-13), +8.05% compounded.
-- `MEESHO`: 3 consecutive snapshots (2026-11-11 to 2026-11-13), +7.80% compounded.
-- `KALYANKJIL`: 2 consecutive snapshots (2026-11-11 to 2026-11-12), +16.35% compounded.
-- `GODREJIND`: 2 consecutive snapshots (2026-11-12 to 2026-11-13), +15.29% compounded.
-- `POLICYBZR`: 2 consecutive snapshots (2026-11-12 to 2026-11-13), +13.22% compounded.
-- `CUPID`: 2 consecutive snapshots (2026-11-11 to 2026-11-12), +12.24% compounded.
+- `TDPOWERSYS`: 3 consecutive snapshots (2026-11-11 to 2026-11-13), :green_circle: +11.53% compounded.
+- `MFSL`: 3 consecutive snapshots (2026-11-11 to 2026-11-13), :green_circle: +11.42% compounded.
+- `ENRIN`: 3 consecutive snapshots (2026-11-11 to 2026-11-13), :green_circle: +10.18% compounded.
+- `MTARTECH`: 3 consecutive snapshots (2026-11-11 to 2026-11-13), :green_circle: +9.79% compounded.
+- `PNB`: 3 consecutive snapshots (2026-11-11 to 2026-11-13), :green_circle: +8.05% compounded.
+- `MEESHO`: 3 consecutive snapshots (2026-11-11 to 2026-11-13), :green_circle: +7.80% compounded.
+- `KALYANKJIL`: 2 consecutive snapshots (2026-11-11 to 2026-11-12), :green_circle: +16.35% compounded.
+- `GODREJIND`: 2 consecutive snapshots (2026-11-12 to 2026-11-13), :green_circle: +15.29% compounded.
+- `POLICYBZR`: 2 consecutive snapshots (2026-11-12 to 2026-11-13), :green_circle: +13.22% compounded.
+- `CUPID`: 2 consecutive snapshots (2026-11-11 to 2026-11-12), :green_circle: +12.24% compounded.
 
 **Multi-day losers:** Consecutive appearances in the saved top-100 loser snapshots; returns are compounded.
 
-- `BDL`: 3 consecutive snapshots (2026-11-11 to 2026-11-13), -7.18% compounded.
-- `OLECTRA`: 3 consecutive snapshots (2026-11-11 to 2026-11-13), -5.03% compounded.
-- `ALKEM`: 2 consecutive snapshots (2026-11-12 to 2026-11-13), -6.13% compounded.
-- `RVNL`: 2 consecutive snapshots (2026-11-12 to 2026-11-13), -4.75% compounded.
-- `HINDPETRO`: 2 consecutive snapshots (2026-11-12 to 2026-11-13), -4.66% compounded.
-- `NHPC`: 2 consecutive snapshots (2026-11-11 to 2026-11-12), -4.47% compounded.
-- `BPCL`: 2 consecutive snapshots (2026-11-12 to 2026-11-13), -4.20% compounded.
-- `TTML`: 2 consecutive snapshots (2026-11-12 to 2026-11-13), -4.20% compounded.
-- `HINDZINC`: 2 consecutive snapshots (2026-11-12 to 2026-11-13), -4.17% compounded.
-- `IRFC`: 2 consecutive snapshots (2026-11-12 to 2026-11-13), -3.92% compounded.
+- `BDL`: 3 consecutive snapshots (2026-11-11 to 2026-11-13), :red_circle: -7.18% compounded.
+- `OLECTRA`: 3 consecutive snapshots (2026-11-11 to 2026-11-13), :red_circle: -5.03% compounded.
+- `ALKEM`: 2 consecutive snapshots (2026-11-12 to 2026-11-13), :red_circle: -6.13% compounded.
+- `RVNL`: 2 consecutive snapshots (2026-11-12 to 2026-11-13), :red_circle: -4.75% compounded.
+- `HINDPETRO`: 2 consecutive snapshots (2026-11-12 to 2026-11-13), :red_circle: -4.66% compounded.
+- `NHPC`: 2 consecutive snapshots (2026-11-11 to 2026-11-12), :red_circle: -4.47% compounded.
+- `BPCL`: 2 consecutive snapshots (2026-11-12 to 2026-11-13), :red_circle: -4.20% compounded.
+- `TTML`: 2 consecutive snapshots (2026-11-12 to 2026-11-13), :red_circle: -4.20% compounded.
+- `HINDZINC`: 2 consecutive snapshots (2026-11-12 to 2026-11-13), :red_circle: -4.17% compounded.
+- `IRFC`: 2 consecutive snapshots (2026-11-12 to 2026-11-13), :red_circle: -3.92% compounded.
