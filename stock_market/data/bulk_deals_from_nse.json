@@ -7,7 +7,7 @@
     "dates": 15,
     "policy": "Keep the 15 most recent dates reported in the bulk-deals table."
   },
-  "updated_at": "2026-11-17T00:17:44+05:30",
+  "updated_at": "2026-11-17T02:07:34+05:30",
   "data": [
     {
       "deal_date": "2026-11-11",
@@ -3445,10 +3445,180 @@
     },
     {
       "deal_date": "2026-11-16",
-      "captured_at": "2026-11-17T00:17:44+05:30",
+      "captured_at": "2026-11-17T02:07:34+05:30",
       "source_url": "https://www.nseindia.com/market-data/large-deals",
       "count": 134,
       "deals": [
+        {
+          "deal_date": "2026-11-16",
+          "symbol": "AAATECH",
+          "company_name": "AAA Technologies Limited",
+          "client_name": "INDRAPRASTHA AGENCIES PRIVATE LIMITED",
+          "buy_sell": "BUY",
+          "quantity": 435000,
+          "weighted_average_trade_price": 92.2,
+          "remarks": "-"
+        },
+        {
+          "deal_date": "2026-11-16",
+          "symbol": "AGIIL",
+          "company_name": "Agi Infra Limited",
+          "client_name": "ARIHANT CAPITAL MARKETS LIMITED",
+          "buy_sell": "BUY",
+          "quantity": 782059,
+          "weighted_average_trade_price": 314.54,
+          "remarks": "-"
+        },
+        {
+          "deal_date": "2026-11-16",
+          "symbol": "AONESTEELS",
+          "company_name": "A-One Steels India Ltd",
+          "client_name": "BULLPULSE MARKETEDGE PRIVATE LIMITED",
+          "buy_sell": "BUY",
+          "quantity": 392688,
+          "weighted_average_trade_price": 467.3,
+          "remarks": "-"
+        },
+        {
+          "deal_date": "2026-11-16",
+          "symbol": "AONESTEELS",
+          "company_name": "A-One Steels India Ltd",
+          "client_name": "ACME CAPITAL MARKET LIMITED",
+          "buy_sell": "BUY",
+          "quantity": 1025899,
+          "weighted_average_trade_price": 469.33,
+          "remarks": "-"
+        },
+        {
+          "deal_date": "2026-11-16",
+          "symbol": "BLSPOLY",
+          "company_name": "BLS Polymers Limited",
+          "client_name": "HRTI PRIVATE LIMITED",
+          "buy_sell": "BUY",
+          "quantity": 257091,
+          "weighted_average_trade_price": 268.84,
+          "remarks": "-"
+        },
+        {
+          "deal_date": "2026-11-16",
+          "symbol": "BLSPOLY",
+          "company_name": "BLS Polymers Limited",
+          "client_name": "ALPHAGREP SECURITIES PRIVATE LIMITED",
+          "buy_sell": "BUY",
+          "quantity": 592994,
+          "weighted_average_trade_price": 267.76,
+          "remarks": "-"
+        },
+        {
+          "deal_date": "2026-11-16",
+          "symbol": "BLSPOLY",
+          "company_name": "BLS Polymers Limited",
+          "client_name": "PLUTUS WEALTH MANAGEMENT LLP",
+          "buy_sell": "BUY",
+          "quantity": 789620,
+          "weighted_average_trade_price": 268.18,
+          "remarks": "-"
+        },
+        {
+          "deal_date": "2026-11-16",
+          "symbol": "BLSPOLY",
+          "company_name": "BLS Polymers Limited",
+          "client_name": "QE SECURITIES LLP",
+          "buy_sell": "BUY",
+          "quantity": 296316,
+          "weighted_average_trade_price": 266.99,
+          "remarks": "-"
+        },
+        {
+          "deal_date": "2026-11-16",
+          "symbol": "COMSYN",
+          "company_name": "Commercial Syn Bags Ltd",
+          "client_name": "QE SECURITIES LLP",
+          "buy_sell": "BUY",
+          "quantity": 235611,
+          "weighted_average_trade_price": 268.41,
+          "remarks": "-"
+        },
+        {
+          "deal_date": "2026-11-16",
+          "symbol": "COMSYN",
+          "company_name": "Commercial Syn Bags Ltd",
+          "client_name": "ARIHANT CAPITAL MARKETS LIMITED",
+          "buy_sell": "BUY",
+          "quantity": 495912,
+          "weighted_average_trade_price": 263.24,
+          "remarks": "-"
+        },
+        {
+          "deal_date": "2026-11-16",
+          "symbol": "DHANBANK",
+          "company_name": "Dhanlaxmi Bank Limited",
+          "client_name": "HRTI PRIVATE LIMITED",
+          "buy_sell": "BUY",
+          "quantity": 2372143,
+          "weighted_average_trade_price": 42.63,
+          "remarks": "-"
+        },
+        {
+          "deal_date": "2026-11-16",
+          "symbol": "DHANBANK",
+          "company_name": "Dhanlaxmi Bank Limited",
+          "client_name": "ALPHAGREP SECURITIES PRIVATE LIMITED",
+          "buy_sell": "BUY",
+          "quantity": 4224408,
+          "weighted_average_trade_price": 42.67,
+          "remarks": "-"
+        },
+        {
+          "deal_date": "2026-11-16",
+          "symbol": "DHANBANK",
+          "company_name": "Dhanlaxmi Bank Limited",
+          "client_name": "JUNOMONETA FINSOL PRIVATE LIMITED",
+          "buy_sell": "BUY",
+          "quantity": 2703703,
+          "weighted_average_trade_price": 42.53,
+          "remarks": "-"
+        },
+        {
+          "deal_date": "2026-11-16",
+          "symbol": "DHANBANK",
+          "company_name": "Dhanlaxmi Bank Limited",
+          "client_name": "PLUTUS WEALTH MANAGEMENT LLP",
+          "buy_sell": "BUY",
+          "quantity": 2727970,
+          "weighted_average_trade_price": 42.61,
+          "remarks": "-"
+        },
+        {
+          "deal_date": "2026-11-16",
+          "symbol": "DHANBANK",
+          "company_name": "Dhanlaxmi Bank Limited",
+          "client_name": "MICROCURVES TRADING PRIVATE LIMITED",
+          "buy_sell": "BUY",
+          "quantity": 5078756,
+          "weighted_average_trade_price": 42.56,
+          "remarks": "-"
+        },
+        {
+          "deal_date": "2026-11-16",
+          "symbol": "DHANBANK",
+          "company_name": "Dhanlaxmi Bank Limited",
+          "client_name": "CLT RESEARCH TECH PRIVATE LTD",
+          "buy_sell": "BUY",
+          "quantity": 2405686,
+          "weighted_average_trade_price": 42.51,
+          "remarks": "-"
+        },
+        {
+          "deal_date": "2026-11-16",
+          "symbol": "DHANBANK",
+          "company_name": "Dhanlaxmi Bank Limited",
+          "client_name": "QE SECURITIES LLP",
+          "buy_sell": "BUY",
+          "quantity": 4251686,
+          "weighted_average_trade_price": 42.59,
+          "remarks": "-"
+        },
         {
           "deal_date": "2026-11-16",
           "symbol": "ENCOMPAS",
@@ -4617,176 +4787,6 @@
           "buy_sell": "SELL",
           "quantity": 2343544,
           "weighted_average_trade_price": 88.82,
-          "remarks": "-"
-        },
-        {
-          "deal_date": "2026-11-16",
-          "symbol": "AAATECH",
-          "company_name": "AAA Technologies Limited",
-          "client_name": "INDRAPRASTHA AGENCIES PRIVATE LIMITED",
-          "buy_sell": "BUY",
-          "quantity": 435000,
-          "weighted_average_trade_price": 92.2,
-          "remarks": "-"
-        },
-        {
-          "deal_date": "2026-11-16",
-          "symbol": "AGIIL",
-          "company_name": "Agi Infra Limited",
-          "client_name": "ARIHANT CAPITAL MARKETS LIMITED",
-          "buy_sell": "BUY",
-          "quantity": 782059,
-          "weighted_average_trade_price": 314.54,
-          "remarks": "-"
-        },
-        {
-          "deal_date": "2026-11-16",
-          "symbol": "AONESTEELS",
-          "company_name": "A-One Steels India Ltd",
-          "client_name": "BULLPULSE MARKETEDGE PRIVATE LIMITED",
-          "buy_sell": "BUY",
-          "quantity": 392688,
-          "weighted_average_trade_price": 467.3,
-          "remarks": "-"
-        },
-        {
-          "deal_date": "2026-11-16",
-          "symbol": "AONESTEELS",
-          "company_name": "A-One Steels India Ltd",
-          "client_name": "ACME CAPITAL MARKET LIMITED",
-          "buy_sell": "BUY",
-          "quantity": 1025899,
-          "weighted_average_trade_price": 469.33,
-          "remarks": "-"
-        },
-        {
-          "deal_date": "2026-11-16",
-          "symbol": "BLSPOLY",
-          "company_name": "BLS Polymers Limited",
-          "client_name": "HRTI PRIVATE LIMITED",
-          "buy_sell": "BUY",
-          "quantity": 257091,
-          "weighted_average_trade_price": 268.84,
-          "remarks": "-"
-        },
-        {
-          "deal_date": "2026-11-16",
-          "symbol": "BLSPOLY",
-          "company_name": "BLS Polymers Limited",
-          "client_name": "ALPHAGREP SECURITIES PRIVATE LIMITED",
-          "buy_sell": "BUY",
-          "quantity": 592994,
-          "weighted_average_trade_price": 267.76,
-          "remarks": "-"
-        },
-        {
-          "deal_date": "2026-11-16",
-          "symbol": "BLSPOLY",
-          "company_name": "BLS Polymers Limited",
-          "client_name": "PLUTUS WEALTH MANAGEMENT LLP",
-          "buy_sell": "BUY",
-          "quantity": 789620,
-          "weighted_average_trade_price": 268.18,
-          "remarks": "-"
-        },
-        {
-          "deal_date": "2026-11-16",
-          "symbol": "BLSPOLY",
-          "company_name": "BLS Polymers Limited",
-          "client_name": "QE SECURITIES LLP",
-          "buy_sell": "BUY",
-          "quantity": 296316,
-          "weighted_average_trade_price": 266.99,
-          "remarks": "-"
-        },
-        {
-          "deal_date": "2026-11-16",
-          "symbol": "COMSYN",
-          "company_name": "Commercial Syn Bags Ltd",
-          "client_name": "QE SECURITIES LLP",
-          "buy_sell": "BUY",
-          "quantity": 235611,
-          "weighted_average_trade_price": 268.41,
-          "remarks": "-"
-        },
-        {
-          "deal_date": "2026-11-16",
-          "symbol": "COMSYN",
-          "company_name": "Commercial Syn Bags Ltd",
-          "client_name": "ARIHANT CAPITAL MARKETS LIMITED",
-          "buy_sell": "BUY",
-          "quantity": 495912,
-          "weighted_average_trade_price": 263.24,
-          "remarks": "-"
-        },
-        {
-          "deal_date": "2026-11-16",
-          "symbol": "DHANBANK",
-          "company_name": "Dhanlaxmi Bank Limited",
-          "client_name": "HRTI PRIVATE LIMITED",
-          "buy_sell": "BUY",
-          "quantity": 2372143,
-          "weighted_average_trade_price": 42.63,
-          "remarks": "-"
-        },
-        {
-          "deal_date": "2026-11-16",
-          "symbol": "DHANBANK",
-          "company_name": "Dhanlaxmi Bank Limited",
-          "client_name": "ALPHAGREP SECURITIES PRIVATE LIMITED",
-          "buy_sell": "BUY",
-          "quantity": 4224408,
-          "weighted_average_trade_price": 42.67,
-          "remarks": "-"
-        },
-        {
-          "deal_date": "2026-11-16",
-          "symbol": "DHANBANK",
-          "company_name": "Dhanlaxmi Bank Limited",
-          "client_name": "JUNOMONETA FINSOL PRIVATE LIMITED",
-          "buy_sell": "BUY",
-          "quantity": 2703703,
-          "weighted_average_trade_price": 42.53,
-          "remarks": "-"
-        },
-        {
-          "deal_date": "2026-11-16",
-          "symbol": "DHANBANK",
-          "company_name": "Dhanlaxmi Bank Limited",
-          "client_name": "PLUTUS WEALTH MANAGEMENT LLP",
-          "buy_sell": "BUY",
-          "quantity": 2727970,
-          "weighted_average_trade_price": 42.61,
-          "remarks": "-"
-        },
-        {
-          "deal_date": "2026-11-16",
-          "symbol": "DHANBANK",
-          "company_name": "Dhanlaxmi Bank Limited",
-          "client_name": "MICROCURVES TRADING PRIVATE LIMITED",
-          "buy_sell": "BUY",
-          "quantity": 5078756,
-          "weighted_average_trade_price": 42.56,
-          "remarks": "-"
-        },
-        {
-          "deal_date": "2026-11-16",
-          "symbol": "DHANBANK",
-          "company_name": "Dhanlaxmi Bank Limited",
-          "client_name": "CLT RESEARCH TECH PRIVATE LTD",
-          "buy_sell": "BUY",
-          "quantity": 2405686,
-          "weighted_average_trade_price": 42.51,
-          "remarks": "-"
-        },
-        {
-          "deal_date": "2026-11-16",
-          "symbol": "DHANBANK",
-          "company_name": "Dhanlaxmi Bank Limited",
-          "client_name": "QE SECURITIES LLP",
-          "buy_sell": "BUY",
-          "quantity": 4251686,
-          "weighted_average_trade_price": 42.59,
           "remarks": "-"
         }
       ]
