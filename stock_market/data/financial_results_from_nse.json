@@ -4,7 +4,7 @@
   "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-event-calendar",
   "timezone": "Asia/Kolkata",
   "retention": "unlimited",
-  "updated_at": "2026-11-13T23:27:19+05:30",
+  "updated_at": "2026-11-17T00:17:47+05:30",
   "data": [
     {
       "event_date": "2026-11-12",
@@ -5688,6 +5688,19 @@
     {
       "event_date": "2026-11-14",
       "market_segment": "sme",
+      "symbol": "AKANKSHA",
+      "company_name": "Akanksha Power and Infrastructure Limited",
+      "purpose": "Financial Results/Other business matters",
+      "details": "AKANKSHA : 14-Nov-2026 :  The Company has informed the Exchange that a Board meeting to be held on November 13, 2026 has been re-scheduled. Further, the Company has informed the Exchange that the meeting of the Board of Directors of the Company will be held on November 14, 2026, To consider and approve the financial results for the period ended September 30, 2026 and other business matters",
+      "announcement_timestamp": "13-Nov-2026 20:59:24",
+      "isin": "106859890",
+      "attachment_url": "https://nsearchives.nseindia.in/corporate/AKANKSHAPOWER_13112026205910_Re-Schedule.pdf",
+      "ixbrl_url": null,
+      "captured_at": "2026-11-17T00:17:47+05:30"
+    },
+    {
+      "event_date": "2026-11-14",
+      "market_segment": "sme",
       "symbol": "ARMOUR",
       "company_name": "Armour Security (India) Limited",
       "purpose": "Financial Results",
@@ -5766,6 +5779,19 @@
     {
       "event_date": "2026-11-14",
       "market_segment": "sme",
+      "symbol": "KHFM",
+      "company_name": "Khfm Hospitality And Facility Management Services Limited",
+      "purpose": "Board meeting Rescheduled",
+      "details": "Khfm Hospitality And Facility Management Services Limited has informed the Exchange that the meeting of the Board of Directors of the Company scheduled to be held on November 14, 2026 To consider and approve the financial results for the period ended September 30, 2026 has been postponed",
+      "announcement_timestamp": "14-Nov-2026 17:06:39",
+      "isin": "106860840",
+      "attachment_url": "https://nsearchives.nseindia.in/corporate/KHFM_14112026170604_Adjournment_Board_Meeting__1_.pdf",
+      "ixbrl_url": null,
+      "captured_at": "2026-11-17T00:17:47+05:30"
+    },
+    {
+      "event_date": "2026-11-14",
+      "market_segment": "sme",
       "symbol": "KONTOR",
       "company_name": "Kontor Space Limited",
       "purpose": "Board Meeting Intimation",
@@ -5801,6 +5827,32 @@
       "attachment_url": "https://nsearchives.nseindia.com/corporate/MARC_12112026105501_MARC_INTIMATION_REGARDING_BOARD_MEETING.pdf",
       "ixbrl_url": null,
       "captured_at": "2026-11-12T21:47:32+05:30"
+    },
+    {
+      "event_date": "2026-11-14",
+      "market_segment": "sme",
+      "symbol": "MAXPOSURE",
+      "company_name": "Maxposure Limited",
+      "purpose": "Financial Results",
+      "details": "To consider and approve the financial results for the period ended September 30, 2026",
+      "announcement_timestamp": "14-Nov-2026 18:24:31",
+      "isin": "106861005",
+      "attachment_url": "https://nsearchives.nseindia.in/corporate/MAXPOSURE_14112026182351_Outcome_of_Board_Meeting__1_.pdf",
+      "ixbrl_url": null,
+      "captured_at": "2026-11-17T00:17:47+05:30"
+    },
+    {
+      "event_date": "2026-11-14",
+      "market_segment": "sme",
+      "symbol": "NIRMAN",
+      "company_name": "Nirman Agri Genetics Limited",
+      "purpose": "Board Meeting Intimation",
+      "details": "NIRMAN AGRI GENETICS LIMITED has informed the Exchange about Board Meeting to be held on 14-Nov-2026 to inter-alia consider and approve the Unaudited Financial results of the Company for the Half Yearly ended September 2026 .",
+      "announcement_timestamp": "14-Nov-2026 16:46:26",
+      "isin": "80301",
+      "attachment_url": "https://nsearchives.nseindia.in/corporate/xbrl/PRIOR_INTIMATION_21545_WebXMLFile_20261114_164624350.xml",
+      "ixbrl_url": "https://nsearchives.nseindia.in/corporate/ixbrl/PRIOR_INTIMATION_21545_20261114_164624391_WEB.html",
+      "captured_at": "2026-11-17T00:17:47+05:30"
     },
     {
       "event_date": "2026-11-14",
@@ -6037,6 +6089,19 @@
       "market_segment": "sme",
       "symbol": "RICHA",
       "company_name": "Richa Info Systems Limited",
+      "purpose": "Board Meeting Intimation",
+      "details": "Richa Info Systems Limited has informed the Exchange about Board Meeting to be held on 17-Nov-2026 to inter-alia consider and approve the Unaudited Financial results of the Company for the Half Yearly ended September 2026 .",
+      "announcement_timestamp": "13-Nov-2026 20:09:08",
+      "isin": "80282",
+      "attachment_url": "https://nsearchives.nseindia.in/corporate/xbrl/PRIOR_INTIMATION_20221_WebXMLFile_20261113_200905613.xml",
+      "ixbrl_url": "https://nsearchives.nseindia.in/corporate/ixbrl/PRIOR_INTIMATION_20221_20261113_200905650_WEB.html",
+      "captured_at": "2026-11-17T00:17:47+05:30"
+    },
+    {
+      "event_date": "2026-11-17",
+      "market_segment": "sme",
+      "symbol": "RICHA",
+      "company_name": "Richa Info Systems Limited",
       "purpose": "Financial Results",
       "details": "RICHA : 17-Nov-2026 :  The Company has informed the Exchange that a Board meeting to be held on November 13, 2026 has been re-scheduled. Further, the Company has informed the Exchange that the meeting of the Board of Directors of the Company will be held on November 17, 2026,  To consider and approve the financial results for the period ended September 30, 2026",
       "announcement_timestamp": "13-Nov-2026 20:06:34",
@@ -6044,6 +6109,19 @@
       "attachment_url": "https://nsearchives.nseindia.com/corporate/RICHA_13112026200624_BMPostponement13112026.pdf",
       "ixbrl_url": null,
       "captured_at": "2026-11-13T23:27:19+05:30"
+    },
+    {
+      "event_date": "2026-11-17",
+      "market_segment": "sme",
+      "symbol": "RICHA",
+      "company_name": "Richa Info Systems Limited",
+      "purpose": "Financial Results",
+      "details": "RICHA : 17-Nov-2026 :  The Company has informed the Exchange that a Board meeting to be held on November 13, 2026 has been re-scheduled. Further, the Company has informed the Exchange that the meeting of the Board of Directors of the Company will be held on November 17, 2026,  To consider and approve the financial results for the period ended September 30, 2026",
+      "announcement_timestamp": "13-Nov-2026 20:06:34",
+      "isin": "106859770",
+      "attachment_url": "https://nsearchives.nseindia.in/corporate/RICHA_13112026200624_BMPostponement13112026.pdf",
+      "ixbrl_url": null,
+      "captured_at": "2026-11-17T00:17:47+05:30"
     },
     {
       "event_date": "2026-11-18",
@@ -6071,6 +6149,45 @@
       "purpose": "Financial Results",
       "details": "To consider and approve the financial results for the period ended September 30, 2026",
       "captured_at": "2026-11-11T23:51:28+05:30"
+    },
+    {
+      "event_date": "2026-11-18",
+      "market_segment": "sme",
+      "symbol": "KONSTELEC",
+      "company_name": "Konstelec Engineers Limited",
+      "purpose": "Financial Results",
+      "details": "To consider and approve the financial results for the period ended September 30, 2026",
+      "announcement_timestamp": "15-Nov-2026 00:00:09",
+      "isin": "106861446",
+      "attachment_url": "https://nsearchives.nseindia.in/corporate/KONSTELEC_14112026235952_NSE_Intimation_BM.pdf",
+      "ixbrl_url": null,
+      "captured_at": "2026-11-17T00:17:47+05:30"
+    },
+    {
+      "event_date": "2026-11-18",
+      "market_segment": "sme",
+      "symbol": "SABAR",
+      "company_name": "Sabar Flex India Limited",
+      "purpose": "Board Meeting Intimation",
+      "details": "SABAR FLEX INDIA LIMITED has informed the Exchange about Board Meeting to be held on 18-Nov-2026 to inter-alia consider and approve the Unaudited Financial results of the Company for the Half Yearly ended September 2026 .",
+      "announcement_timestamp": "14-Nov-2026 17:32:47",
+      "isin": "80321",
+      "attachment_url": "https://nsearchives.nseindia.in/corporate/xbrl/PRIOR_INTIMATION_20681_WebXMLFile_20261114_173244651.xml",
+      "ixbrl_url": "https://nsearchives.nseindia.in/corporate/ixbrl/PRIOR_INTIMATION_20681_20261114_173244692_WEB.html",
+      "captured_at": "2026-11-17T00:17:47+05:30"
+    },
+    {
+      "event_date": "2026-11-18",
+      "market_segment": "sme",
+      "symbol": "SABAR",
+      "company_name": "Sabar Flex India Limited",
+      "purpose": "Financial Results",
+      "details": "SABAR : 18-Nov-2026 :  The Company has informed the Exchange that a Board meeting to be held on November 14, 2026 has been re-scheduled. Further, the Company has informed the Exchange that the meeting of the Board of Directors of the Company will be held on November 18, 2026,  To consider and approve the financial results for the period ended September 30, 2026",
+      "announcement_timestamp": "14-Nov-2026 17:28:30",
+      "isin": "106860891",
+      "attachment_url": "https://nsearchives.nseindia.in/corporate/SABAR_14112026171853_Postponement_of_BM.pdf",
+      "ixbrl_url": null,
+      "captured_at": "2026-11-17T00:17:47+05:30"
     },
     {
       "event_date": "2026-11-18",
@@ -6117,6 +6234,58 @@
       "captured_at": "2026-11-13T18:45:52+05:30"
     },
     {
+      "event_date": "2026-11-19",
+      "market_segment": "sme",
+      "symbol": "KRISHCA",
+      "company_name": "Krishca Strapping Solutions Limited",
+      "purpose": "Board Meeting Intimation",
+      "details": "KRISHCA STRAPPING SOLUTIONS LIMITED has informed the Exchange about Board Meeting to be held on 19-Nov-2026 to consider and approve the Half Yearly Unaudited Financial results of the Company for the period ended September 2026 and Other business.",
+      "announcement_timestamp": "16-Nov-2026 20:22:42",
+      "isin": "80342",
+      "attachment_url": "https://nsearchives.nseindia.in/corporate/xbrl/PRIOR_INTIMATION_21720_WebXMLFile_20261116_202239821.xml",
+      "ixbrl_url": "https://nsearchives.nseindia.in/corporate/ixbrl/PRIOR_INTIMATION_21720_20261116_202239853_WEB.html",
+      "captured_at": "2026-11-17T00:17:47+05:30"
+    },
+    {
+      "event_date": "2026-11-19",
+      "market_segment": "sme",
+      "symbol": "KRISHCA",
+      "company_name": "Krishca Strapping Solutions Limited",
+      "purpose": "Board Meeting Intimation",
+      "details": "KRISHCA STRAPPING SOLUTIONS LIMITED has informed the Exchange about Board Meeting to be held on 19-Nov-2026 to consider and approve the Half Yearly Unaudited Financial results of the Company for the period ended September 2026 and Other business.",
+      "announcement_timestamp": "16-Nov-2026 20:22:21",
+      "isin": "80362",
+      "attachment_url": "https://nsearchives.nseindia.in/corporate/xbrl/PRIOR_INTIMATION_21720_WebXMLFile_20261116_202218970.xml",
+      "ixbrl_url": "https://nsearchives.nseindia.in/corporate/ixbrl/PRIOR_INTIMATION_21720_20261116_202219008_WEB.html",
+      "captured_at": "2026-11-17T00:17:47+05:30"
+    },
+    {
+      "event_date": "2026-11-19",
+      "market_segment": "sme",
+      "symbol": "KRISHCA",
+      "company_name": "Krishca Strapping Solutions Limited",
+      "purpose": "Board Meeting Intimation",
+      "details": "KRISHCA STRAPPING SOLUTIONS LIMITED has informed the Exchange about Board Meeting to be held on 19-Nov-2026 to consider and approve the Half Yearly Unaudited Financial results of the Company for the period ended September 2026 and Other business.",
+      "announcement_timestamp": "16-Nov-2026 20:13:20",
+      "isin": "80381",
+      "attachment_url": "https://nsearchives.nseindia.in/corporate/xbrl/PRIOR_INTIMATION_21720_WebXMLFile_20261116_201317832.xml",
+      "ixbrl_url": "https://nsearchives.nseindia.in/corporate/ixbrl/PRIOR_INTIMATION_21720_20261116_201317873_WEB.html",
+      "captured_at": "2026-11-17T00:17:47+05:30"
+    },
+    {
+      "event_date": "2026-11-19",
+      "market_segment": "sme",
+      "symbol": "KRISHCA",
+      "company_name": "Krishca Strapping Solutions Limited",
+      "purpose": "Financial Results",
+      "details": "To consider and approve the financial results for the period ended September 30, 2026",
+      "announcement_timestamp": "16-Nov-2026 20:28:38",
+      "isin": "106862883",
+      "attachment_url": "https://nsearchives.nseindia.in/corporate/KSSLIPO_16112026202808_BoardMeetingIntimationNov2026.pdf",
+      "ixbrl_url": null,
+      "captured_at": "2026-11-17T00:17:47+05:30"
+    },
+    {
       "event_date": "2026-11-20",
       "market_segment": "equity",
       "symbol": "VALECHAENG",
@@ -6124,6 +6293,28 @@
       "purpose": "Financial Results",
       "details": "VALECHAENG : 20-Nov-2026 :  The Company has informed the Exchange that a Board meeting to be held on November 13, 2026 has been re-scheduled. Further, the Company has informed the Exchange that the meeting of the Board of Directors of the Company will be held on November 20, 2026,  To consider and approve the financial results for the period ended September 30, 2026",
       "captured_at": "2026-11-13T18:45:52+05:30"
+    },
+    {
+      "event_date": "2026-11-21",
+      "market_segment": "sme",
+      "symbol": "MONOPHARMA",
+      "company_name": "Mono Pharmacare Limited",
+      "purpose": "Financial Results",
+      "details": "MONOPHARMA : 21-Nov-2026 :  The Company has informed the Exchange that a Board meeting to be held on November 14, 2026 has been re-scheduled. Further, the Company has informed the Exchange that the meeting of the Board of Directors of the Company will be held on November 21, 2026,  To consider and approve the financial results for the period ended September 30, 2026",
+      "announcement_timestamp": "14-Nov-2026 13:32:25",
+      "isin": "106860471",
+      "attachment_url": "https://nsearchives.nseindia.in/corporate/MONO_14112026133158_Intimation__1_.pdf",
+      "ixbrl_url": null,
+      "captured_at": "2026-11-17T00:17:47+05:30"
+    },
+    {
+      "event_date": "2026-11-23",
+      "market_segment": "equity",
+      "symbol": "BCSSL",
+      "company_name": "Bombay Coated and Special Steels Limited",
+      "purpose": "Financial Results",
+      "details": "To consider and approve the financial results for the period ended September 30, 2026",
+      "captured_at": "2026-11-17T00:17:47+05:30"
     },
     {
       "event_date": "2026-11-23",
@@ -6176,6 +6367,32 @@
       "attachment_url": "https://nsearchives.nseindia.com/corporate/ANYAPOLY_13112026153728_Anya_SE_Intimation_Postponement_and_Rescheduling_of_BM_.pdf",
       "ixbrl_url": null,
       "captured_at": "2026-11-13T18:45:52+05:30"
+    },
+    {
+      "event_date": "2026-11-25",
+      "market_segment": "sme",
+      "symbol": "RBMINFRA",
+      "company_name": "Rbm Infracon Limited",
+      "purpose": "Board Meeting Intimation",
+      "details": "Rbm Infracon Limited has informed the Exchange about Board Meeting to be held on 25-Nov-2026 to inter-alia consider and approve the Unaudited Financial results of the Company for the Half Yearly ended September 2027 .",
+      "announcement_timestamp": "14-Nov-2026 18:30:23",
+      "isin": "80322",
+      "attachment_url": "https://nsearchives.nseindia.in/corporate/xbrl/PRIOR_INTIMATION_21241_WebXMLFile_20261114_183021089.xml",
+      "ixbrl_url": "https://nsearchives.nseindia.in/corporate/ixbrl/PRIOR_INTIMATION_21241_20261114_183021128_WEB.html",
+      "captured_at": "2026-11-17T00:17:47+05:30"
+    },
+    {
+      "event_date": "2026-11-25",
+      "market_segment": "sme",
+      "symbol": "RBMINFRA",
+      "company_name": "Rbm Infracon Limited",
+      "purpose": "Financial Results",
+      "details": "To consider and approve the financial results for the period ended September 30, 2026",
+      "announcement_timestamp": "14-Nov-2026 18:16:35",
+      "isin": "106860982",
+      "attachment_url": "https://nsearchives.nseindia.in/corporate/RBMINFRACON_14112026181605_Prior_Intimation_of_BM-.pdf",
+      "ixbrl_url": null,
+      "captured_at": "2026-11-17T00:17:47+05:30"
     },
     {
       "event_date": "2026-11-28",
