@@ -4,7 +4,7 @@
   "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-event-calendar",
   "timezone": "Asia/Kolkata",
   "retention": "unlimited",
-  "updated_at": "2026-11-17T00:17:47+05:30",
+  "updated_at": "2026-11-18T00:46:30+05:30",
   "data": [
     {
       "event_date": "2026-11-12",
@@ -6155,6 +6155,19 @@
       "market_segment": "sme",
       "symbol": "KONSTELEC",
       "company_name": "Konstelec Engineers Limited",
+      "purpose": "Board Meeting Intimation",
+      "details": "KONSTELEC ENGINEERS LIMITED has informed the Exchange about Board Meeting to be held on 18-Nov-2026 to inter-alia consider and approve the Unaudited Financial results of the Company for the Half Yearly ended September 2026 .",
+      "announcement_timestamp": "17-Nov-2026 12:18:38",
+      "isin": "80401",
+      "attachment_url": "https://nsearchives.nseindia.in/corporate/xbrl/PRIOR_INTIMATION_22602_WebXMLFile_20261117_121836305.xml",
+      "ixbrl_url": "https://nsearchives.nseindia.in/corporate/ixbrl/PRIOR_INTIMATION_22602_20261117_121836339_WEB.html",
+      "captured_at": "2026-11-18T00:46:30+05:30"
+    },
+    {
+      "event_date": "2026-11-18",
+      "market_segment": "sme",
+      "symbol": "KONSTELEC",
+      "company_name": "Konstelec Engineers Limited",
       "purpose": "Financial Results",
       "details": "To consider and approve the financial results for the period ended September 30, 2026",
       "announcement_timestamp": "15-Nov-2026 00:00:09",
@@ -6288,6 +6301,15 @@
     {
       "event_date": "2026-11-20",
       "market_segment": "equity",
+      "symbol": "GVPTECH",
+      "company_name": "GVP Infotech Limited",
+      "purpose": "Financial Results",
+      "details": "GVPTECH : 20-Nov-2026 :  The Company has informed the Exchange that a Board meeting to be held on November 18, 2026 has been re-scheduled. Further, the Company has informed the Exchange that the meeting of the Board of Directors of the Company will be held on November 20, 2026,  To consider and approve the financial results for the period ended September 30, 2026",
+      "captured_at": "2026-11-18T00:46:30+05:30"
+    },
+    {
+      "event_date": "2026-11-20",
+      "market_segment": "equity",
       "symbol": "VALECHAENG",
       "company_name": "Valecha Engineering Limited",
       "purpose": "Financial Results",
@@ -6341,6 +6363,15 @@
       "attachment_url": "https://nsearchives.nseindia.com/corporate/KOREDIGITAL_13112026125005_Intimation_of_BM_23112026.pdf",
       "ixbrl_url": null,
       "captured_at": "2026-11-13T18:45:52+05:30"
+    },
+    {
+      "event_date": "2026-11-24",
+      "market_segment": "equity",
+      "symbol": "SETCO",
+      "company_name": "Setco Automotive Limited",
+      "purpose": "Financial Results/Other business matters",
+      "details": "To consider and approve the financial results for the period ended September 30, 2026 and other business matters",
+      "captured_at": "2026-11-18T00:46:30+05:30"
     },
     {
       "event_date": "2026-11-25",
