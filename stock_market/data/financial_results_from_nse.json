@@ -4,7 +4,7 @@
   "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-event-calendar",
   "timezone": "Asia/Kolkata",
   "retention": "unlimited",
-  "updated_at": "2026-11-18T00:46:30+05:30",
+  "updated_at": "2026-11-19T00:27:34+05:30",
   "data": [
     {
       "event_date": "2026-11-12",
@@ -6340,6 +6340,15 @@
     },
     {
       "event_date": "2026-11-23",
+      "market_segment": "equity",
+      "symbol": "SFCTECH",
+      "company_name": "SFC Environmental Technologies Limited",
+      "purpose": "Financial Results",
+      "details": "To consider and approve the financial results for the period ended September 30, 2026",
+      "captured_at": "2026-11-19T00:27:34+05:30"
+    },
+    {
+      "event_date": "2026-11-23",
       "market_segment": "sme",
       "symbol": "KDL",
       "company_name": "Kore Digital Limited",
@@ -6363,6 +6372,32 @@
       "attachment_url": "https://nsearchives.nseindia.com/corporate/KOREDIGITAL_13112026125005_Intimation_of_BM_23112026.pdf",
       "ixbrl_url": null,
       "captured_at": "2026-11-13T18:45:52+05:30"
+    },
+    {
+      "event_date": "2026-11-23",
+      "market_segment": "sme",
+      "symbol": "SABAR",
+      "company_name": "Sabar Flex India Limited",
+      "purpose": "Board Meeting Intimation",
+      "details": "Sabar Flex India Limited has informed the Exchange about Board Meeting to be held on 23-Nov-2026 to inter-alia consider and approve the Unaudited Financial results of the Company for the Half Yearly ended September 2027 .",
+      "announcement_timestamp": "18-Nov-2026 19:16:20",
+      "isin": "80462",
+      "attachment_url": "https://nsearchives.nseindia.in/corporate/xbrl/PRIOR_INTIMATION_20681_WebXMLFile_20261118_191618358.xml",
+      "ixbrl_url": "https://nsearchives.nseindia.in/corporate/ixbrl/PRIOR_INTIMATION_20681_20261118_191618397_WEB.html",
+      "captured_at": "2026-11-19T00:27:34+05:30"
+    },
+    {
+      "event_date": "2026-11-23",
+      "market_segment": "sme",
+      "symbol": "SABAR",
+      "company_name": "Sabar Flex India Limited",
+      "purpose": "Financial Results",
+      "details": "To consider and approve the financial results for the period ended September 30, 2026",
+      "announcement_timestamp": "18-Nov-2026 19:14:22",
+      "isin": "106865327",
+      "attachment_url": "https://nsearchives.nseindia.in/corporate/SABAR_18112026191409_Postponment_of_Board_Meeting_Signed.pdf",
+      "ixbrl_url": null,
+      "captured_at": "2026-11-19T00:27:34+05:30"
     },
     {
       "event_date": "2026-11-24",
@@ -6424,6 +6459,32 @@
       "attachment_url": "https://nsearchives.nseindia.in/corporate/RBMINFRACON_14112026181605_Prior_Intimation_of_BM-.pdf",
       "ixbrl_url": null,
       "captured_at": "2026-11-17T00:17:47+05:30"
+    },
+    {
+      "event_date": "2026-11-26",
+      "market_segment": "sme",
+      "symbol": "MAXENGS",
+      "company_name": "Maxwell Engineering Solutions Limited",
+      "purpose": "Board Meeting Intimation",
+      "details": "Maxwell Engineering Solutions Limited has informed the Exchange about Board Meeting to be held on 26-Nov-2026 to inter-alia consider and approve the Unaudited Financial results of the Company for the Half Yearly ended September 2026 .",
+      "announcement_timestamp": "18-Nov-2026 17:45:51",
+      "isin": "80461",
+      "attachment_url": "https://nsearchives.nseindia.in/corporate/xbrl/PRIOR_INTIMATION_29233_WebXMLFile_20261118_174549286.xml",
+      "ixbrl_url": "https://nsearchives.nseindia.in/corporate/ixbrl/PRIOR_INTIMATION_29233_20261118_174549324_WEB.html",
+      "captured_at": "2026-11-19T00:27:34+05:30"
+    },
+    {
+      "event_date": "2026-11-26",
+      "market_segment": "sme",
+      "symbol": "MAXENGS",
+      "company_name": "Maxwell Engineering Solutions Limited",
+      "purpose": "Financial Results",
+      "details": "To consider and approve the Unaudited Financial Results of the Company for the half-year ended as on September 30, 2026.",
+      "announcement_timestamp": "18-Nov-2026 17:43:32",
+      "isin": "106865096",
+      "attachment_url": "https://nsearchives.nseindia.in/corporate/MAXWELL2022_18112026174129_Prior_Intimation_to_NSE.pdf",
+      "ixbrl_url": null,
+      "captured_at": "2026-11-19T00:27:34+05:30"
     },
     {
       "event_date": "2026-11-28",
