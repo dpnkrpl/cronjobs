@@ -4,7 +4,7 @@
   "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-event-calendar",
   "timezone": "Asia/Kolkata",
   "retention": "unlimited",
-  "updated_at": "2026-11-19T00:27:34+05:30",
+  "updated_at": "2026-11-20T00:36:02+05:30",
   "data": [
     {
       "event_date": "2026-11-12",
@@ -6376,6 +6376,19 @@
     {
       "event_date": "2026-11-23",
       "market_segment": "sme",
+      "symbol": "KRISHCA",
+      "company_name": "Krishca Strapping Solutions Limited",
+      "purpose": "Board Meeting Intimation",
+      "details": "KRISHCA STRAPPING SOLUTIONS LIMITED has informed the Exchange about Board Meeting to be held on 23-Nov-2026 to inter-alia consider and approve the Unaudited Financial results of the Company for the Half Yearly ended September 2026 .",
+      "announcement_timestamp": "19-Nov-2026 22:28:10",
+      "isin": "80541",
+      "attachment_url": "https://nsearchives.nseindia.in/corporate/xbrl/PRIOR_INTIMATION_21720_WebXMLFile_20261119_222807772.xml",
+      "ixbrl_url": "https://nsearchives.nseindia.in/corporate/ixbrl/PRIOR_INTIMATION_21720_20261119_222807811_WEB.html",
+      "captured_at": "2026-11-20T00:36:02+05:30"
+    },
+    {
+      "event_date": "2026-11-23",
+      "market_segment": "sme",
       "symbol": "SABAR",
       "company_name": "Sabar Flex India Limited",
       "purpose": "Board Meeting Intimation",
@@ -6402,11 +6415,56 @@
     {
       "event_date": "2026-11-24",
       "market_segment": "equity",
+      "symbol": "HEADSUP",
+      "company_name": "Heads UP Ventures Limited",
+      "purpose": "Financial Results",
+      "details": "To consider and approve the financial results for the period ended September 30, 2026",
+      "captured_at": "2026-11-20T00:36:02+05:30"
+    },
+    {
+      "event_date": "2026-11-24",
+      "market_segment": "equity",
+      "symbol": "LEXUS",
+      "company_name": "Lexus Granito (India) Limited",
+      "purpose": "Financial Results/Other business matters",
+      "details": "To consider and approve the financial results for the period ended September 30, 2026 and other business matters",
+      "captured_at": "2026-11-20T00:36:02+05:30"
+    },
+    {
+      "event_date": "2026-11-24",
+      "market_segment": "equity",
+      "symbol": "MKJEWELS",
+      "company_name": "M. K. Sons Fine Jewels Limited",
+      "purpose": "Financial Results",
+      "details": "To consider and approve the financial results for the period ended September 30, 2026",
+      "captured_at": "2026-11-20T00:36:02+05:30"
+    },
+    {
+      "event_date": "2026-11-24",
+      "market_segment": "equity",
       "symbol": "SETCO",
       "company_name": "Setco Automotive Limited",
       "purpose": "Financial Results/Other business matters",
       "details": "To consider and approve the financial results for the period ended September 30, 2026 and other business matters",
       "captured_at": "2026-11-18T00:46:30+05:30"
+    },
+    {
+      "event_date": "2026-11-25",
+      "market_segment": "equity",
+      "symbol": "ENRIN",
+      "company_name": "Siemens Energy India Limited",
+      "purpose": "Financial Results/Dividend",
+      "details": "To consider and approve the financial results for the period ended September 30, 2026 and dividend, if any.",
+      "captured_at": "2026-11-20T00:36:02+05:30"
+    },
+    {
+      "event_date": "2026-11-25",
+      "market_segment": "equity",
+      "symbol": "SIMBHALS",
+      "company_name": "Simbhaoli Sugars Limited",
+      "purpose": "Financial Results",
+      "details": "Simbhaoli Sugars Limited has informed the Exchange about IRP Convened Meeting scheduled to be held on 25 November 2026 inter-alia to consider, Review and Take Note of the Unaudited financial results for the quarter ended September 30, 2026",
+      "captured_at": "2026-11-20T00:36:02+05:30"
     },
     {
       "event_date": "2026-11-25",
