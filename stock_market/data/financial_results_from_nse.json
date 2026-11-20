@@ -4,7 +4,7 @@
   "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-event-calendar",
   "timezone": "Asia/Kolkata",
   "retention": "unlimited",
-  "updated_at": "2026-11-20T00:36:02+05:30",
+  "updated_at": "2026-11-21T00:12:59+05:30",
   "data": [
     {
       "event_date": "2026-11-12",
@@ -6389,6 +6389,19 @@
     {
       "event_date": "2026-11-23",
       "market_segment": "sme",
+      "symbol": "KRISHCA",
+      "company_name": "Krishca Strapping Solutions Limited",
+      "purpose": "Financial Results",
+      "details": "To consider and approve the financial results for the period ended September 30, 2026",
+      "announcement_timestamp": "20-Nov-2026 11:20:07",
+      "isin": "106867123",
+      "attachment_url": "https://nsearchives.nseindia.in/corporate/KSSLIPO_20112026111932_BMPostponedIntimation19112026.pdf",
+      "ixbrl_url": null,
+      "captured_at": "2026-11-21T00:12:59+05:30"
+    },
+    {
+      "event_date": "2026-11-23",
+      "market_segment": "sme",
       "symbol": "SABAR",
       "company_name": "Sabar Flex India Limited",
       "purpose": "Board Meeting Intimation",
@@ -6517,6 +6530,32 @@
       "attachment_url": "https://nsearchives.nseindia.in/corporate/RBMINFRACON_14112026181605_Prior_Intimation_of_BM-.pdf",
       "ixbrl_url": null,
       "captured_at": "2026-11-17T00:17:47+05:30"
+    },
+    {
+      "event_date": "2026-11-26",
+      "market_segment": "sme",
+      "symbol": "HGSINDIALT",
+      "company_name": "HGS (India) Limited",
+      "purpose": "Board Meeting Intimation",
+      "details": "HGS (India) Limited has informed the Exchange about Board Meeting to be held on 26-Nov-2026 to consider and approve the Half Yearly Unaudited Financial results of the Company for the period ended September 2026 and Other business.",
+      "announcement_timestamp": "20-Nov-2026 17:34:09",
+      "isin": "80562",
+      "attachment_url": "https://nsearchives.nseindia.in/corporate/xbrl/PRIOR_INTIMATION_28286_WebXMLFile_20261120_173407354.xml",
+      "ixbrl_url": "https://nsearchives.nseindia.in/corporate/ixbrl/PRIOR_INTIMATION_28286_20261120_173407385_WEB.html",
+      "captured_at": "2026-11-21T00:12:59+05:30"
+    },
+    {
+      "event_date": "2026-11-26",
+      "market_segment": "sme",
+      "symbol": "HGSINDIALT",
+      "company_name": "HGS (India) Limited",
+      "purpose": "Financial Results/Other business matters",
+      "details": "To consider and approve the financial results for the period ended September 30, 2026 and other business matters",
+      "announcement_timestamp": "20-Nov-2026 17:12:07",
+      "isin": "106867544",
+      "attachment_url": "https://nsearchives.nseindia.in/corporate/HGSINDIA_20112026171119_Intimation_of_HGSINDIALT-BM.pdf",
+      "ixbrl_url": null,
+      "captured_at": "2026-11-21T00:12:59+05:30"
     },
     {
       "event_date": "2026-11-26",
