@@ -4,7 +4,7 @@
   "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-event-calendar",
   "timezone": "Asia/Kolkata",
   "retention": "unlimited",
-  "updated_at": "2026-11-21T00:12:59+05:30",
+  "updated_at": "2026-11-24T03:39:45+05:30",
   "data": [
     {
       "event_date": "2026-11-12",
@@ -6584,6 +6584,28 @@
       "captured_at": "2026-11-19T00:27:34+05:30"
     },
     {
+      "event_date": "2026-11-27",
+      "market_segment": "equity",
+      "symbol": "SETCO",
+      "company_name": "Setco Automotive Limited",
+      "purpose": "Financial Results/Other business matters",
+      "details": "SETCO : 27-Nov-2026 :  The Company has informed the Exchange that a Board meeting to be held on November 24, 2026 has been re-scheduled. Further, the Company has informed the Exchange that the meeting of the Board of Directors of the Company will be held on November 27, 2026, To consider and approve the financial results for the period ended September 30, 2026 and other business matters",
+      "captured_at": "2026-11-24T03:39:45+05:30"
+    },
+    {
+      "event_date": "2026-11-27",
+      "market_segment": "sme",
+      "symbol": "C2C",
+      "company_name": "C2C Advanced Systems Limited",
+      "purpose": "Financial Results",
+      "details": "To consider and approve the financial results for the period ended September 30, 2026",
+      "announcement_timestamp": "23-Nov-2026 19:10:05",
+      "isin": "106869224",
+      "attachment_url": "https://nsearchives.nseindia.in/corporate/C2CAS_23112026190717_BM_INTIMATION_C2C_ADV_30TH_SEPT_.pdf",
+      "ixbrl_url": null,
+      "captured_at": "2026-11-24T03:39:45+05:30"
+    },
+    {
       "event_date": "2026-11-28",
       "market_segment": "equity",
       "symbol": "BRNL",
@@ -6591,6 +6613,32 @@
       "purpose": "Financial Results",
       "details": "BRNL : 28-Nov-2026 :  The Company has informed the Exchange that a Board meeting to be held on November 14, 2026 has been re-scheduled. Further, the Company has informed the Exchange that the meeting of the Board of Directors of the Company will be held on November 28, 2026,  To consider and approve the financial results for the period ended September 30, 2026",
       "captured_at": "2026-11-13T23:27:19+05:30"
+    },
+    {
+      "event_date": "2026-11-28",
+      "market_segment": "sme",
+      "symbol": "MONOPHARMA",
+      "company_name": "Mono Pharmacare Limited",
+      "purpose": "Board Meeting Intimation",
+      "details": "Mono Pharmacare Limited has informed the Exchange about Board Meeting to be held on 28-Nov-2026 to inter-alia consider and approve the Unaudited Financial results of the Company for the Half Yearly ended September 2026 .",
+      "announcement_timestamp": "21-Nov-2026 12:44:30",
+      "isin": "80563",
+      "attachment_url": "https://nsearchives.nseindia.in/corporate/xbrl/PRIOR_INTIMATION_21893_WebXMLFile_20261121_124428521.xml",
+      "ixbrl_url": "https://nsearchives.nseindia.in/corporate/ixbrl/PRIOR_INTIMATION_21893_20261121_124428571_WEB.html",
+      "captured_at": "2026-11-24T03:39:45+05:30"
+    },
+    {
+      "event_date": "2026-11-28",
+      "market_segment": "sme",
+      "symbol": "MONOPHARMA",
+      "company_name": "Mono Pharmacare Limited",
+      "purpose": "Financial Results",
+      "details": "MONOPHARMA : 28-Nov-2026 :  The Company has informed the Exchange that a Board meeting to be held on November 21, 2026 has been re-scheduled. Further, the Company has informed the Exchange that the meeting of the Board of Directors of the Company will be held on November 28, 2026,  To consider and approve the financial results for the period ended September 30, 2026",
+      "announcement_timestamp": "21-Nov-2026 12:27:04",
+      "isin": "106868110",
+      "attachment_url": "https://nsearchives.nseindia.in/corporate/MONO_21112026122638_Intimation.pdf",
+      "ixbrl_url": null,
+      "captured_at": "2026-11-24T03:39:45+05:30"
     },
     {
       "event_date": "2026-12-05",
@@ -6609,6 +6657,32 @@
       "purpose": "Financial Results",
       "details": "To consider and approve the financial results for the period ended September 30, 2026",
       "captured_at": "2026-11-11T23:51:28+05:30"
+    },
+    {
+      "event_date": "2026-12-08",
+      "market_segment": "sme",
+      "symbol": "SABAR",
+      "company_name": "Sabar Flex India Limited",
+      "purpose": "Board Meeting Intimation",
+      "details": "Sabar Flex India Limited has informed the Exchange about Board Meeting to be held on 08-Dec-2026 to inter-alia consider and approve the Unaudited Financial results of the Company for the Half Yearly ended September 2027 .",
+      "announcement_timestamp": "23-Nov-2026 17:35:04",
+      "isin": "80583",
+      "attachment_url": "https://nsearchives.nseindia.in/corporate/xbrl/PRIOR_INTIMATION_20681_WebXMLFile_20261123_173500693.xml",
+      "ixbrl_url": "https://nsearchives.nseindia.in/corporate/ixbrl/PRIOR_INTIMATION_20681_20261123_173500733_WEB.html",
+      "captured_at": "2026-11-24T03:39:45+05:30"
+    },
+    {
+      "event_date": "2026-12-08",
+      "market_segment": "sme",
+      "symbol": "SABAR",
+      "company_name": "Sabar Flex India Limited",
+      "purpose": "Financial Results/Other business matters",
+      "details": "To consider and approve the financial results for the period ended September 30, 2026 and other business matters",
+      "announcement_timestamp": "23-Nov-2026 17:32:08",
+      "isin": "106869052",
+      "attachment_url": "https://nsearchives.nseindia.in/corporate/SABAR_23112026173157_Postponment_of_Board_Meeting_Sign.pdf",
+      "ixbrl_url": null,
+      "captured_at": "2026-11-24T03:39:45+05:30"
     }
   ]
 }
