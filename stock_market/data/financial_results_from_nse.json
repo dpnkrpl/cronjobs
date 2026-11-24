@@ -4,7 +4,7 @@
   "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-event-calendar",
   "timezone": "Asia/Kolkata",
   "retention": "unlimited",
-  "updated_at": "2026-11-24T03:39:45+05:30",
+  "updated_at": "2026-11-25T02:15:39+05:30",
   "data": [
     {
       "event_date": "2026-11-12",
@@ -6391,6 +6391,19 @@
       "market_segment": "sme",
       "symbol": "KRISHCA",
       "company_name": "Krishca Strapping Solutions Limited",
+      "purpose": "Board Meeting Intimation",
+      "details": "KRISHCA STRAPPING SOLUTIONS LIMITED has informed the Exchange about Board Meeting to be held on 23-Nov-2026 to inter-alia consider and approve the Unaudited Financial results of the Company for the Half Yearly ended September 2026 .",
+      "announcement_timestamp": "19-Nov-2026 22:28:10",
+      "isin": "60754",
+      "attachment_url": "https://nsearchives.nseindia.in/corporate/xbrl/PRIOR_INTIMATION_21720_WebXMLFile_20261119_222807772.xml",
+      "ixbrl_url": "https://nsearchives.nseindia.in/corporate/ixbrl/PRIOR_INTIMATION_21720_20261119_222807811_WEB.html",
+      "captured_at": "2026-11-25T02:15:39+05:30"
+    },
+    {
+      "event_date": "2026-11-23",
+      "market_segment": "sme",
+      "symbol": "KRISHCA",
+      "company_name": "Krishca Strapping Solutions Limited",
       "purpose": "Financial Results",
       "details": "To consider and approve the financial results for the period ended September 30, 2026",
       "announcement_timestamp": "20-Nov-2026 11:20:07",
@@ -6411,6 +6424,19 @@
       "attachment_url": "https://nsearchives.nseindia.in/corporate/xbrl/PRIOR_INTIMATION_20681_WebXMLFile_20261118_191618358.xml",
       "ixbrl_url": "https://nsearchives.nseindia.in/corporate/ixbrl/PRIOR_INTIMATION_20681_20261118_191618397_WEB.html",
       "captured_at": "2026-11-19T00:27:34+05:30"
+    },
+    {
+      "event_date": "2026-11-23",
+      "market_segment": "sme",
+      "symbol": "SABAR",
+      "company_name": "Sabar Flex India Limited",
+      "purpose": "Board Meeting Intimation",
+      "details": "Sabar Flex India Limited has informed the Exchange about Board Meeting to be held on 23-Nov-2026 to inter-alia consider and approve the Unaudited Financial results of the Company for the Half Yearly ended September 2027 .",
+      "announcement_timestamp": "18-Nov-2026 19:16:20",
+      "isin": "60715",
+      "attachment_url": "https://nsearchives.nseindia.in/corporate/xbrl/PRIOR_INTIMATION_20681_WebXMLFile_20261118_191618358.xml",
+      "ixbrl_url": "https://nsearchives.nseindia.in/corporate/ixbrl/PRIOR_INTIMATION_20681_20261118_191618397_WEB.html",
+      "captured_at": "2026-11-25T02:15:39+05:30"
     },
     {
       "event_date": "2026-11-23",
@@ -6549,6 +6575,19 @@
       "market_segment": "sme",
       "symbol": "HGSINDIALT",
       "company_name": "HGS (India) Limited",
+      "purpose": "Board Meeting Intimation",
+      "details": "HGS (India) Limited has informed the Exchange about Board Meeting to be held on 26-Nov-2026 to consider and approve the Half Yearly Unaudited Financial results of the Company for the period ended September 2026 and Other business.",
+      "announcement_timestamp": "20-Nov-2026 17:34:09",
+      "isin": "60794",
+      "attachment_url": "https://nsearchives.nseindia.in/corporate/xbrl/PRIOR_INTIMATION_28286_WebXMLFile_20261120_173407354.xml",
+      "ixbrl_url": "https://nsearchives.nseindia.in/corporate/ixbrl/PRIOR_INTIMATION_28286_20261120_173407385_WEB.html",
+      "captured_at": "2026-11-25T02:15:39+05:30"
+    },
+    {
+      "event_date": "2026-11-26",
+      "market_segment": "sme",
+      "symbol": "HGSINDIALT",
+      "company_name": "HGS (India) Limited",
       "purpose": "Financial Results/Other business matters",
       "details": "To consider and approve the financial results for the period ended September 30, 2026 and other business matters",
       "announcement_timestamp": "20-Nov-2026 17:12:07",
@@ -6632,6 +6671,19 @@
       "market_segment": "sme",
       "symbol": "MONOPHARMA",
       "company_name": "Mono Pharmacare Limited",
+      "purpose": "Board Meeting Intimation",
+      "details": "Mono Pharmacare Limited has informed the Exchange about Board Meeting to be held on 28-Nov-2026 to inter-alia consider and approve the Unaudited Financial results of the Company for the Half Yearly ended September 2026 .",
+      "announcement_timestamp": "21-Nov-2026 12:44:30",
+      "isin": "60814",
+      "attachment_url": "https://nsearchives.nseindia.in/corporate/xbrl/PRIOR_INTIMATION_21893_WebXMLFile_20261121_124428521.xml",
+      "ixbrl_url": "https://nsearchives.nseindia.in/corporate/ixbrl/PRIOR_INTIMATION_21893_20261121_124428571_WEB.html",
+      "captured_at": "2026-11-25T02:15:39+05:30"
+    },
+    {
+      "event_date": "2026-11-28",
+      "market_segment": "sme",
+      "symbol": "MONOPHARMA",
+      "company_name": "Mono Pharmacare Limited",
       "purpose": "Financial Results",
       "details": "MONOPHARMA : 28-Nov-2026 :  The Company has informed the Exchange that a Board meeting to be held on November 21, 2026 has been re-scheduled. Further, the Company has informed the Exchange that the meeting of the Board of Directors of the Company will be held on November 28, 2026,  To consider and approve the financial results for the period ended September 30, 2026",
       "announcement_timestamp": "21-Nov-2026 12:27:04",
@@ -6670,6 +6722,19 @@
       "attachment_url": "https://nsearchives.nseindia.in/corporate/xbrl/PRIOR_INTIMATION_20681_WebXMLFile_20261123_173500693.xml",
       "ixbrl_url": "https://nsearchives.nseindia.in/corporate/ixbrl/PRIOR_INTIMATION_20681_20261123_173500733_WEB.html",
       "captured_at": "2026-11-24T03:39:45+05:30"
+    },
+    {
+      "event_date": "2026-12-08",
+      "market_segment": "sme",
+      "symbol": "SABAR",
+      "company_name": "Sabar Flex India Limited",
+      "purpose": "Board Meeting Intimation",
+      "details": "Sabar Flex India Limited has informed the Exchange about Board Meeting to be held on 08-Dec-2026 to inter-alia consider and approve the Unaudited Financial results of the Company for the Half Yearly ended September 2027 .",
+      "announcement_timestamp": "23-Nov-2026 17:35:04",
+      "isin": "60834",
+      "attachment_url": "https://nsearchives.nseindia.in/corporate/xbrl/PRIOR_INTIMATION_20681_WebXMLFile_20261123_173500693.xml",
+      "ixbrl_url": "https://nsearchives.nseindia.in/corporate/ixbrl/PRIOR_INTIMATION_20681_20261123_173500733_WEB.html",
+      "captured_at": "2026-11-25T02:15:39+05:30"
     },
     {
       "event_date": "2026-12-08",

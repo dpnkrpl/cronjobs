@@ -1,8 +1,8 @@
 # Stock Market Snapshot
 
-**Last data fetch (IST):** 2026-11-24 03:39:45 IST
+**Last data fetch (IST):** 2026-11-25 02:15:39 IST
 
-Generated from the saved JSON files in [`stock_market/data`](stock_market/data). Market snapshots are not synchronized: bulk deals: 2026-11-23; sectors: 2026-11-24; gainers/losers: 2026-11-24 (IST). Financial-results calendar last updated: 2026-11-24T03:39:45+05:30.
+Generated from the saved JSON files in [`stock_market/data`](stock_market/data). Market snapshots are not synchronized: bulk deals: 2026-11-23; sectors: 2026-11-24; gainers/losers: 2026-11-25 (IST). Financial-results calendar last updated: 2026-11-25T02:15:39+05:30.
 
 ## Today's Bulk Deal
 
@@ -23,9 +23,8 @@ Latest available snapshot: **2026-11-23**, with 89 reported deal rows. Showing t
 
 ## Today's and Upcoming Results
 
-NSE financial-result symbols from **2026-11-24** onward, grouped by event date.
+NSE financial-result symbols from **2026-11-25** onward, grouped by event date.
 
-- **2026-11-24 (4 symbols):** [HEADSUP](https://www.screener.in/company/HEADSUP) , [LEXUS](https://www.screener.in/company/LEXUS) , [MKJEWELS](https://www.screener.in/company/MKJEWELS) , [SETCO](https://www.screener.in/company/SETCO)
 - **2026-11-25 (4 symbols):** [ANYA](https://www.screener.in/company/ANYA) , [ENRIN](https://www.screener.in/company/ENRIN) , [RBMINFRA](https://www.screener.in/company/RBMINFRA) , [SIMBHALS](https://www.screener.in/company/SIMBHALS)
 - **2026-11-26 (2 symbols):** [HGSINDIALT](https://www.screener.in/company/HGSINDIALT) , [MAXENGS](https://www.screener.in/company/MAXENGS)
 - **2026-11-27 (2 symbols):** [C2C](https://www.screener.in/company/C2C) , [SETCO](https://www.screener.in/company/SETCO)
@@ -65,7 +64,7 @@ Latest available snapshot: **2026-11-24**. Top 10 sectors by reported rank; brea
 
 ## Today's Gainers and Losers
 
-Latest available snapshot: **2026-11-24** (NIFTY 500). Top 10 in each category by daily percentage change.
+Latest available snapshot: **2026-11-25** (NIFTY 500). Top 10 in each category by daily percentage change.
 
 | Top gainers | Change | Top losers | Change |
 | --- | ---: | --- | ---: |
@@ -95,13 +94,13 @@ Latest available snapshot: **2026-11-24** (NIFTY 500). Top 10 in each category b
 
 **Multi-day losers:** Consecutive appearances in the saved top-100 loser snapshots; returns are compounded.
 
-- [HFCL](https://www.screener.in/company/HFCL): 8 consecutive snapshots (2026-11-12 to 2026-11-24), :red_circle: -22.16% compounded.
-- [STLTECH](https://www.screener.in/company/STLTECH): 6 consecutive snapshots (2026-11-17 to 2026-11-24), :red_circle: -23.21% compounded.
+- [HFCL](https://www.screener.in/company/HFCL): 9 consecutive snapshots (2026-11-12 to 2026-11-25), :red_circle: -26.05% compounded.
+- [STLTECH](https://www.screener.in/company/STLTECH): 7 consecutive snapshots (2026-11-17 to 2026-11-25), :red_circle: -27.05% compounded.
+- [TTML](https://www.screener.in/company/TTML): 5 consecutive snapshots (2026-11-19 to 2026-11-25), :red_circle: -10.46% compounded.
+- [JWL](https://www.screener.in/company/JWL): 5 consecutive snapshots (2026-11-19 to 2026-11-25), :red_circle: -10.16% compounded.
 - [CONCORDBIO](https://www.screener.in/company/CONCORDBIO): 5 consecutive snapshots (2026-11-17 to 2026-11-21), :red_circle: -9.92% compounded.
+- [APLAPOLLO](https://www.screener.in/company/APLAPOLLO): 4 consecutive snapshots (2026-11-20 to 2026-11-25), :red_circle: -39.18% compounded.
+- [PFOCUS](https://www.screener.in/company/PFOCUS): 4 consecutive snapshots (2026-11-20 to 2026-11-25), :red_circle: -19.63% compounded.
 - [IIFL](https://www.screener.in/company/IIFL): 4 consecutive snapshots (2026-11-18 to 2026-11-21), :red_circle: -12.08% compounded.
 - [BSOFT](https://www.screener.in/company/BSOFT): 4 consecutive snapshots (2026-11-17 to 2026-11-20), :red_circle: -9.85% compounded.
 - [POLICYBZR](https://www.screener.in/company/POLICYBZR): 4 consecutive snapshots (2026-11-17 to 2026-11-20), :red_circle: -9.77% compounded.
-- [JWL](https://www.screener.in/company/JWL): 4 consecutive snapshots (2026-11-19 to 2026-11-24), :red_circle: -7.33% compounded.
-- [NAVA](https://www.screener.in/company/NAVA): 4 consecutive snapshots (2026-11-17 to 2026-11-20), :red_circle: -7.11% compounded.
-- [TTML](https://www.screener.in/company/TTML): 4 consecutive snapshots (2026-11-19 to 2026-11-24), :red_circle: -7.05% compounded.
-- [APLAPOLLO](https://www.screener.in/company/APLAPOLLO): 3 consecutive snapshots (2026-11-20 to 2026-11-24), :red_circle: -22.73% compounded.
