@@ -4,7 +4,7 @@
   "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-event-calendar",
   "timezone": "Asia/Kolkata",
   "retention": "unlimited",
-  "updated_at": "2026-11-26T01:32:24+05:30",
+  "updated_at": "2026-11-27T01:14:41+05:30",
   "data": [
     {
       "event_date": "2026-11-12",
@@ -6655,6 +6655,15 @@
     },
     {
       "event_date": "2026-11-28",
+      "market_segment": "equity",
+      "symbol": "NDRINVIT",
+      "company_name": "NDR INVIT Trust",
+      "purpose": "Other business matters",
+      "details": "To consider and approve the Audited Standalone and Consolidated Financial Results of the Trust for the quarter ended June 30, 2026.",
+      "captured_at": "2026-11-27T01:14:41+05:30"
+    },
+    {
+      "event_date": "2026-11-28",
       "market_segment": "sme",
       "symbol": "KHFM",
       "company_name": "Khfm Hospitality And Facility Management Services Limited",
@@ -6899,6 +6908,15 @@
       "attachment_url": "https://nsearchives.nseindia.in/corporate/VEDANTIPO_25112026190320_Disclosure_for_Financial_Results_301126.pdf",
       "ixbrl_url": null,
       "captured_at": "2026-11-26T01:32:24+05:30"
+    },
+    {
+      "event_date": "2026-12-03",
+      "market_segment": "equity",
+      "symbol": "JKSHAH",
+      "company_name": "J.K.Shah Commerce Education Limited",
+      "purpose": "Financial Results",
+      "details": "To consider and approve the financial results for the period ended September 30, 2026",
+      "captured_at": "2026-11-27T01:14:41+05:30"
     },
     {
       "event_date": "2026-12-05",

@@ -1,54 +1,54 @@
 # Stock Market Snapshot
 
-**Last data fetch (IST):** 2026-11-26 01:32:24 IST
+**Last data fetch (IST):** 2026-11-27 01:14:41 IST
 
-Generated from the saved JSON files in [`stock_market/data`](stock_market/data). Market snapshots are not synchronized: bulk deals: 2026-11-25; sectors: 2026-11-26; gainers/losers: 2026-11-26 (IST). Financial-results calendar last updated: 2026-11-26T01:32:24+05:30.
+Generated from the saved JSON files in [`stock_market/data`](stock_market/data). Market snapshots are not synchronized: bulk deals: 2026-11-26; sectors: 2026-11-27; gainers/losers: 2026-11-27 (IST). Financial-results calendar last updated: 2026-11-27T01:14:41+05:30.
 
 ## Today's Bulk Deal
 
-Latest available snapshot: **2026-11-25**, with 103 reported deal rows. Showing the 10 largest rows by quantity.
+Latest available snapshot: **2026-11-26**, with 117 reported deal rows. Showing the 10 largest rows by quantity.
 
 | Symbol | Side | Quantity | Avg. price | Client |
 | --- | --- | ---: | ---: | --- |
-| [THOMASCOOK](https://www.screener.in/company/THOMASCOOK) | :red_circle: | 5,683,894 | 144.01 | QE SECURITIES LLP |
-| [THOMASCOOK](https://www.screener.in/company/THOMASCOOK) | :green_circle: | 5,596,284 | 144.41 | QE SECURITIES LLP |
-| [THOMASCOOK](https://www.screener.in/company/THOMASCOOK) | :green_circle: | 5,300,000 | 141.17 | FAIRBRIDGE CAPITAL (MAURITIUS) LIMITED |
-| [THOMASCOOK](https://www.screener.in/company/THOMASCOOK) | :green_circle: | 4,612,431 | 143.83 | ALPHAGREP SECURITIES PRIVATE LIMITED |
-| [THOMASCOOK](https://www.screener.in/company/THOMASCOOK) | :red_circle: | 4,612,431 | 143.95 | ALPHAGREP SECURITIES PRIVATE LIMITED |
-| [THOMASCOOK](https://www.screener.in/company/THOMASCOOK) | :green_circle: | 4,304,074 | 144.79 | MICROCURVES TRADING PRIVATE LIMITED |
-| [THOMASCOOK](https://www.screener.in/company/THOMASCOOK) | :red_circle: | 4,304,074 | 144.87 | MICROCURVES TRADING PRIVATE LIMITED |
-| [MEDANTA](https://www.screener.in/company/MEDANTA) | :red_circle: | 4,140,435 | 1,460.00 | DUNEARN INVESTMENTS (MAURITIUS) PTE LTD |
-| [MCLOUD](https://www.screener.in/company/MCLOUD) | :green_circle: | 3,567,880 | 24.86 | ALPHAGREP SECURITIES PRIVATE LIMITED |
-| [MCLOUD](https://www.screener.in/company/MCLOUD) | :red_circle: | 3,567,880 | 24.84 | ALPHAGREP SECURITIES PRIVATE LIMITED |
+| [LGEINDIA](https://www.screener.in/company/LGEINDIA) | :red_circle: | 13,575,447 | 1,765.28 | LG ELECTRONICS INC |
+| [SCHAEFFLER](https://www.screener.in/company/SCHAEFFLER) | :red_circle: | 10,159,738 | 3,493.00 | SCHAEFFLER SCHWEINFURT BETEILIGUNGS GMBH |
+| [IIFL](https://www.screener.in/company/IIFL) | :red_circle: | 5,615,936 | 600.16 | SMALLCAP WORLD FUND INC |
+| [JISLJALEQS](https://www.screener.in/company/JISLJALEQS) | :green_circle: | 4,993,699 | 27.97 | ALPHAGREP SECURITIES PRIVATE LIMITED |
+| [JISLJALEQS](https://www.screener.in/company/JISLJALEQS) | :red_circle: | 4,993,699 | 27.97 | ALPHAGREP SECURITIES PRIVATE LIMITED |
+| [AMAGI](https://www.screener.in/company/AMAGI) | :red_circle: | 4,737,204 | 554.00 | NORWEST VENTURE PARTNERS X MAURITIUS |
+| [JWL](https://www.screener.in/company/JWL) | :green_circle: | 4,478,721 | 234.56 | QE SECURITIES LLP |
+| [JWL](https://www.screener.in/company/JWL) | :red_circle: | 4,464,252 | 234.53 | QE SECURITIES LLP |
+| [IIFL](https://www.screener.in/company/IIFL) | :green_circle: | 4,320,402 | 600.00 | UBS AG |
+| [JISLJALEQS](https://www.screener.in/company/JISLJALEQS) | :green_circle: | 4,227,296 | 27.96 | MICROCURVES TRADING PRIVATE LIMITED |
 
 ## Today's and Upcoming Results
 
-NSE financial-result symbols from **2026-11-26** onward, grouped by event date.
+NSE financial-result symbols from **2026-11-27** onward, grouped by event date.
 
-- **2026-11-26 (2 symbols):** [HGSINDIALT](https://www.screener.in/company/HGSINDIALT) , [MAXENGS](https://www.screener.in/company/MAXENGS)
 - **2026-11-27 (2 symbols):** [C2C](https://www.screener.in/company/C2C) , [SETCO](https://www.screener.in/company/SETCO)
-- **2026-11-28 (3 symbols):** [BRNL](https://www.screener.in/company/BRNL) , [KHFM](https://www.screener.in/company/KHFM) , [MONOPHARMA](https://www.screener.in/company/MONOPHARMA)
+- **2026-11-28 (4 symbols):** [BRNL](https://www.screener.in/company/BRNL) , [KHFM](https://www.screener.in/company/KHFM) , [MONOPHARMA](https://www.screener.in/company/MONOPHARMA) , [NDRINVIT](https://www.screener.in/company/NDRINVIT)
 - **2026-11-30 (4 symbols):** [GSMFOILS](https://www.screener.in/company/GSMFOILS) , [OPAL](https://www.screener.in/company/OPAL) , [RBMINFRA](https://www.screener.in/company/RBMINFRA) , [VPFL](https://www.screener.in/company/VPFL)
+- **2026-12-03 (1 symbol):** [JKSHAH](https://www.screener.in/company/JKSHAH)
 - **2026-12-05 (2 symbols):** [LATTEYS](https://www.screener.in/company/LATTEYS) , [RNBDENIMS](https://www.screener.in/company/RNBDENIMS)
 - **2026-12-08 (1 symbol):** [SABAR](https://www.screener.in/company/SABAR)
 - **2026-12-15 (1 symbol):** [ANYA](https://www.screener.in/company/ANYA)
 
 ## Trending Sectors Today
 
-Latest available snapshot: **2026-11-26**. Top 10 sectors by reported rank; breadth is positive stocks / total stocks.
+Latest available snapshot: **2026-11-27**. Top 10 sectors by reported rank; breadth is positive stocks / total stocks.
 
 | Rank | Sector | Day change | Positive breadth |
 | ---: | --- | ---: | ---: |
-| 1 | FMCG | :green_circle: +4.94% | 22 / 36 |
-| 2 | Retail Chains | :green_circle: +3.10% | 27 / 41 |
-| 3 | Food & Beverages | :green_circle: +2.42% | 100 / 216 |
-| 4 | Aviation | :green_circle: +2.40% | 7 / 9 |
-| 5 | Pharmaceuticals | :green_circle: +1.98% | 114 / 203 |
-| 6 | Banks | :green_circle: +1.81% | 18 / 39 |
-| 7 | Defence | :green_circle: +1.76% | 7 / 25 |
-| 8 | Cement | :green_circle: +1.37% | 22 / 36 |
-| 9 | Paints | :green_circle: +1.34% | 5 / 10 |
-| 10 | Financial Services | :green_circle: +1.33% | 261 / 524 |
+| 1 | Sugar | :green_circle: +4.55% | 34 / 35 |
+| 2 | Information Technology | :green_circle: +3.55% | 147 / 250 |
+| 3 | Plastic and Polymers | :green_circle: +2.89% | 33 / 47 |
+| 4 | Real Estate | :green_circle: +2.55% | 120 / 192 |
+| 5 | Railways | :green_circle: +2.43% | 7 / 11 |
+| 6 | Paper | :green_circle: +2.39% | 26 / 42 |
+| 7 | Agriculture & Allied Industries | :green_circle: +1.54% | 72 / 108 |
+| 8 | Refractories | :green_circle: +1.40% | 10 / 16 |
+| 9 | Engineering | :green_circle: +1.15% | 168 / 279 |
+| 10 | Metals & Mining | :green_circle: +0.94% | 102 / 187 |
 
 **Multi-day sector streaks:** Consecutive appearances in the daily top 10; returns are compounded.
 
@@ -65,39 +65,39 @@ Latest available snapshot: **2026-11-26**. Top 10 sectors by reported rank; brea
 
 ## Today's Gainers and Losers
 
-Latest available snapshot: **2026-11-26** (NIFTY 500). Top 10 in each category by daily percentage change.
+Latest available snapshot: **2026-11-27** (NIFTY 500). Top 10 in each category by daily percentage change.
 
 | Top gainers | Change | Top losers | Change |
 | --- | ---: | --- | ---: |
-| [JWL](https://www.screener.in/company/JWL) | :green_circle: +20.00% | [APLAPOLLO](https://www.screener.in/company/APLAPOLLO) | :red_circle: -11.62% |
-| [DABUR](https://www.screener.in/company/DABUR) | :green_circle: +7.77% | [SUNTV](https://www.screener.in/company/SUNTV) | :red_circle: -9.21% |
-| [CANHLIFE](https://www.screener.in/company/CANHLIFE) | :green_circle: +6.78% | [ITI](https://www.screener.in/company/ITI) | :red_circle: -6.74% |
-| [HINDUNILVR](https://www.screener.in/company/HINDUNILVR) | :green_circle: +6.08% | [ZEEL](https://www.screener.in/company/ZEEL) | :red_circle: -6.18% |
-| [J&KBANK](https://www.screener.in/company/J%26KBANK) | :green_circle: +5.85% | [MRPL](https://www.screener.in/company/MRPL) | :red_circle: -6.09% |
-| [GODREJCP](https://www.screener.in/company/GODREJCP) | :green_circle: +5.56% | [IREDA](https://www.screener.in/company/IREDA) | :red_circle: -5.64% |
-| [DMART](https://www.screener.in/company/DMART) | :green_circle: +5.48% | [LLOYDSME](https://www.screener.in/company/LLOYDSME) | :red_circle: -5.54% |
-| [BRITANNIA](https://www.screener.in/company/BRITANNIA) | :green_circle: +5.08% | [ATHERENERG](https://www.screener.in/company/ATHERENERG) | :red_circle: -5.42% |
-| [AETHER](https://www.screener.in/company/AETHER) | :green_circle: +4.98% | [CHENNPETRO](https://www.screener.in/company/CHENNPETRO) | :red_circle: -5.35% |
-| [DEVYANI](https://www.screener.in/company/DEVYANI) | :green_circle: +4.89% | [HFCL](https://www.screener.in/company/HFCL) | :red_circle: -4.84% |
+| [ACE](https://www.screener.in/company/ACE) | :green_circle: +8.79% | [MAHABANK](https://www.screener.in/company/MAHABANK) | :red_circle: -4.57% |
+| [PRESTIGE](https://www.screener.in/company/PRESTIGE) | :green_circle: +8.72% | [INDIACEM](https://www.screener.in/company/INDIACEM) | :red_circle: -4.38% |
+| [HEGAM](https://www.screener.in/company/HEGAM) | :green_circle: +8.63% | [IKS](https://www.screener.in/company/IKS) | :red_circle: -4.23% |
+| [RUBICON](https://www.screener.in/company/RUBICON) | :green_circle: +8.19% | [PVRINOX](https://www.screener.in/company/PVRINOX) | :red_circle: -4.16% |
+| [MCX](https://www.screener.in/company/MCX) | :green_circle: +7.57% | [TBOTEK](https://www.screener.in/company/TBOTEK) | :red_circle: -4.11% |
+| [WOCKPHARMA](https://www.screener.in/company/WOCKPHARMA) | :green_circle: +7.49% | [LLOYDSME](https://www.screener.in/company/LLOYDSME) | :red_circle: -3.97% |
+| [JWL](https://www.screener.in/company/JWL) | :green_circle: +7.30% | [INTELLECT](https://www.screener.in/company/INTELLECT) | :red_circle: -3.96% |
+| [BRIGADE](https://www.screener.in/company/BRIGADE) | :green_circle: +6.58% | [TTML](https://www.screener.in/company/TTML) | :red_circle: -3.91% |
+| [KFINTECH](https://www.screener.in/company/KFINTECH) | :green_circle: +6.53% | [ONESOURCE](https://www.screener.in/company/ONESOURCE) | :red_circle: -3.54% |
+| [HCLTECH](https://www.screener.in/company/HCLTECH) | :green_circle: +6.42% | [ZYDUSLIFE](https://www.screener.in/company/ZYDUSLIFE) | :red_circle: -3.38% |
 
 **Multi-day gainers:** Consecutive appearances in the saved top-100 gainer snapshots; returns are compounded.
 
-- [PNB](https://www.screener.in/company/PNB): 6 consecutive snapshots (2026-11-12 to 2026-11-20), :green_circle: +14.81% compounded.
+- [PNB](https://www.screener.in/company/PNB): 5 consecutive snapshots (2026-11-13 to 2026-11-20), :green_circle: +12.13% compounded.
+- [TORNTPHARM](https://www.screener.in/company/TORNTPHARM): 5 consecutive snapshots (2026-11-21 to 2026-11-27), :green_circle: +10.57% compounded.
+- [POLICYBZR](https://www.screener.in/company/POLICYBZR): 4 consecutive snapshots (2026-11-24 to 2026-11-27), :green_circle: +21.81% compounded.
 - [INTELLECT](https://www.screener.in/company/INTELLECT): 4 consecutive snapshots (2026-11-21 to 2026-11-26), :green_circle: +17.52% compounded.
+- [TCS](https://www.screener.in/company/TCS): 4 consecutive snapshots (2026-11-24 to 2026-11-27), :green_circle: +15.03% compounded.
 - [MSUMI](https://www.screener.in/company/MSUMI): 4 consecutive snapshots (2026-11-18 to 2026-11-21), :green_circle: +13.64% compounded.
 - [IDFCFIRSTB](https://www.screener.in/company/IDFCFIRSTB): 4 consecutive snapshots (2026-11-17 to 2026-11-20), :green_circle: +12.97% compounded.
+- [LAURUSLABS](https://www.screener.in/company/LAURUSLABS): 4 consecutive snapshots (2026-11-24 to 2026-11-27), :green_circle: +12.79% compounded.
+- [COHANCE](https://www.screener.in/company/COHANCE): 4 consecutive snapshots (2026-11-24 to 2026-11-27), :green_circle: +11.66% compounded.
 - [EXIDEIND](https://www.screener.in/company/EXIDEIND): 4 consecutive snapshots (2026-11-18 to 2026-11-21), :green_circle: +10.46% compounded.
-- [LICHSGFIN](https://www.screener.in/company/LICHSGFIN): 4 consecutive snapshots (2026-11-12 to 2026-11-18), :green_circle: +10.18% compounded.
-- [WELSPUNLIV](https://www.screener.in/company/WELSPUNLIV): 4 consecutive snapshots (2026-11-21 to 2026-11-26), :green_circle: +10.06% compounded.
-- [BANKINDIA](https://www.screener.in/company/BANKINDIA): 4 consecutive snapshots (2026-11-18 to 2026-11-21), :green_circle: +9.81% compounded.
-- [MPHASIS](https://www.screener.in/company/MPHASIS): 4 consecutive snapshots (2026-11-21 to 2026-11-26), :green_circle: +9.66% compounded.
-- [TORNTPHARM](https://www.screener.in/company/TORNTPHARM): 4 consecutive snapshots (2026-11-21 to 2026-11-26), :green_circle: +7.85% compounded.
 
 **Multi-day losers:** Consecutive appearances in the saved top-100 loser snapshots; returns are compounded.
 
-- [HFCL](https://www.screener.in/company/HFCL): 10 consecutive snapshots (2026-11-12 to 2026-11-26), :red_circle: -29.64% compounded.
+- [HFCL](https://www.screener.in/company/HFCL): 10 consecutive snapshots (2026-11-13 to 2026-11-27), :red_circle: -31.22% compounded.
 - [STLTECH](https://www.screener.in/company/STLTECH): 8 consecutive snapshots (2026-11-17 to 2026-11-26), :red_circle: -28.39% compounded.
-- [TTML](https://www.screener.in/company/TTML): 6 consecutive snapshots (2026-11-19 to 2026-11-26), :red_circle: -13.50% compounded.
+- [TTML](https://www.screener.in/company/TTML): 7 consecutive snapshots (2026-11-19 to 2026-11-27), :red_circle: -16.88% compounded.
 - [APLAPOLLO](https://www.screener.in/company/APLAPOLLO): 5 consecutive snapshots (2026-11-20 to 2026-11-26), :red_circle: -46.24% compounded.
 - [INOXWIND](https://www.screener.in/company/INOXWIND): 5 consecutive snapshots (2026-11-20 to 2026-11-26), :red_circle: -11.83% compounded.
 - [JWL](https://www.screener.in/company/JWL): 5 consecutive snapshots (2026-11-19 to 2026-11-25), :red_circle: -10.16% compounded.
