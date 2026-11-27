@@ -4,7 +4,7 @@
   "source_url": "https://www.nseindia.com/companies-listing/corporate-filings-event-calendar",
   "timezone": "Asia/Kolkata",
   "retention": "unlimited",
-  "updated_at": "2026-11-27T01:14:41+05:30",
+  "updated_at": "2026-11-28T01:04:53+05:30",
   "data": [
     {
       "event_date": "2026-11-12",
@@ -6739,6 +6739,32 @@
       "attachment_url": "https://nsearchives.nseindia.in/corporate/MONO_21112026122638_Intimation.pdf",
       "ixbrl_url": null,
       "captured_at": "2026-11-24T03:39:45+05:30"
+    },
+    {
+      "event_date": "2026-11-30",
+      "market_segment": "sme",
+      "symbol": "ANYA",
+      "company_name": "Anya Polytech & Fertilizers Limited",
+      "purpose": "Board Meeting Intimation",
+      "details": "Anya Polytech & Fertilizers Limited has informed the Exchange about Board Meeting to be held on 30-Nov-2026 to inter-alia consider and approve the Unaudited Financial results of the Company for the Half Yearly ended September 2027 .",
+      "announcement_timestamp": "27-Nov-2026 17:30:42",
+      "isin": "80844",
+      "attachment_url": "https://nsearchives.nseindia.in/corporate/xbrl/PRIOR_INTIMATION_24197_WebXMLFile_20261127_173040537.xml",
+      "ixbrl_url": "https://nsearchives.nseindia.in/corporate/ixbrl/PRIOR_INTIMATION_24197_20261127_173040573_WEB.html",
+      "captured_at": "2026-11-28T01:04:53+05:30"
+    },
+    {
+      "event_date": "2026-11-30",
+      "market_segment": "sme",
+      "symbol": "ANYA",
+      "company_name": "Anya Polytech & Fertilizers Limited",
+      "purpose": "Financial Results/Other business matters",
+      "details": "ANYA : 30-Nov-2026 :  The Company has informed the Exchange that a Board meeting to be held on December 15, 2026 has been re-scheduled. Further, the Company has informed the Exchange that the meeting of the Board of Directors of the Company will be held on November 30, 2026, To consider and approve the financial results for the period ended September 30, 2026 and other business matters",
+      "announcement_timestamp": "27-Nov-2026 17:17:46",
+      "isin": "106872945",
+      "attachment_url": "https://nsearchives.nseindia.in/corporate/ANYAPOLY_27112026171706_Anya_SE_Intimation_Preponed_and_Rescheduling_of_BM_30112026_.pdf",
+      "ixbrl_url": null,
+      "captured_at": "2026-11-28T01:04:53+05:30"
     },
     {
       "event_date": "2026-11-30",
